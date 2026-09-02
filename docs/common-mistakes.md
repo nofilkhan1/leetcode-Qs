@@ -5,3 +5,6 @@ Mistakes actually made while solving.
 ## Day 1
 
 sorting first and losing the original indices.
+## Day 2
+
+comparing characters without lowercasing them first.
