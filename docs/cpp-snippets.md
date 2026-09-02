@@ -7,3 +7,8 @@ Small pieces of code worth remembering.
 ```cpp
 unordered_map<int,int> seen;
 ```
+## Day 2 - Two pointers
+
+```cpp
+while (l < r && !isalnum(s[l])) l++;
+```
