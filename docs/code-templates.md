@@ -7,3 +7,8 @@ A line worth keeping.
 ```cpp
 unordered_map<int,int> seen;
 ```
+## Day 2
+
+```cpp
+while (l < r && !isalnum(s[l])) l++;
+```
