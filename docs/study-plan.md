@@ -5,3 +5,6 @@ One topic a day, recorded as it happens.
 ## Day 1 - Array basics
 
 Goal: finish the Array 101 explore card.
+## Day 2 - Two pointers
+
+Goal: solve two two-pointer problems.
