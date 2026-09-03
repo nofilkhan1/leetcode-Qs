@@ -12,3 +12,8 @@ unordered_map<int,int> seen;
 ```cpp
 while (l < r && !isalnum(s[l])) l++;
 ```
+## Day 3
+
+```cpp
+int area = min(h[l], h[r]) * (r - l);
+```
