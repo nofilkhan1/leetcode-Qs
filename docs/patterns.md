@@ -8,3 +8,6 @@ Practised through 1. Two Sum.
 ## Day 2 - shrink from both ends
 
 Practised through 125. Valid Palindrome.
+## Day 3 - greedy pointer movement
+
+Practised through 11. Container With Most Water.
