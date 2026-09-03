@@ -4,3 +4,4 @@
 |-----|--------|
 | 1 | 1 problem, 25 min, first try |
 | 2 | 2 problems, 40 min |
+| 3 | 1 problem, 35 min, second try |
