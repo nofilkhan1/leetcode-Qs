@@ -8,3 +8,6 @@ sorting first and losing the original indices.
 ## Day 2
 
 comparing characters without lowercasing them first.
+## Day 3
+
+moving both pointers at the same time.
