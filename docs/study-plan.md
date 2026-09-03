@@ -8,3 +8,6 @@ Goal: finish the Array 101 explore card.
 ## Day 2 - Two pointers
 
 Goal: solve two two-pointer problems.
+## Day 3 - Two pointers on arrays
+
+Goal: redo problem 11 without opening the notes.
