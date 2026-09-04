@@ -17,3 +17,8 @@ while (l < r && !isalnum(s[l])) l++;
 ```cpp
 int area = min(h[l], h[r]) * (r - l);
 ```
+## Day 4
+
+```cpp
+seen[s[r]] = r + 1;
+```
