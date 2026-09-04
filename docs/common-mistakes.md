@@ -11,3 +11,6 @@ comparing characters without lowercasing them first.
 ## Day 3
 
 moving both pointers at the same time.
+## Day 4
+
+resetting the whole window instead of shrinking it.
