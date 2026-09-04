@@ -11,3 +11,6 @@ Practised through 125. Valid Palindrome.
 ## Day 3 - greedy pointer movement
 
 Practised through 11. Container With Most Water.
+## Day 4 - variable size window
+
+Practised through 3. Longest Substring Without Repeating Characters.
