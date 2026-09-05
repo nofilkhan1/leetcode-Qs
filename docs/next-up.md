@@ -6,3 +6,4 @@ What tomorrow starts with.
 - **Day 2:** redo container with most water cold
 - **Day 3:** sliding window template from memory
 - **Day 4:** prefix sums for subarray sums
+- **Day 5:** binary search loop invariants
