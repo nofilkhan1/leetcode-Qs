@@ -6,3 +6,4 @@ Questions to answer out loud tomorrow.
 - **Day 2:** when is a hash map worse than two pointers?
 - **Day 3:** can greedy solve every two pointer problem?
 - **Day 4:** when does a window need a deque?
+- **Day 5:** why do prefix sums need contiguity?
