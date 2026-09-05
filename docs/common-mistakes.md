@@ -14,3 +14,6 @@ moving both pointers at the same time.
 ## Day 4
 
 resetting the whole window instead of shrinking it.
+## Day 5
+
+assuming every number in the array is positive.
