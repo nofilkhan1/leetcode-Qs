@@ -6,3 +6,4 @@ A short note from the end of each session.
 - Day 2: pointers felt natural today
 - Day 3: greedy proofs are still fuzzy
 - Day 4: the template clicked today
+- Day 5: seeding the zero prefix at the start matters
