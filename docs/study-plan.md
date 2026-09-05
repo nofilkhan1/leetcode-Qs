@@ -14,3 +14,6 @@ Goal: redo problem 11 without opening the notes.
 ## Day 4 - Sliding window
 
 Goal: write the window template from memory.
+## Day 5 - Prefix sums
+
+Goal: solve one subarray sum problem.
