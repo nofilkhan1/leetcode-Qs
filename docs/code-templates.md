@@ -22,3 +22,8 @@ int area = min(h[l], h[r]) * (r - l);
 ```cpp
 seen[s[r]] = r + 1;
 ```
+## Day 5
+
+```cpp
+unordered_map<int,int> count{{0,1}};
+```
