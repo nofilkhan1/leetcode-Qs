@@ -14,3 +14,6 @@ Practised through 11. Container With Most Water.
 ## Day 4 - variable size window
 
 Practised through 3. Longest Substring Without Repeating Characters.
+## Day 5 - prefix sum with a map
+
+Practised through 560. Subarray Sum Equals K.
