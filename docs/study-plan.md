@@ -17,3 +17,6 @@ Goal: write the window template from memory.
 ## Day 5 - Prefix sums
 
 Goal: solve one subarray sum problem.
+## Day 6 - Binary search
+
+Goal: get the loop invariant right.
