@@ -7,3 +7,4 @@ What clicked today.
 - **Day 3:** greedy needs a proof that the discarded option can never win
 - **Day 4:** moving left to lastSeen plus one keeps the window valid in one step
 - **Day 5:** subarray problems often become lookup problems
+- **Day 6:** write the invariant and the code follows
