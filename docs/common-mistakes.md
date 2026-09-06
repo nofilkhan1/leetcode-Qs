@@ -17,3 +17,6 @@ resetting the whole window instead of shrinking it.
 ## Day 5
 
 assuming every number in the array is positive.
+## Day 6
+
+computing mid as (l + r) / 2 and overflowing.
