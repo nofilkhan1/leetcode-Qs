@@ -7,3 +7,4 @@ The one rule kept every day.
 - **Day 3:** write one line explaining why the move is safe
 - **Day 4:** draw the window on paper once
 - **Day 5:** map the problem onto a known pattern first
+- **Day 6:** write the loop invariant as a comment
