@@ -7,3 +7,4 @@ One term a day.
 - **Day 3:** greedy - take the locally best move and never look back
 - **Day 4:** window - a contiguous range tracked by two indices
 - **Day 5:** prefix sum - cumulative totals that answer range sums fast
+- **Day 6:** invariant - a condition that stays true across loop iterations
