@@ -7,3 +7,4 @@
 | 3 | 11. Container With Most Water | first try |
 | 4 | 3. Longest Substring Without Repeating Characters | second try |
 | 5 | 560. Subarray Sum Equals K | after a hint |
+| 6 | 704. Binary Search | first try |
