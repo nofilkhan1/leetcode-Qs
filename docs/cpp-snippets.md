@@ -27,3 +27,8 @@ seen[s[r]] = r + 1;
 ```cpp
 unordered_map<int,int> count{{0,1}};
 ```
+## Day 6 - Binary search
+
+```cpp
+int mid = l + (r - l) / 2;
+```
