@@ -17,3 +17,6 @@ Practised through 3. Longest Substring Without Repeating Characters.
 ## Day 5 - prefix sum with a map
 
 Practised through 560. Subarray Sum Equals K.
+## Day 6 - binary search on a sorted array
+
+Practised through 704. Binary Search.
