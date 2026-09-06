@@ -7,3 +7,4 @@ One win a day, big or small.
 - Day 3: wrote the reason for the move in a comment
 - Day 4: template written without notes
 - Day 5: understood why the zero seed is needed
+- Day 6: no off by one mistakes today
