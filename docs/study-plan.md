@@ -20,3 +20,6 @@ Goal: solve one subarray sum problem.
 ## Day 6 - Binary search
 
 Goal: get the loop invariant right.
+## Day 7 - Rotated binary search
+
+Goal: solve rotated search twice.
