@@ -8,3 +8,4 @@
 | 4 | 3. Longest Substring Without Repeating Characters | second try |
 | 5 | 560. Subarray Sum Equals K | after a hint |
 | 6 | 704. Binary Search | first try |
+| 7 | 33. Search in Rotated Sorted Array | second try |
