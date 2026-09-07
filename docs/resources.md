@@ -8,3 +8,4 @@ Where each day's material came from.
 - Day 4 (Sliding window): NeetCode - sliding window
 - Day 5 (Prefix sums): LeetCode discuss top answer
 - Day 6 (Binary search): Algorithms - binary search
+- Day 7 (Rotated binary search): LeetCode 33 editorial
