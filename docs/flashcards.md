@@ -8,3 +8,4 @@ One question a day, answered out loud the next morning.
 - **Day 4:** Q: what shrinks a variable window? A: a constraint violation
 - **Day 5:** Q: what does prefix[k] minus prefix[j] give? A: the sum of the range
 - **Day 6:** Q: which mid avoids overflow? A: l plus (r minus l) divided by two
+- **Day 7:** Q: how do you find the sorted half? A: compare l with mid
