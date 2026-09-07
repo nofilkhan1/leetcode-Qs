@@ -8,3 +8,4 @@
 | 4 | Sliding window | 3. Longest Substring Without Repeating Characters | variable size window |
 | 5 | Prefix sums | 560. Subarray Sum Equals K | prefix sum with a map |
 | 6 | Binary search | 704. Binary Search | binary search on a sorted array |
+| 7 | Rotated binary search | 33. Search in Rotated Sorted Array | search on a broken invariant |
