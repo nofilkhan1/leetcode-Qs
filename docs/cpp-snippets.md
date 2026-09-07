@@ -32,3 +32,8 @@ unordered_map<int,int> count{{0,1}};
 ```cpp
 int mid = l + (r - l) / 2;
 ```
+## Day 7 - Rotated binary search
+
+```cpp
+if (nums[l] <= nums[mid]) { ... }
+```
