@@ -8,3 +8,4 @@ The bug of the day and how it was fixed.
 - **Day 4:** reset the whole window instead of shifting left to lastSeen + 1
 - **Day 5:** forgot the initial zero entry: seed the map with zero to one
 - **Day 6:** wrote l < r but returned r: keep the bounds consistent
+- **Day 7:** checked the wrong half for the target: test which side is sorted first
