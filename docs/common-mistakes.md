@@ -20,3 +20,6 @@ assuming every number in the array is positive.
 ## Day 6
 
 computing mid as (l + r) / 2 and overflowing.
+## Day 7
+
+comparing against the wrong bound.
