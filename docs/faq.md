@@ -8,3 +8,4 @@ One question a day, answered the next morning.
 **Day 4 (Sliding window):** When does a window turn into a deque problem?
 **Day 5 (Prefix sums):** Why does the prefix trick need contiguous ranges?
 **Day 6 (Binary search):** Inclusive or exclusive right bound?
+**Day 7 (Rotated binary search):** How do you prove one half is always sorted?
