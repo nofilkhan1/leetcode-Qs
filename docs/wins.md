@@ -8,3 +8,4 @@ One win a day, big or small.
 - Day 4: template written without notes
 - Day 5: understood why the zero seed is needed
 - Day 6: no off by one mistakes today
+- Day 7: solved it twice in a row
