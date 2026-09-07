@@ -20,3 +20,6 @@ Practised through 560. Subarray Sum Equals K.
 ## Day 6 - binary search on a sorted array
 
 Practised through 704. Binary Search.
+## Day 7 - search on a broken invariant
+
+Practised through 33. Search in Rotated Sorted Array.
