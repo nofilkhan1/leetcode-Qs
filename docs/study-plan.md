@@ -23,3 +23,6 @@ Goal: get the loop invariant right.
 ## Day 7 - Rotated binary search
 
 Goal: solve rotated search twice.
+## Day 8 - Linked list basics
+
+Goal: reverse a list without notes.
