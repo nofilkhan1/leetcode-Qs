@@ -9,3 +9,4 @@
 | 5 | Prefix sums | 560. Subarray Sum Equals K | prefix sum with a map |
 | 6 | Binary search | 704. Binary Search | binary search on a sorted array |
 | 7 | Rotated binary search | 33. Search in Rotated Sorted Array | search on a broken invariant |
+| 8 | Linked list basics | 206. Reverse Linked List | three pointer reversal |
