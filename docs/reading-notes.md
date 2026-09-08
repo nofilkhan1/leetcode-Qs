@@ -9,3 +9,4 @@ What clicked today.
 - **Day 5:** subarray problems often become lookup problems
 - **Day 6:** write the invariant and the code follows
 - **Day 7:** one half is always sorted, that is the hook
+- **Day 8:** recursion reverses the list on the way back up
