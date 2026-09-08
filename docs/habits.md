@@ -9,3 +9,4 @@ The one rule kept every day.
 - **Day 5:** map the problem onto a known pattern first
 - **Day 6:** write the loop invariant as a comment
 - **Day 7:** test with the pivot at index zero
+- **Day 8:** name every pointer before touching it
