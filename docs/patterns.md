@@ -23,3 +23,6 @@ Practised through 704. Binary Search.
 ## Day 7 - search on a broken invariant
 
 Practised through 33. Search in Rotated Sorted Array.
+## Day 8 - three pointer reversal
+
+Practised through 206. Reverse Linked List.
