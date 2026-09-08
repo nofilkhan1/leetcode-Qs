@@ -37,3 +37,8 @@ int mid = l + (r - l) / 2;
 ```cpp
 if (nums[l] <= nums[mid]) { ... }
 ```
+## Day 8 - Linked list basics
+
+```cpp
+ListNode* next = curr->next;
+```
