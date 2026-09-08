@@ -23,3 +23,6 @@ computing mid as (l + r) / 2 and overflowing.
 ## Day 7
 
 comparing against the wrong bound.
+## Day 8
+
+forgetting to save next before rewiring.
