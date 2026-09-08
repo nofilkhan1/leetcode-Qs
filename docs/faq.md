@@ -9,3 +9,4 @@ One question a day, answered the next morning.
 **Day 5 (Prefix sums):** Why does the prefix trick need contiguous ranges?
 **Day 6 (Binary search):** Inclusive or exclusive right bound?
 **Day 7 (Rotated binary search):** How do you prove one half is always sorted?
+**Day 8 (Linked list basics):** Why does head->next have to become NULL?
