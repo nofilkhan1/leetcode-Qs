@@ -9,3 +9,4 @@ One practical tip a day.
 - **Day 5 (Prefix sums):** keep a running prefix sum and count complements.
 - **Day 6 (Binary search):** keep the search range inclusive on both ends.
 - **Day 7 (Rotated binary search):** find the sorted half, then check the range.
+- **Day 8 (Linked list basics):** keep prev, curr and next named out loud.
