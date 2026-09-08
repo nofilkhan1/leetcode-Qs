@@ -9,3 +9,4 @@
 | 5 | 1 problem, 45 min, after a hint |
 | 6 | 2 problems, 30 min |
 | 7 | 1 problem, 50 min, second try |
+| 8 | 2 problems, 35 min |
