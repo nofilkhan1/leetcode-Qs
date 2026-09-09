@@ -10,3 +10,4 @@ The bug of the day and how it was fixed.
 - **Day 6:** wrote l < r but returned r: keep the bounds consistent
 - **Day 7:** checked the wrong half for the target: test which side is sorted first
 - **Day 8:** lost the rest of the list by overwriting next: save next first
+- **Day 9:** special cased a null result: let the dummy absorb it
