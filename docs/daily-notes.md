@@ -10,3 +10,4 @@ A short note from the end of each session.
 - Day 6: writing the invariant out made it obvious
 - Day 7: the sorted half trick is solid now
 - Day 8: wrote the recursive version as well
+- Day 9: dummy heads are worth the extra line
