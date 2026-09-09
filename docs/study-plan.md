@@ -26,3 +26,6 @@ Goal: solve rotated search twice.
 ## Day 8 - Linked list basics
 
 Goal: reverse a list without notes.
+## Day 9 - Merging lists
+
+Goal: use a dummy head every time.
