@@ -10,3 +10,4 @@ The one rule kept every day.
 - **Day 6:** write the loop invariant as a comment
 - **Day 7:** test with the pivot at index zero
 - **Day 8:** name every pointer before touching it
+- **Day 9:** reach for a dummy head when building a list
