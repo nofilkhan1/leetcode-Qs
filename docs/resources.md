@@ -10,3 +10,4 @@ Where each day's material came from.
 - Day 6 (Binary search): Algorithms - binary search
 - Day 7 (Rotated binary search): LeetCode 33 editorial
 - Day 8 (Linked list basics): LeetCode - linked lists
+- Day 9 (Merging lists): NeetCode - merge two lists
