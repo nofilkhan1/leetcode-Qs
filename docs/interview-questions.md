@@ -10,3 +10,4 @@ Questions to answer out loud tomorrow.
 - **Day 6:** inclusive or exclusive bounds, which is safer?
 - **Day 7:** how do you prove a half is sorted?
 - **Day 8:** why clear head->next in the recursive version?
+- **Day 9:** what else uses a dummy head?
