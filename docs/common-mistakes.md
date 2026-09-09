@@ -26,3 +26,6 @@ comparing against the wrong bound.
 ## Day 8
 
 forgetting to save next before rewiring.
+## Day 9
+
+special casing an empty result list.
