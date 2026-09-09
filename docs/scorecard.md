@@ -10,3 +10,4 @@
 | 6 | 2 problems, 30 min |
 | 7 | 1 problem, 50 min, second try |
 | 8 | 2 problems, 35 min |
+| 9 | 1 problem, 15 min, first try |
