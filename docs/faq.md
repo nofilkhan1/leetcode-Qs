@@ -10,3 +10,4 @@ One question a day, answered the next morning.
 **Day 6 (Binary search):** Inclusive or exclusive right bound?
 **Day 7 (Rotated binary search):** How do you prove one half is always sorted?
 **Day 8 (Linked list basics):** Why does head->next have to become NULL?
+**Day 9 (Merging lists):** What does the dummy node actually save?
