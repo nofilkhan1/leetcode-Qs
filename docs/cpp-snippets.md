@@ -42,3 +42,8 @@ if (nums[l] <= nums[mid]) { ... }
 ```cpp
 ListNode* next = curr->next;
 ```
+## Day 9 - Merging lists
+
+```cpp
+ListNode dummy, *tail = &dummy;
+```
