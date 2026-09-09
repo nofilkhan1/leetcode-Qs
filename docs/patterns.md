@@ -26,3 +26,6 @@ Practised through 33. Search in Rotated Sorted Array.
 ## Day 8 - three pointer reversal
 
 Practised through 206. Reverse Linked List.
+## Day 9 - dummy head merge
+
+Practised through 21. Merge Two Sorted Lists.
