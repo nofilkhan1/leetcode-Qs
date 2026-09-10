@@ -47,3 +47,8 @@ ListNode* next = curr->next;
 ```cpp
 ListNode dummy, *tail = &dummy;
 ```
+## Day 10 - Cycle detection
+
+```cpp
+while (fast && fast->next) { ... }
+```
