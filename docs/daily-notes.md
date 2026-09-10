@@ -11,3 +11,4 @@ A short note from the end of each session.
 - Day 7: the sorted half trick is solid now
 - Day 8: wrote the recursive version as well
 - Day 9: dummy heads are worth the extra line
+- Day 10: day 10, a third of the way there
