@@ -29,3 +29,6 @@ forgetting to save next before rewiring.
 ## Day 9
 
 special casing an empty result list.
+## Day 10
+
+returning true when fast is already null.
