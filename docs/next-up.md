@@ -11,3 +11,4 @@ What tomorrow starts with.
 - **Day 7:** linked list reversal
 - **Day 8:** merge two lists with a dummy head
 - **Day 9:** cycle detection
+- **Day 10:** nth node from the end
