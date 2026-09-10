@@ -29,3 +29,6 @@ Goal: reverse a list without notes.
 ## Day 9 - Merging lists
 
 Goal: use a dummy head every time.
+## Day 10 - Cycle detection
+
+Goal: explain the Floyd algorithm out loud.
