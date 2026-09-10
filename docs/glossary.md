@@ -11,3 +11,4 @@ One term a day.
 - **Day 7:** rotated array - sorted array cut and pasted onto the end
 - **Day 8:** reversal - rewiring next so the list runs backwards
 - **Day 9:** dummy head - a throwaway node that anchors the result
+- **Day 10:** Floyd's algorithm - slow and fast pointers for cycle detection
