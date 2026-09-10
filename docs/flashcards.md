@@ -11,3 +11,4 @@ One question a day, answered out loud the next morning.
 - **Day 7:** Q: how do you find the sorted half? A: compare l with mid
 - **Day 8:** Q: what three pointers reverse a list? A: prev, curr and next
 - **Day 9:** Q: what does a dummy head remove? A: every empty case
+- **Day 10:** Q: who meets first in a cycle? A: they meet inside it
