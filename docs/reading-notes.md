@@ -11,3 +11,4 @@ What clicked today.
 - **Day 7:** one half is always sorted, that is the hook
 - **Day 8:** recursion reverses the list on the way back up
 - **Day 9:** one extra node deletes three branches
+- **Day 10:** a speed ratio of two guarantees a meeting
