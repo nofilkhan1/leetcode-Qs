@@ -11,3 +11,4 @@ One question a day, answered the next morning.
 **Day 7 (Rotated binary search):** How do you prove one half is always sorted?
 **Day 8 (Linked list basics):** Why does head->next have to become NULL?
 **Day 9 (Merging lists):** What does the dummy node actually save?
+**Day 10 (Cycle detection):** Why do the two pointers meet inside a cycle?
