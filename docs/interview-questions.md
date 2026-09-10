@@ -11,3 +11,4 @@ Questions to answer out loud tomorrow.
 - **Day 7:** how do you prove a half is sorted?
 - **Day 8:** why clear head->next in the recursive version?
 - **Day 9:** what else uses a dummy head?
+- **Day 10:** why do the two pointers always meet?
