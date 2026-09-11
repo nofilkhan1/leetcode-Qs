@@ -12,3 +12,4 @@ One term a day.
 - **Day 8:** reversal - rewiring next so the list runs backwards
 - **Day 9:** dummy head - a throwaway node that anchors the result
 - **Day 10:** Floyd's algorithm - slow and fast pointers for cycle detection
+- **Day 11:** gap pointer - offset by k to find the node from the end
