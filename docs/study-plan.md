@@ -32,3 +32,6 @@ Goal: use a dummy head every time.
 ## Day 10 - Cycle detection
 
 Goal: explain the Floyd algorithm out loud.
+## Day 11 - Two pointers on lists
+
+Goal: solve it with a gap of k.
