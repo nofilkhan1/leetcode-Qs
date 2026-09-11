@@ -12,3 +12,4 @@ One practical tip a day.
 - **Day 8 (Linked list basics):** keep prev, curr and next named out loud.
 - **Day 9 (Merging lists):** a dummy head removes every edge case.
 - **Day 10 (Cycle detection):** slow moves one step, fast moves two.
+- **Day 11 (Two pointers on lists):** advance the second pointer k steps first.
