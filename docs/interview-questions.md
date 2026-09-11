@@ -12,3 +12,4 @@ Questions to answer out loud tomorrow.
 - **Day 8:** why clear head->next in the recursive version?
 - **Day 9:** what else uses a dummy head?
 - **Day 10:** why do the two pointers always meet?
+- **Day 11:** why is one pass enough for this?
