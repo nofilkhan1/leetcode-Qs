@@ -32,3 +32,6 @@ special casing an empty result list.
 ## Day 10
 
 returning true when fast is already null.
+## Day 11
+
+deleting a node without keeping its predecessor.
