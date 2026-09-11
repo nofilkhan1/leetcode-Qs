@@ -12,3 +12,4 @@ The bug of the day and how it was fixed.
 - **Day 8:** lost the rest of the list by overwriting next: save next first
 - **Day 9:** special cased a null result: let the dummy absorb it
 - **Day 10:** dereferenced a null fast pointer: check fast and fast->next first
+- **Day 11:** forgot the list can be exactly n long: handle a null fast
