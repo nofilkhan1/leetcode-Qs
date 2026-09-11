@@ -52,3 +52,8 @@ ListNode dummy, *tail = &dummy;
 ```cpp
 while (fast && fast->next) { ... }
 ```
+## Day 11
+
+```cpp
+for (int i = 0; i < n; i++) fast = fast->next;
+```
