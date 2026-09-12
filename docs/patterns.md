@@ -35,3 +35,6 @@ Practised through 141. Linked List Cycle.
 ## Day 11 - gap of k pointers
 
 Practised through 19. Remove Nth Node From End of List.
+## Day 12 - carry propagation
+
+Practised through 2. Add Two Numbers.
