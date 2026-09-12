@@ -13,3 +13,4 @@
 | 9 | Merging lists | 21. Merge Two Sorted Lists | dummy head merge |
 | 10 | Cycle detection | 141. Linked List Cycle | tortoise and hare |
 | 11 | Two pointers on lists | 19. Remove Nth Node From End of List | gap of k pointers |
+| 12 | Arithmetic on lists | 2. Add Two Numbers | carry propagation |
