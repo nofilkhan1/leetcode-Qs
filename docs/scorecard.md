@@ -13,3 +13,4 @@
 | 9 | 1 problem, 15 min, first try |
 | 10 | 2 problems, 30 min |
 | 11 | 1 problem, 25 min, first try |
+| 12 | 1 problem, 30 min, second try |
