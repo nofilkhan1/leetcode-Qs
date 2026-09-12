@@ -35,3 +35,6 @@ Goal: explain the Floyd algorithm out loud.
 ## Day 11 - Two pointers on lists
 
 Goal: solve it with a gap of k.
+## Day 12 - Arithmetic on lists
+
+Goal: mismatched lengths handled cleanly.
