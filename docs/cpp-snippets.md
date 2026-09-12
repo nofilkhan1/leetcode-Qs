@@ -57,3 +57,8 @@ while (fast && fast->next) { ... }
 ```cpp
 for (int i = 0; i < n; i++) fast = fast->next;
 ```
+## Day 12 - Arithmetic on lists
+
+```cpp
+int sum = a + b + carry;
+```
