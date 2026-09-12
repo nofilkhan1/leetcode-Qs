@@ -13,3 +13,4 @@ A short note from the end of each session.
 - Day 9: dummy heads are worth the extra line
 - Day 10: day 10, a third of the way there
 - Day 11: the dummy head saved the head removal case
+- Day 12: carry loops need careful termination
