@@ -13,3 +13,4 @@ Where each day's material came from.
 - Day 9 (Merging lists): NeetCode - merge two lists
 - Day 10 (Cycle detection): Wikipedia - cycle detection
 - Day 11 (Two pointers on lists): LeetCode 19 editorial
+- Day 12 (Arithmetic on lists): LeetCode 2
