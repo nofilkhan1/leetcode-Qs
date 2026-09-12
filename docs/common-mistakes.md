@@ -35,3 +35,6 @@ returning true when fast is already null.
 ## Day 11
 
 deleting a node without keeping its predecessor.
+## Day 12
+
+dropping the carry one step too early.
