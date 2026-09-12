@@ -13,3 +13,4 @@ One term a day.
 - **Day 9:** dummy head - a throwaway node that anchors the result
 - **Day 10:** Floyd's algorithm - slow and fast pointers for cycle detection
 - **Day 11:** gap pointer - offset by k to find the node from the end
+- **Day 12:** carry - the overflow digit pushed into the next node
