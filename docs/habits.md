@@ -13,3 +13,4 @@ The one rule kept every day.
 - **Day 9:** reach for a dummy head when building a list
 - **Day 10:** check both pointers before dereferencing
 - **Day 11:** handle the shortest case first
+- **Day 12:** write the exit condition before the body
