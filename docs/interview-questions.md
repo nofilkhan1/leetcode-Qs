@@ -14,3 +14,4 @@ Questions to answer out loud tomorrow.
 - **Day 10:** why do the two pointers always meet?
 - **Day 11:** why is one pass enough for this?
 - **Day 12:** how do you handle unequal lengths?
+- **Day 13:** why does the second phase work?
