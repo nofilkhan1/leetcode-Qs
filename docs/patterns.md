@@ -38,3 +38,6 @@ Practised through 19. Remove Nth Node From End of List.
 ## Day 12 - carry propagation
 
 Practised through 2. Add Two Numbers.
+## Day 13 - Floyd second phase
+
+Practised through 142. Linked List Cycle II.
