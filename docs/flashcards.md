@@ -14,3 +14,4 @@ One question a day, answered out loud the next morning.
 - **Day 10:** Q: who meets first in a cycle? A: they meet inside it
 - **Day 11:** Q: how far apart are the two pointers? A: a gap of n
 - **Day 12:** Q: when does the carry loop end? A: when both lists and the carry are done
+- **Day 13:** Q: what finds the cycle entry? A: reset one pointer to head
