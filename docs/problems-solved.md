@@ -14,3 +14,4 @@
 | 10 | 141. Linked List Cycle | second try |
 | 11 | 19. Remove Nth Node From End of List | after a hint |
 | 12 | 2. Add Two Numbers | first try |
+| 13 | 142. Linked List Cycle II | second try |
