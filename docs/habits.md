@@ -14,3 +14,4 @@ The one rule kept every day.
 - **Day 10:** check both pointers before dereferencing
 - **Day 11:** handle the shortest case first
 - **Day 12:** write the exit condition before the body
+- **Day 13:** prove the claim before coding it
