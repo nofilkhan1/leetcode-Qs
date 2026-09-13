@@ -14,3 +14,4 @@ One practical tip a day.
 - **Day 10 (Cycle detection):** slow moves one step, fast moves two.
 - **Day 11 (Two pointers on lists):** advance the second pointer k steps first.
 - **Day 12 (Arithmetic on lists):** loop while either list or the carry lives.
+- **Day 13 (Cycle entry point):** reset one pointer to head and step both by one.
