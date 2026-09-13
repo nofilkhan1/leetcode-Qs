@@ -14,3 +14,4 @@ One win a day, big or small.
 - Day 10: day 10 done, a third of the month
 - Day 11: handled the head removal case first try
 - Day 12: no nodes leaked in the result list
+- Day 13: proved it on paper without looking at notes
