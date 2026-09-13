@@ -14,3 +14,4 @@ A short note from the end of each session.
 - Day 10: day 10, a third of the way there
 - Day 11: the dummy head saved the head removal case
 - Day 12: carry loops need careful termination
+- Day 13: finally proved it with the distance algebra
