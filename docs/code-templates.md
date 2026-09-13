@@ -62,3 +62,8 @@ for (int i = 0; i < n; i++) fast = fast->next;
 ```cpp
 int sum = a + b + carry;
 ```
+## Day 13
+
+```cpp
+while (p1 != p2) { p1 = p1->next; p2 = p2->next; }
+```
