@@ -38,3 +38,6 @@ Goal: solve it with a gap of k.
 ## Day 12 - Arithmetic on lists
 
 Goal: mismatched lengths handled cleanly.
+## Day 13 - Cycle entry point
+
+Goal: derive the meeting point proof.
