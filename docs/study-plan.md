@@ -41,3 +41,6 @@ Goal: mismatched lengths handled cleanly.
 ## Day 13 - Cycle entry point
 
 Goal: derive the meeting point proof.
+## Day 14 - Stacks
+
+Goal: no recursion for a whole week.
