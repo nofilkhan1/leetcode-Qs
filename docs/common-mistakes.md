@@ -41,3 +41,6 @@ dropping the carry one step too early.
 ## Day 13
 
 assuming the meeting node is the entry.
+## Day 14
+
+checking the length before checking emptiness.
