@@ -15,3 +15,4 @@ A short note from the end of each session.
 - Day 11: the dummy head saved the head removal case
 - Day 12: carry loops need careful termination
 - Day 13: finally proved it with the distance algebra
+- Day 14: two weeks of streak kept alive
