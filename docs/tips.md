@@ -15,3 +15,4 @@ One practical tip a day.
 - **Day 11 (Two pointers on lists):** advance the second pointer k steps first.
 - **Day 12 (Arithmetic on lists):** loop while either list or the carry lives.
 - **Day 13 (Cycle entry point):** reset one pointer to head and step both by one.
+- **Day 14 (Stacks):** push opening brackets and match closing ones.
