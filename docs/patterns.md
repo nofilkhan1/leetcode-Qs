@@ -41,3 +41,6 @@ Practised through 2. Add Two Numbers.
 ## Day 13 - Floyd second phase
 
 Practised through 142. Linked List Cycle II.
+## Day 14 - stack matching
+
+Practised through 20. Valid Parentheses.
