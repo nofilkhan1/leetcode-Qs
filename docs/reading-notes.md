@@ -15,3 +15,4 @@ What clicked today.
 - **Day 11:** one pass beats two passes with the right gap
 - **Day 12:** the termination condition is the whole problem
 - **Day 13:** the distance algebra finally clicked
+- **Day 14:** matching problems are stack shaped
