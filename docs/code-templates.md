@@ -67,3 +67,8 @@ int sum = a + b + carry;
 ```cpp
 while (p1 != p2) { p1 = p1->next; p2 = p2->next; }
 ```
+## Day 14
+
+```cpp
+st.push(c);
+```
