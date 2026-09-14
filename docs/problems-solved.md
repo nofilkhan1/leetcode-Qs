@@ -15,3 +15,4 @@
 | 11 | 19. Remove Nth Node From End of List | after a hint |
 | 12 | 2. Add Two Numbers | first try |
 | 13 | 142. Linked List Cycle II | second try |
+| 14 | 20. Valid Parentheses | after a hint |
