@@ -15,3 +15,4 @@ One question a day, answered the next morning.
 **Day 11 (Two pointers on lists):** Why is one pass enough for this?
 **Day 12 (Arithmetic on lists):** When exactly does the loop stop?
 **Day 13 (Cycle entry point):** Why does the second phase find the entry?
+**Day 14 (Stacks):** Why is a stack the right structure here?
