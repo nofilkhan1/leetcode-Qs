@@ -15,3 +15,4 @@ One term a day.
 - **Day 11:** gap pointer - offset by k to find the node from the end
 - **Day 12:** carry - the overflow digit pushed into the next node
 - **Day 13:** entry node - where the tail reconnects to the cycle
+- **Day 14:** LIFO - the most recent item is served first
