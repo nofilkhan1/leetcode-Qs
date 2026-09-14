@@ -15,3 +15,4 @@ Where each day's material came from.
 - Day 11 (Two pointers on lists): LeetCode 19 editorial
 - Day 12 (Arithmetic on lists): LeetCode 2
 - Day 13 (Cycle entry point): Wikipedia - cycle detection
+- Day 14 (Stacks): LeetCode - stack
