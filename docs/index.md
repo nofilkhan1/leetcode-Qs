@@ -15,3 +15,4 @@
 | 11 | Two pointers on lists | 19. Remove Nth Node From End of List | gap of k pointers |
 | 12 | Arithmetic on lists | 2. Add Two Numbers | carry propagation |
 | 13 | Cycle entry point | 142. Linked List Cycle II | Floyd second phase |
+| 14 | Stacks | 20. Valid Parentheses | stack matching |
