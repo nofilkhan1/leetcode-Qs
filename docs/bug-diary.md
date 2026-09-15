@@ -16,3 +16,4 @@ The bug of the day and how it was fixed.
 - **Day 12:** dropped the final carry node: keep looping while carry is non zero
 - **Day 13:** assumed the meeting node was the entry: walk both from head and meet
 - **Day 14:** checked the size before checking emptiness: test empty first
+- **Day 15:** swapped the operand order on subtraction: pop b then a
