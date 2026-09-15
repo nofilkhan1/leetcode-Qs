@@ -16,3 +16,4 @@ The one rule kept every day.
 - **Day 12:** write the exit condition before the body
 - **Day 13:** prove the claim before coding it
 - **Day 14:** check emptiness before popping
+- **Day 15:** trace one example on paper first
