@@ -44,3 +44,6 @@ assuming the meeting node is the entry.
 ## Day 14
 
 checking the length before checking emptiness.
+## Day 15
+
+getting the operand order wrong on division.
