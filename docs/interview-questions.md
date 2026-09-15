@@ -16,3 +16,4 @@ Questions to answer out loud tomorrow.
 - **Day 12:** how do you handle unequal lengths?
 - **Day 13:** why does the second phase work?
 - **Day 14:** when is a queue better than a stack?
+- **Day 15:** how do you convert infix to postfix?
