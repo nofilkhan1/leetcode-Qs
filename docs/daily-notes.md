@@ -16,3 +16,4 @@ A short note from the end of each session.
 - Day 12: carry loops need careful termination
 - Day 13: finally proved it with the distance algebra
 - Day 14: two weeks of streak kept alive
+- Day 15: half the month done
