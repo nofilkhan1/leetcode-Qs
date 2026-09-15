@@ -16,3 +16,4 @@ One win a day, big or small.
 - Day 12: no nodes leaked in the result list
 - Day 13: proved it on paper without looking at notes
 - Day 14: two weeks of streak kept alive
+- Day 15: half the month complete
