@@ -44,3 +44,6 @@ Goal: derive the meeting point proof.
 ## Day 14 - Stacks
 
 Goal: no recursion for a whole week.
+## Day 15 - Expression stacks
+
+Goal: convert infix to postfix once.
