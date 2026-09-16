@@ -47,3 +47,6 @@ Goal: no recursion for a whole week.
 ## Day 15 - Expression stacks
 
 Goal: convert infix to postfix once.
+## Day 16 - Monotonic stacks
+
+Goal: solve it in a single pass.
