@@ -17,3 +17,4 @@ One practical tip a day.
 - **Day 13 (Cycle entry point):** reset one pointer to head and step both by one.
 - **Day 14 (Stacks):** push opening brackets and match closing ones.
 - **Day 15 (Expression stacks):** pop two operands for every operator.
+- **Day 16 (Monotonic stacks):** keep indices on the stack, not values.
