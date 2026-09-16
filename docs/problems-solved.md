@@ -17,3 +17,4 @@
 | 13 | 142. Linked List Cycle II | second try |
 | 14 | 20. Valid Parentheses | after a hint |
 | 15 | 150. Evaluate Reverse Polish Notation | first try |
+| 16 | 739. Daily Temperatures | second try |
