@@ -17,3 +17,4 @@ One question a day, answered out loud the next morning.
 - **Day 13:** Q: what finds the cycle entry? A: reset one pointer to head
 - **Day 14:** Q: which way does a stack grow? A: last in, first out
 - **Day 15:** Q: how many operands does an operator pop? A: two
+- **Day 16:** Q: what do you store in a monotonic stack? A: indices, not values
