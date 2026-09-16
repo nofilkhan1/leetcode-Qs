@@ -17,3 +17,4 @@ The one rule kept every day.
 - **Day 13:** prove the claim before coding it
 - **Day 14:** check emptiness before popping
 - **Day 15:** trace one example on paper first
+- **Day 16:** decide what the stack holds before coding
