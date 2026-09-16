@@ -47,3 +47,6 @@ Practised through 20. Valid Parentheses.
 ## Day 15 - operator stack
 
 Practised through 150. Evaluate Reverse Polish Notation.
+## Day 16 - monotonic decreasing stack
+
+Practised through 739. Daily Temperatures.
