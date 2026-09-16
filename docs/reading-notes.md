@@ -17,3 +17,4 @@ What clicked today.
 - **Day 13:** the distance algebra finally clicked
 - **Day 14:** matching problems are stack shaped
 - **Day 15:** the order of popping is the order of the operation
+- **Day 16:** indices carry the answer distance
