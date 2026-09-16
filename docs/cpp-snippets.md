@@ -77,3 +77,8 @@ st.push(c);
 ```cpp
 long b = st.top(); st.pop();
 ```
+## Day 16 - Monotonic stacks
+
+```cpp
+while (!st.empty() && t[st.top()] < t[i]) { ... }
+```
