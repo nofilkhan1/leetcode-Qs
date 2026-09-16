@@ -17,3 +17,4 @@
 | 13 | Cycle entry point | 142. Linked List Cycle II | Floyd second phase |
 | 14 | Stacks | 20. Valid Parentheses | stack matching |
 | 15 | Expression stacks | 150. Evaluate Reverse Polish Notation | operator stack |
+| 16 | Monotonic stacks | 739. Daily Temperatures | monotonic decreasing stack |
