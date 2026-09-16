@@ -47,3 +47,6 @@ checking the length before checking emptiness.
 ## Day 15
 
 getting the operand order wrong on division.
+## Day 16
+
+popping equal values too eagerly.
