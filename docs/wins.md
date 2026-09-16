@@ -17,3 +17,4 @@ One win a day, big or small.
 - Day 13: proved it on paper without looking at notes
 - Day 14: two weeks of streak kept alive
 - Day 15: half the month complete
+- Day 16: daily temperatures finally makes sense
