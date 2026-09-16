@@ -17,3 +17,4 @@ One question a day, answered the next morning.
 **Day 13 (Cycle entry point):** Why does the second phase find the entry?
 **Day 14 (Stacks):** Why is a stack the right structure here?
 **Day 15 (Expression stacks):** Why is the operand order reversed?
+**Day 16 (Monotonic stacks):** Why store indices instead of temperatures?
