@@ -18,3 +18,4 @@ The bug of the day and how it was fixed.
 - **Day 14:** checked the size before checking emptiness: test empty first
 - **Day 15:** swapped the operand order on subtraction: pop b then a
 - **Day 16:** popped equal values and lost the first match: pop only while strictly less
+- **Day 17:** transferred on every pop: only move when the out stack runs dry
