@@ -18,3 +18,4 @@
 | 14 | 2 problems, 25 min |
 | 15 | 1 problem, 40 min, second try |
 | 16 | 1 problem, 45 min, first try |
+| 17 | 1 problem, 35 min, second try |
