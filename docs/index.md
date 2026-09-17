@@ -18,3 +18,4 @@
 | 14 | Stacks | 20. Valid Parentheses | stack matching |
 | 15 | Expression stacks | 150. Evaluate Reverse Polish Notation | operator stack |
 | 16 | Monotonic stacks | 739. Daily Temperatures | monotonic decreasing stack |
+| 17 | Queues | 232. Implement Queue using Stacks | amortised constant time |
