@@ -18,3 +18,4 @@ One win a day, big or small.
 - Day 14: two weeks of streak kept alive
 - Day 15: half the month complete
 - Day 16: daily temperatures finally makes sense
+- Day 17: explained amortisation out loud
