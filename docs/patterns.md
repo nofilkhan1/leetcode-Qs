@@ -50,3 +50,6 @@ Practised through 150. Evaluate Reverse Polish Notation.
 ## Day 16 - monotonic decreasing stack
 
 Practised through 739. Daily Temperatures.
+## Day 17 - amortised constant time
+
+Practised through 232. Implement Queue using Stacks.
