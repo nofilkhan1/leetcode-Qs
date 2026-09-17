@@ -18,3 +18,4 @@ What clicked today.
 - **Day 14:** matching problems are stack shaped
 - **Day 15:** the order of popping is the order of the operation
 - **Day 16:** indices carry the answer distance
+- **Day 17:** rare expensive moves are fine if they stay rare
