@@ -50,3 +50,6 @@ Goal: convert infix to postfix once.
 ## Day 16 - Monotonic stacks
 
 Goal: solve it in a single pass.
+## Day 17 - Queues
+
+Goal: implement a queue with two stacks.
