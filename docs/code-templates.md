@@ -82,3 +82,8 @@ long b = st.top(); st.pop();
 ```cpp
 while (!st.empty() && t[st.top()] < t[i]) { ... }
 ```
+## Day 17
+
+```cpp
+if (out.empty()) while (!in.empty()) { ... }
+```
