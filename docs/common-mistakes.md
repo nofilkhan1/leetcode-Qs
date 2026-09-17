@@ -50,3 +50,6 @@ getting the operand order wrong on division.
 ## Day 16
 
 popping equal values too eagerly.
+## Day 17
+
+transferring on every single pop.
