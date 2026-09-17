@@ -18,3 +18,4 @@ One term a day.
 - **Day 14:** LIFO - the most recent item is served first
 - **Day 15:** postfix - the operator written after its operands
 - **Day 16:** monotonic - kept strictly increasing or decreasing
+- **Day 17:** amortised - average cost spread over many operations
