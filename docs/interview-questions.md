@@ -18,3 +18,4 @@ Questions to answer out loud tomorrow.
 - **Day 14:** when is a queue better than a stack?
 - **Day 15:** how do you convert infix to postfix?
 - **Day 16:** why not store the temperatures themselves?
+- **Day 17:** why is the transfer only amortised O(1)?
