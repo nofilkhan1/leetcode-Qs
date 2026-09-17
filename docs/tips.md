@@ -18,3 +18,4 @@ One practical tip a day.
 - **Day 14 (Stacks):** push opening brackets and match closing ones.
 - **Day 15 (Expression stacks):** pop two operands for every operator.
 - **Day 16 (Monotonic stacks):** keep indices on the stack, not values.
+- **Day 17 (Queues):** amortise the cost of the transfer.
