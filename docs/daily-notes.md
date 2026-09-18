@@ -19,3 +19,4 @@ A short note from the end of each session.
 - Day 15: half the month done
 - Day 16: this one finally made sense
 - Day 17: amortised analysis needs more practice
+- Day 18: drawing the modular arithmetic helped
