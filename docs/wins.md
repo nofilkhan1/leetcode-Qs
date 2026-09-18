@@ -19,3 +19,4 @@ One win a day, big or small.
 - Day 15: half the month complete
 - Day 16: daily temperatures finally makes sense
 - Day 17: explained amortisation out loud
+- Day 18: no modulo bugs today
