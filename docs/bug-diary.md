@@ -19,3 +19,4 @@ The bug of the day and how it was fixed.
 - **Day 15:** swapped the operand order on subtraction: pop b then a
 - **Day 16:** popped equal values and lost the first match: pop only while strictly less
 - **Day 17:** transferred on every pop: only move when the out stack runs dry
+- **Day 18:** used the same index for full and empty: keep one slot unused
