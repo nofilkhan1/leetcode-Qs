@@ -53,3 +53,6 @@ popping equal values too eagerly.
 ## Day 17
 
 transferring on every single pop.
+## Day 18
+
+mixing a count field with a wasted slot.
