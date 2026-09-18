@@ -53,3 +53,6 @@ Goal: solve it in a single pass.
 ## Day 17 - Queues
 
 Goal: implement a queue with two stacks.
+## Day 18 - Circular buffers
+
+Goal: draw the queue indices on paper.
