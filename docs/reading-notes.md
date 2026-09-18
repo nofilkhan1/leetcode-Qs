@@ -19,3 +19,4 @@ What clicked today.
 - **Day 15:** the order of popping is the order of the operation
 - **Day 16:** indices carry the answer distance
 - **Day 17:** rare expensive moves are fine if they stay rare
+- **Day 18:** drawing the indices removed the confusion
