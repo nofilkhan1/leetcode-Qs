@@ -19,3 +19,4 @@ One question a day, answered the next morning.
 **Day 15 (Expression stacks):** Why is the operand order reversed?
 **Day 16 (Monotonic stacks):** Why store indices instead of temperatures?
 **Day 17 (Queues):** Why is the transfer only amortised O(1)?
+**Day 18 (Circular buffers):** Why keep one slot empty?
