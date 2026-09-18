@@ -53,3 +53,6 @@ Practised through 739. Daily Temperatures.
 ## Day 17 - amortised constant time
 
 Practised through 232. Implement Queue using Stacks.
+## Day 18 - ring buffer
+
+Practised through 622. Design Circular Queue.
