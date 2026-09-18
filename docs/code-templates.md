@@ -87,3 +87,8 @@ while (!st.empty() && t[st.top()] < t[i]) { ... }
 ```cpp
 if (out.empty()) while (!in.empty()) { ... }
 ```
+## Day 18
+
+```cpp
+rear = (rear + 1) % k;
+```
