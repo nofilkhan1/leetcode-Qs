@@ -19,3 +19,4 @@ One question a day, answered out loud the next morning.
 - **Day 15:** Q: how many operands does an operator pop? A: two
 - **Day 16:** Q: what do you store in a monotonic stack? A: indices, not values
 - **Day 17:** Q: what makes a queue from two stacks? A: an amortised transfer
+- **Day 18:** Q: how do you tell full from empty? A: leave one slot free
