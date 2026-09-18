@@ -19,3 +19,4 @@ Where each day's material came from.
 - Day 15 (Expression stacks): NeetCode - reverse polish
 - Day 16 (Monotonic stacks): NeetCode - monotonic stack
 - Day 17 (Queues): LeetCode 232
+- Day 18 (Circular buffers): LeetCode 622
