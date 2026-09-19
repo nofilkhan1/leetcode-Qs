@@ -20,3 +20,4 @@ Where each day's material came from.
 - Day 16 (Monotonic stacks): NeetCode - monotonic stack
 - Day 17 (Queues): LeetCode 232
 - Day 18 (Circular buffers): LeetCode 622
+- Day 19 (Hash map internals): Computer systems - hash tables
