@@ -20,3 +20,4 @@ What tomorrow starts with.
 - **Day 16:** queues built from two stacks
 - **Day 17:** circular queue
 - **Day 18:** hash map internals
+- **Day 19:** frequency counting
