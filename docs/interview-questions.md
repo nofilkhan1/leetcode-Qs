@@ -20,3 +20,4 @@ Questions to answer out loud tomorrow.
 - **Day 16:** why not store the temperatures themselves?
 - **Day 17:** why is the transfer only amortised O(1)?
 - **Day 18:** why keep one slot empty?
+- **Day 19:** when does a hash map degrade to O(n)?
