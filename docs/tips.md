@@ -20,3 +20,4 @@ One practical tip a day.
 - **Day 16 (Monotonic stacks):** keep indices on the stack, not values.
 - **Day 17 (Queues):** amortise the cost of the transfer.
 - **Day 18 (Circular buffers):** leave one slot empty to tell full from empty.
+- **Day 19 (Hash map internals):** mask the hash down to the bucket count.
