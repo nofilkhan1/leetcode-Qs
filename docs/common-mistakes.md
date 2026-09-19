@@ -56,3 +56,6 @@ transferring on every single pop.
 ## Day 18
 
 mixing a count field with a wasted slot.
+## Day 19
+
+forgetting to resize once the load factor grows.
