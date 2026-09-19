@@ -20,3 +20,4 @@ One term a day.
 - **Day 16:** monotonic - kept strictly increasing or decreasing
 - **Day 17:** amortised - average cost spread over many operations
 - **Day 18:** ring buffer - a fixed array used as a circle
+- **Day 19:** bucket - the slot that a hash maps into
