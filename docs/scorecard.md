@@ -20,3 +20,4 @@
 | 16 | 1 problem, 45 min, first try |
 | 17 | 1 problem, 35 min, second try |
 | 18 | 1 problem, 30 min, first try |
+| 19 | 1 problem, 50 min, after a hint |
