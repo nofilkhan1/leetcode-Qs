@@ -56,3 +56,6 @@ Practised through 232. Implement Queue using Stacks.
 ## Day 18 - ring buffer
 
 Practised through 622. Design Circular Queue.
+## Day 19 - separate chaining
+
+Practised through 706. Design HashMap.
