@@ -92,3 +92,8 @@ if (out.empty()) while (!in.empty()) { ... }
 ```cpp
 rear = (rear + 1) % k;
 ```
+## Day 19 - Hash map internals
+
+```cpp
+vector<list<pair<int,int>>> buckets;
+```
