@@ -20,3 +20,4 @@ The one rule kept every day.
 - **Day 16:** decide what the stack holds before coding
 - **Day 17:** count the expensive operations, not the lines
 - **Day 18:** draw the buffer before writing code
+- **Day 19:** ask what the worst case looks like
