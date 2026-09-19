@@ -20,3 +20,4 @@
 | 16 | Monotonic stacks | 739. Daily Temperatures | monotonic decreasing stack |
 | 17 | Queues | 232. Implement Queue using Stacks | amortised constant time |
 | 18 | Circular buffers | 622. Design Circular Queue | ring buffer |
+| 19 | Hash map internals | 706. Design HashMap | separate chaining |
