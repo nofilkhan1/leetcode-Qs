@@ -56,3 +56,6 @@ Goal: implement a queue with two stacks.
 ## Day 18 - Circular buffers
 
 Goal: draw the queue indices on paper.
+## Day 19 - Hash map internals
+
+Goal: sketch chaining versus open addressing.
