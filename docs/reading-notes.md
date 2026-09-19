@@ -20,3 +20,4 @@ What clicked today.
 - **Day 16:** indices carry the answer distance
 - **Day 17:** rare expensive moves are fine if they stay rare
 - **Day 18:** drawing the indices removed the confusion
+- **Day 19:** DSA and systems are the same subject
