@@ -20,3 +20,4 @@
 | 16 | 739. Daily Temperatures | second try |
 | 17 | 232. Implement Queue using Stacks | after a hint |
 | 18 | 622. Design Circular Queue | first try |
+| 19 | 706. Design HashMap | second try |
