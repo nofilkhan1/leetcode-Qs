@@ -20,3 +20,4 @@ One win a day, big or small.
 - Day 16: daily temperatures finally makes sense
 - Day 17: explained amortisation out loud
 - Day 18: no modulo bugs today
+- Day 19: sketched chaining and open addressing
