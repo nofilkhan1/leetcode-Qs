@@ -59,3 +59,6 @@ mixing a count field with a wasted slot.
 ## Day 19
 
 forgetting to resize once the load factor grows.
+## Day 20
+
+building a map of 26 for mixed case text.
