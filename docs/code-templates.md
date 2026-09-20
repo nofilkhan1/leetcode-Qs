@@ -97,3 +97,8 @@ rear = (rear + 1) % k;
 ```cpp
 vector<list<pair<int,int>>> buckets;
 ```
+## Day 20
+
+```cpp
+int count[26] = {0};
+```
