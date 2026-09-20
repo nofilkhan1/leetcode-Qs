@@ -59,3 +59,6 @@ Practised through 622. Design Circular Queue.
 ## Day 19 - separate chaining
 
 Practised through 706. Design HashMap.
+## Day 20 - frequency counting
+
+Practised through 383. Ransom Note.
