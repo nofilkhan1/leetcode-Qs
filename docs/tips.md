@@ -21,3 +21,4 @@ One practical tip a day.
 - **Day 17 (Queues):** amortise the cost of the transfer.
 - **Day 18 (Circular buffers):** leave one slot empty to tell full from empty.
 - **Day 19 (Hash map internals):** mask the hash down to the bucket count.
+- **Day 20 (Frequency counting):** count the magazine first, then subtract.
