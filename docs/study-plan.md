@@ -59,3 +59,6 @@ Goal: draw the queue indices on paper.
 ## Day 19 - Hash map internals
 
 Goal: sketch chaining versus open addressing.
+## Day 20 - Frequency counting
+
+Goal: solve it without sorting.
