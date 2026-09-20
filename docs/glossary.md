@@ -21,3 +21,4 @@ One term a day.
 - **Day 17:** amortised - average cost spread over many operations
 - **Day 18:** ring buffer - a fixed array used as a circle
 - **Day 19:** bucket - the slot that a hash maps into
+- **Day 20:** frequency - how often each value appears
