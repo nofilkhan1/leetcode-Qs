@@ -21,3 +21,4 @@ One question a day, answered the next morning.
 **Day 17 (Queues):** Why is the transfer only amortised O(1)?
 **Day 18 (Circular buffers):** Why keep one slot empty?
 **Day 19 (Hash map internals):** When does a hash map degrade to O(n)?
+**Day 20 (Frequency counting):** When is a plain array better than a map?
