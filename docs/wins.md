@@ -22,3 +22,4 @@ One win a day, big or small.
 - Day 18: no modulo bugs today
 - Day 19: sketched chaining and open addressing
 - Day 20: week three starts strong
+- Day 21: 21 days, the habit is real
