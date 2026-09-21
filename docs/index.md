@@ -22,3 +22,4 @@
 | 18 | Circular buffers | 622. Design Circular Queue | ring buffer |
 | 19 | Hash map internals | 706. Design HashMap | separate chaining |
 | 20 | Frequency counting | 383. Ransom Note | frequency counting |
+| 21 | Sets | 217. Contains Duplicate | membership testing |
