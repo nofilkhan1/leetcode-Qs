@@ -62,3 +62,6 @@ Practised through 706. Design HashMap.
 ## Day 20 - frequency counting
 
 Practised through 383. Ransom Note.
+## Day 21 - membership testing
+
+Practised through 217. Contains Duplicate.
