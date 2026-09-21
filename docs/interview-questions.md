@@ -22,3 +22,4 @@ Questions to answer out loud tomorrow.
 - **Day 18:** why keep one slot empty?
 - **Day 19:** when does a hash map degrade to O(n)?
 - **Day 20:** when is an array better than a map?
+- **Day 21:** what does a set cost in memory?
