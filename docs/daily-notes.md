@@ -22,3 +22,4 @@ A short note from the end of each session.
 - Day 18: drawing the modular arithmetic helped
 - Day 19: the systems side of DSA is interesting
 - Day 20: third week starts here
+- Day 21: 21 days builds a habit
