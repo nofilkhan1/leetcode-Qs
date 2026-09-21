@@ -22,3 +22,4 @@
 | 18 | 622. Design Circular Queue | first try |
 | 19 | 706. Design HashMap | second try |
 | 20 | 383. Ransom Note | after a hint |
+| 21 | 217. Contains Duplicate | first try |
