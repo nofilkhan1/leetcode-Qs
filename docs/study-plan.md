@@ -62,3 +62,6 @@ Goal: sketch chaining versus open addressing.
 ## Day 20 - Frequency counting
 
 Goal: solve it without sorting.
+## Day 21 - Sets
+
+Goal: solve it with O(1) lookups only.
