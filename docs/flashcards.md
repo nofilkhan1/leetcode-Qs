@@ -22,3 +22,4 @@ One question a day, answered out loud the next morning.
 - **Day 18:** Q: how do you tell full from empty? A: leave one slot free
 - **Day 19:** Q: what happens on a hash collision? A: the entries share a bucket
 - **Day 20:** Q: array or map for 26 letters? A: a plain array
+- **Day 21:** Q: what does inserting twice do to a set? A: nothing new
