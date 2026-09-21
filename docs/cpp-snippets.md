@@ -102,3 +102,8 @@ vector<list<pair<int,int>>> buckets;
 ```cpp
 int count[26] = {0};
 ```
+## Day 21 - Sets
+
+```cpp
+unordered_set<int> seen;
+```
