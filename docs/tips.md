@@ -22,3 +22,4 @@ One practical tip a day.
 - **Day 18 (Circular buffers):** leave one slot empty to tell full from empty.
 - **Day 19 (Hash map internals):** mask the hash down to the bucket count.
 - **Day 20 (Frequency counting):** count the magazine first, then subtract.
+- **Day 21 (Sets):** insert and compare the set sizes.
