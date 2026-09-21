@@ -22,3 +22,4 @@ What tomorrow starts with.
 - **Day 18:** hash map internals
 - **Day 19:** frequency counting
 - **Day 20:** sets and duplicates
+- **Day 21:** merge sort from memory
