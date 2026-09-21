@@ -22,3 +22,4 @@ The one rule kept every day.
 - **Day 18:** draw the buffer before writing code
 - **Day 19:** ask what the worst case looks like
 - **Day 20:** ask how large the key space is
+- **Day 21:** keep the streak file open
