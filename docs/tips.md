@@ -23,3 +23,4 @@ One practical tip a day.
 - **Day 19 (Hash map internals):** mask the hash down to the bucket count.
 - **Day 20 (Frequency counting):** count the magazine first, then subtract.
 - **Day 21 (Sets):** insert and compare the set sizes.
+- **Day 22 (Sorting):** merge into a temp buffer, never in place.
