@@ -23,3 +23,4 @@ One term a day.
 - **Day 19:** bucket - the slot that a hash maps into
 - **Day 20:** frequency - how often each value appears
 - **Day 21:** set - membership testing in expected constant time
+- **Day 22:** stable - equal elements keep their relative order
