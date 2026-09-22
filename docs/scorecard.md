@@ -23,3 +23,4 @@
 | 19 | 1 problem, 50 min, after a hint |
 | 20 | 2 problems, 20 min |
 | 21 | 1 problem, 10 min, first try |
+| 22 | 1 problem, 55 min, second try |
