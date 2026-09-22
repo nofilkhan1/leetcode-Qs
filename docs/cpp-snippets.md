@@ -107,3 +107,8 @@ int count[26] = {0};
 ```cpp
 unordered_set<int> seen;
 ```
+## Day 22 - Sorting
+
+```cpp
+while (l <= m && r <= n) { ... }
+```
