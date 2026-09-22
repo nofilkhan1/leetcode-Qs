@@ -65,3 +65,6 @@ Practised through 383. Ransom Note.
 ## Day 21 - membership testing
 
 Practised through 217. Contains Duplicate.
+## Day 22 - divide and conquer
+
+Practised through 912. Sort an Array.
