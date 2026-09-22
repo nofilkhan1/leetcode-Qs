@@ -23,3 +23,4 @@ The bug of the day and how it was fixed.
 - **Day 19:** forgot to resize once the load factor grew: double the buckets
 - **Day 20:** built a map for a fixed alphabet: an array of 26 is enough
 - **Day 21:** compared set sizes instead of the insert result: check the bool return
+- **Day 22:** overwrote the left half while merging: copy into a temp buffer first
