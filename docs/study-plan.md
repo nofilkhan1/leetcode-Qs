@@ -65,3 +65,6 @@ Goal: solve it without sorting.
 ## Day 21 - Sets
 
 Goal: solve it with O(1) lookups only.
+## Day 22 - Sorting
+
+Goal: write merge sort from memory.
