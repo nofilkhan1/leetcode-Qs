@@ -23,3 +23,4 @@
 | 19 | 706. Design HashMap | second try |
 | 20 | 383. Ransom Note | after a hint |
 | 21 | 217. Contains Duplicate | first try |
+| 22 | 912. Sort an Array | second try |
