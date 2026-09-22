@@ -65,3 +65,6 @@ building a map of 26 for mixed case text.
 ## Day 21
 
 scanning a vector linearly every time.
+## Day 22
+
+overwriting the left half while merging.
