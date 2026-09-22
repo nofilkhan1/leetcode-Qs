@@ -23,3 +23,4 @@ What tomorrow starts with.
 - **Day 19:** frequency counting
 - **Day 20:** sets and duplicates
 - **Day 21:** merge sort from memory
+- **Day 22:** custom comparators
