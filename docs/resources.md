@@ -23,3 +23,4 @@ Where each day's material came from.
 - Day 19 (Hash map internals): Computer systems - hash tables
 - Day 20 (Frequency counting): LeetCode 383
 - Day 21 (Sets): LeetCode 217
+- Day 22 (Sorting): Algorithms - merge sort
