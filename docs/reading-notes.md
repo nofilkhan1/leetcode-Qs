@@ -23,3 +23,4 @@ What clicked today.
 - **Day 19:** DSA and systems are the same subject
 - **Day 20:** know the key range before reaching for a map
 - **Day 21:** size before and after insert is the whole trick
+- **Day 22:** merge needs the temp buffer, always
