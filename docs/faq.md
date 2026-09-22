@@ -23,3 +23,4 @@ One question a day, answered the next morning.
 **Day 19 (Hash map internals):** When does a hash map degrade to O(n)?
 **Day 20 (Frequency counting):** When is a plain array better than a map?
 **Day 21 (Sets):** What is the memory trade-off of a set?
+**Day 22 (Sorting):** Why is merge sort stable?
