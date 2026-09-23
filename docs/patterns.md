@@ -68,3 +68,6 @@ Practised through 217. Contains Duplicate.
 ## Day 22 - divide and conquer
 
 Practised through 912. Sort an Array.
+## Day 23 - interval sweep
+
+Practised through 56. Merge Intervals.
