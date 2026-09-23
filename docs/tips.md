@@ -24,3 +24,4 @@ One practical tip a day.
 - **Day 20 (Frequency counting):** count the magazine first, then subtract.
 - **Day 21 (Sets):** insert and compare the set sizes.
 - **Day 22 (Sorting):** merge into a temp buffer, never in place.
+- **Day 23 (Custom comparators):** sort by start, then sweep across.
