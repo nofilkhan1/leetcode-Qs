@@ -24,3 +24,4 @@
 | 20 | Frequency counting | 383. Ransom Note | frequency counting |
 | 21 | Sets | 217. Contains Duplicate | membership testing |
 | 22 | Sorting | 912. Sort an Array | divide and conquer |
+| 23 | Custom comparators | 56. Merge Intervals | interval sweep |
