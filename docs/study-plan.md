@@ -68,3 +68,6 @@ Goal: solve it with O(1) lookups only.
 ## Day 22 - Sorting
 
 Goal: write merge sort from memory.
+## Day 23 - Custom comparators
+
+Goal: sort by a custom key twice.
