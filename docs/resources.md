@@ -24,3 +24,4 @@ Where each day's material came from.
 - Day 20 (Frequency counting): LeetCode 383
 - Day 21 (Sets): LeetCode 217
 - Day 22 (Sorting): Algorithms - merge sort
+- Day 23 (Custom comparators): NeetCode - merge intervals
