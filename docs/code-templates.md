@@ -112,3 +112,8 @@ unordered_set<int> seen;
 ```cpp
 while (l <= m && r <= n) { ... }
 ```
+## Day 23
+
+```cpp
+sort(v.begin(), v.end());
+```
