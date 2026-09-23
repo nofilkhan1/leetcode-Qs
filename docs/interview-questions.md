@@ -24,3 +24,4 @@ Questions to answer out loud tomorrow.
 - **Day 20:** when is an array better than a map?
 - **Day 21:** what does a set cost in memory?
 - **Day 22:** why is quicksort not stable by default?
+- **Day 23:** when do you need a custom comparator?
