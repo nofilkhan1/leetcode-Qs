@@ -24,3 +24,4 @@ One win a day, big or small.
 - Day 20: week three starts strong
 - Day 21: 21 days, the habit is real
 - Day 22: merge sort written from scratch
+- Day 23: intervals solved in a single pass
