@@ -68,3 +68,6 @@ scanning a vector linearly every time.
 ## Day 22
 
 overwriting the left half while merging.
+## Day 23
+
+sorting by end instead of by start.
