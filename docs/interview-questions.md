@@ -25,3 +25,4 @@ Questions to answer out loud tomorrow.
 - **Day 21:** what does a set cost in memory?
 - **Day 22:** why is quicksort not stable by default?
 - **Day 23:** when do you need a custom comparator?
+- **Day 24:** what is the heap invariant?
