@@ -71,3 +71,6 @@ overwriting the left half while merging.
 ## Day 23
 
 sorting by end instead of by start.
+## Day 24
+
+pushing everything and sorting at the end.
