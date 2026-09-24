@@ -71,3 +71,6 @@ Practised through 912. Sort an Array.
 ## Day 23 - interval sweep
 
 Practised through 56. Merge Intervals.
+## Day 24 - bounded heap
+
+Practised through 215. Kth Largest Element in an Array.
