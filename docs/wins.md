@@ -25,3 +25,4 @@ One win a day, big or small.
 - Day 21: 21 days, the habit is real
 - Day 22: merge sort written from scratch
 - Day 23: intervals solved in a single pass
+- Day 24: sift up explained clearly
