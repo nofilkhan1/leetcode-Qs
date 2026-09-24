@@ -71,3 +71,6 @@ Goal: write merge sort from memory.
 ## Day 23 - Custom comparators
 
 Goal: sort by a custom key twice.
+## Day 24 - Heaps
+
+Goal: explain the sift up invariant.
