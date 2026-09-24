@@ -25,3 +25,4 @@ A short note from the end of each session.
 - Day 21: 21 days builds a habit
 - Day 22: recursion depth for a hundred thousand is fine
 - Day 23: sweep patterns show up everywhere
+- Day 24: heaps feel less intuitive than stacks
