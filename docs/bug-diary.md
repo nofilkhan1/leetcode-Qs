@@ -25,3 +25,4 @@ The bug of the day and how it was fixed.
 - **Day 21:** compared set sizes instead of the insert result: check the bool return
 - **Day 22:** overwrote the left half while merging: copy into a temp buffer first
 - **Day 23:** sorted by end and the sweep broke: sort by start first
+- **Day 24:** pushed everything and sorted at the end: keep the heap bounded to k
