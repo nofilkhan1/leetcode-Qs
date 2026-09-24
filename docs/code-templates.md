@@ -117,3 +117,8 @@ while (l <= m && r <= n) { ... }
 ```cpp
 sort(v.begin(), v.end());
 ```
+## Day 24
+
+```cpp
+priority_queue<int, vector<int>, greater<int>> pq;
+```
