@@ -25,3 +25,4 @@ One practical tip a day.
 - **Day 21 (Sets):** insert and compare the set sizes.
 - **Day 22 (Sorting):** merge into a temp buffer, never in place.
 - **Day 23 (Custom comparators):** sort by start, then sweep across.
+- **Day 24 (Heaps):** keep a min heap of size k.
