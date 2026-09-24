@@ -25,3 +25,4 @@ One question a day, answered out loud the next morning.
 - **Day 21:** Q: what does inserting twice do to a set? A: nothing new
 - **Day 22:** Q: is merge sort stable? A: yes, equal keys keep their order
 - **Day 23:** Q: what does sort compare by in problem 56? A: the interval start
+- **Day 24:** Q: why a min heap for the k largest? A: it keeps the smallest of the large ones
