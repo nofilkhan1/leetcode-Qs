@@ -25,3 +25,4 @@ Where each day's material came from.
 - Day 21 (Sets): LeetCode 217
 - Day 22 (Sorting): Algorithms - merge sort
 - Day 23 (Custom comparators): NeetCode - merge intervals
+- Day 24 (Heaps): NeetCode - heap
