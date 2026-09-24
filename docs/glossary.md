@@ -25,3 +25,4 @@ One term a day.
 - **Day 21:** set - membership testing in expected constant time
 - **Day 22:** stable - equal elements keep their relative order
 - **Day 23:** comparator - the rule that orders two elements
+- **Day 24:** heap - a tree that keeps an extreme value at the root
