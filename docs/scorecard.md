@@ -26,3 +26,4 @@
 | 22 | 1 problem, 55 min, second try |
 | 23 | 1 problem, 25 min, first try |
 | 24 | 1 problem, 40 min, second try |
+| 25 | 1 problem, 35 min, first try |
