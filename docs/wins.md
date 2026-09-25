@@ -26,3 +26,4 @@ One win a day, big or small.
 - Day 22: merge sort written from scratch
 - Day 23: intervals solved in a single pass
 - Day 24: sift up explained clearly
+- Day 25: two solutions for top k
