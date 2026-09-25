@@ -122,3 +122,8 @@ sort(v.begin(), v.end());
 ```cpp
 priority_queue<int, vector<int>, greater<int>> pq;
 ```
+## Day 25 - Priority queues
+
+```cpp
+vector<vector<int>> freq(n + 1);
+```
