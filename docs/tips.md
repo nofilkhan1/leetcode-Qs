@@ -26,3 +26,4 @@ One practical tip a day.
 - **Day 22 (Sorting):** merge into a temp buffer, never in place.
 - **Day 23 (Custom comparators):** sort by start, then sweep across.
 - **Day 24 (Heaps):** keep a min heap of size k.
+- **Day 25 (Priority queues):** bucket by frequency after counting.
