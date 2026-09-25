@@ -26,3 +26,4 @@ The one rule kept every day.
 - **Day 22:** sort twice and diff the outputs
 - **Day 23:** say the sort key out loud first
 - **Day 24:** think about what the heap must discard
+- **Day 25:** check the value range before choosing a structure
