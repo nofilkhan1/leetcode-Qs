@@ -26,3 +26,4 @@ A short note from the end of each session.
 - Day 22: recursion depth for a hundred thousand is fine
 - Day 23: sweep patterns show up everywhere
 - Day 24: heaps feel less intuitive than stacks
+- Day 25: buckets run in linear time, nice trick
