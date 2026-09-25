@@ -26,3 +26,4 @@ The bug of the day and how it was fixed.
 - **Day 22:** overwrote the left half while merging: copy into a temp buffer first
 - **Day 23:** sorted by end and the sweep broke: sort by start first
 - **Day 24:** pushed everything and sorted at the end: keep the heap bounded to k
+- **Day 25:** wrong comparator on the pair sort: order by count descending
