@@ -74,3 +74,6 @@ Goal: sort by a custom key twice.
 ## Day 24 - Heaps
 
 Goal: explain the sift up invariant.
+## Day 25 - Priority queues
+
+Goal: solve top k twice.
