@@ -127,3 +127,8 @@ priority_queue<int, vector<int>, greater<int>> pq;
 ```cpp
 vector<vector<int>> freq(n + 1);
 ```
+## Day 26 - Backtracking
+
+```cpp
+if (used[i]) continue;
+```
