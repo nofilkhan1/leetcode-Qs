@@ -27,3 +27,4 @@
 | 23 | Custom comparators | 56. Merge Intervals | interval sweep |
 | 24 | Heaps | 215. Kth Largest Element in an Array | bounded heap |
 | 25 | Priority queues | 347. Top K Frequent Elements | bucket sort for top k |
+| 26 | Backtracking | 46. Permutations | backtracking template |
