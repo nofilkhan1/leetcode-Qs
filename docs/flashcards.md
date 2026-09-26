@@ -27,3 +27,4 @@ One question a day, answered out loud the next morning.
 - **Day 23:** Q: what does sort compare by in problem 56? A: the interval start
 - **Day 24:** Q: why a min heap for the k largest? A: it keeps the smallest of the large ones
 - **Day 25:** Q: how do buckets beat a heap? A: linear time instead of n log k
+- **Day 26:** Q: what are the three backtracking steps? A: choose, explore, unchoose
