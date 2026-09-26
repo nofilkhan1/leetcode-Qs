@@ -77,3 +77,6 @@ pushing everything and sorting at the end.
 ## Day 25
 
 comparing pairs with the default comparator.
+## Day 26
+
+forgetting to undo the choice.
