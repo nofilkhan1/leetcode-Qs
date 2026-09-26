@@ -27,3 +27,4 @@ One win a day, big or small.
 - Day 23: intervals solved in a single pass
 - Day 24: sift up explained clearly
 - Day 25: two solutions for top k
+- Day 26: permutations clean on the first run
