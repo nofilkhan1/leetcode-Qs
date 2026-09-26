@@ -27,3 +27,4 @@ What clicked today.
 - **Day 23:** sort then sweep is a reusable pair
 - **Day 24:** a bounded heap discards what you do not need
 - **Day 25:** the frequency bound is at most n
+- **Day 26:** the undo line is the whole algorithm
