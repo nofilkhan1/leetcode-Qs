@@ -27,3 +27,4 @@ One practical tip a day.
 - **Day 23 (Custom comparators):** sort by start, then sweep across.
 - **Day 24 (Heaps):** keep a min heap of size k.
 - **Day 25 (Priority queues):** bucket by frequency after counting.
+- **Day 26 (Backtracking):** swap in place or track a used array.
