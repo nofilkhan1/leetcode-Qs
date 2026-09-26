@@ -77,3 +77,6 @@ Practised through 215. Kth Largest Element in an Array.
 ## Day 25 - bucket sort for top k
 
 Practised through 347. Top K Frequent Elements.
+## Day 26 - backtracking template
+
+Practised through 46. Permutations.
