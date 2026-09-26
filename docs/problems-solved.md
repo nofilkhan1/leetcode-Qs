@@ -27,3 +27,4 @@
 | 23 | 56. Merge Intervals | after a hint |
 | 24 | 215. Kth Largest Element in an Array | first try |
 | 25 | 347. Top K Frequent Elements | second try |
+| 26 | 46. Permutations | after a hint |
