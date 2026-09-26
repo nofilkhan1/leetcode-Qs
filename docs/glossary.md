@@ -27,3 +27,4 @@ One term a day.
 - **Day 23:** comparator - the rule that orders two elements
 - **Day 24:** heap - a tree that keeps an extreme value at the root
 - **Day 25:** bucket sort - values grouped by their frequency
+- **Day 26:** backtracking - depth first search that undoes each choice
