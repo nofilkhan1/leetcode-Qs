@@ -27,3 +27,4 @@ One question a day, answered the next morning.
 **Day 23 (Custom comparators):** Why does sorting by start make the sweep work?
 **Day 24 (Heaps):** Why a min heap for the k largest?
 **Day 25 (Priority queues):** Why do buckets beat a heap here?
+**Day 26 (Backtracking):** What is the branching factor of permutations?
