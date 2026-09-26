@@ -27,3 +27,4 @@ Where each day's material came from.
 - Day 23 (Custom comparators): NeetCode - merge intervals
 - Day 24 (Heaps): NeetCode - heap
 - Day 25 (Priority queues): LeetCode 347
+- Day 26 (Backtracking): NeetCode - permutations
