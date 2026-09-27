@@ -28,3 +28,4 @@ What clicked today.
 - **Day 24:** a bounded heap discards what you do not need
 - **Day 25:** the frequency bound is at most n
 - **Day 26:** the undo line is the whole algorithm
+- **Day 27:** the bitmask mirrors the recursion tree exactly
