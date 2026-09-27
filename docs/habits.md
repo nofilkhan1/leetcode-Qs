@@ -28,3 +28,4 @@ The one rule kept every day.
 - **Day 24:** think about what the heap must discard
 - **Day 25:** check the value range before choosing a structure
 - **Day 26:** name the choice and the undo before writing them
+- **Day 27:** count the output size first
