@@ -28,3 +28,4 @@ The bug of the day and how it was fixed.
 - **Day 24:** pushed everything and sorted at the end: keep the heap bounded to k
 - **Day 25:** wrong comparator on the pair sort: order by count descending
 - **Day 26:** forgot to unchoose and generated duplicates: undo right after returning
+- **Day 27:** pruned a branch that was still valid: only cut when the prefix is impossible
