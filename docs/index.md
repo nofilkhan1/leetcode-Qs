@@ -28,3 +28,4 @@
 | 24 | Heaps | 215. Kth Largest Element in an Array | bounded heap |
 | 25 | Priority queues | 347. Top K Frequent Elements | bucket sort for top k |
 | 26 | Backtracking | 46. Permutations | backtracking template |
+| 27 | Subsets | 78. Subsets | subset enumeration |
