@@ -28,3 +28,4 @@ One question a day, answered the next morning.
 **Day 24 (Heaps):** Why a min heap for the k largest?
 **Day 25 (Priority queues):** Why do buckets beat a heap here?
 **Day 26 (Backtracking):** What is the branching factor of permutations?
+**Day 27 (Subsets):** How many subsets does n elements produce?
