@@ -80,3 +80,6 @@ Practised through 347. Top K Frequent Elements.
 ## Day 26 - backtracking template
 
 Practised through 46. Permutations.
+## Day 27 - subset enumeration
+
+Practised through 78. Subsets.
