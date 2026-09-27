@@ -28,3 +28,4 @@ Questions to answer out loud tomorrow.
 - **Day 24:** what is the heap invariant?
 - **Day 25:** when do buckets beat a heap?
 - **Day 26:** how do you prune safely?
+- **Day 27:** when is a bitmask clearer than recursion?
