@@ -80,3 +80,6 @@ comparing pairs with the default comparator.
 ## Day 26
 
 forgetting to undo the choice.
+## Day 27
+
+pruning branches that are still valid.
