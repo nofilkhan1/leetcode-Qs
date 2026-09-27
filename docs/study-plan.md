@@ -80,3 +80,6 @@ Goal: solve top k twice.
 ## Day 26 - Backtracking
 
 Goal: use choose, explore, unchoose.
+## Day 27 - Subsets
+
+Goal: generate all subsets two ways.
