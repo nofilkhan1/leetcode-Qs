@@ -28,3 +28,4 @@ One term a day.
 - **Day 24:** heap - a tree that keeps an extreme value at the root
 - **Day 25:** bucket sort - values grouped by their frequency
 - **Day 26:** backtracking - depth first search that undoes each choice
+- **Day 27:** power set - every possible subset of a set
