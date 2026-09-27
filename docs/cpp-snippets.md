@@ -132,3 +132,8 @@ vector<vector<int>> freq(n + 1);
 ```cpp
 if (used[i]) continue;
 ```
+## Day 27 - Subsets
+
+```cpp
+for (int mask = 0; mask < (1 << n); mask++)
+```
