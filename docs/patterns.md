@@ -83,3 +83,6 @@ Practised through 46. Permutations.
 ## Day 27 - subset enumeration
 
 Practised through 78. Subsets.
+## Day 28 - depth tracking
+
+Practised through 104. Maximum Depth of Binary Tree.
