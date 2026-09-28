@@ -29,3 +29,4 @@ One question a day, answered out loud the next morning.
 - **Day 25:** Q: how do buckets beat a heap? A: linear time instead of n log k
 - **Day 26:** Q: what are the three backtracking steps? A: choose, explore, unchoose
 - **Day 27:** Q: how many subsets does n elements have? A: two to the power n
+- **Day 28:** Q: how deep can recursion go? A: until the stack runs out
