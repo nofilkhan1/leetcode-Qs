@@ -29,3 +29,4 @@ One win a day, big or small.
 - Day 25: two solutions for top k
 - Day 26: permutations clean on the first run
 - Day 27: both approaches produced the same output
+- Day 28: three solutions made iterative
