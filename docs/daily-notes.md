@@ -29,3 +29,4 @@ A short note from the end of each session.
 - Day 25: buckets run in linear time, nice trick
 - Day 26: the undo step is the whole idea
 - Day 27: two to the n is unavoidable here
+- Day 28: iterative rewrites are good practice
