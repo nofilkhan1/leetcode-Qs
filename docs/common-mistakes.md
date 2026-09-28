@@ -83,3 +83,6 @@ forgetting to undo the choice.
 ## Day 27
 
 pruning branches that are still valid.
+## Day 28
+
+assuming the judge allows deep recursion.
