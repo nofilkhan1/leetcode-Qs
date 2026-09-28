@@ -29,3 +29,4 @@
 | 25 | Priority queues | 347. Top K Frequent Elements | bucket sort for top k |
 | 26 | Backtracking | 46. Permutations | backtracking template |
 | 27 | Subsets | 78. Subsets | subset enumeration |
+| 28 | Recursion limits | 104. Maximum Depth of Binary Tree | depth tracking |
