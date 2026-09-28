@@ -29,3 +29,4 @@ What clicked today.
 - **Day 25:** the frequency bound is at most n
 - **Day 26:** the undo line is the whole algorithm
 - **Day 27:** the bitmask mirrors the recursion tree exactly
+- **Day 28:** an iterative rewrite is free insurance
