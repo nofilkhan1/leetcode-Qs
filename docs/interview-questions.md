@@ -29,3 +29,4 @@ Questions to answer out loud tomorrow.
 - **Day 25:** when do buckets beat a heap?
 - **Day 26:** how do you prune safely?
 - **Day 27:** when is a bitmask clearer than recursion?
+- **Day 28:** when is recursion the wrong tool?
