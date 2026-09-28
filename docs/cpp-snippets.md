@@ -137,3 +137,8 @@ if (used[i]) continue;
 ```cpp
 for (int mask = 0; mask < (1 << n); mask++)
 ```
+## Day 28 - Recursion limits
+
+```cpp
+queue<TreeNode*> q; q.push(root);
+```
