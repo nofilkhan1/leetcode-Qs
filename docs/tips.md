@@ -29,3 +29,4 @@ One practical tip a day.
 - **Day 25 (Priority queues):** bucket by frequency after counting.
 - **Day 26 (Backtracking):** swap in place or track a used array.
 - **Day 27 (Subsets):** a bit mask mirrors the recursive tree.
+- **Day 28 (Recursion limits):** breadth first search avoids stack limits.
