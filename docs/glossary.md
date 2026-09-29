@@ -30,3 +30,4 @@ One term a day.
 - **Day 26:** backtracking - depth first search that undoes each choice
 - **Day 27:** power set - every possible subset of a set
 - **Day 28:** call stack - the memory holding active function frames
+- **Day 29:** spaced repetition - review at growing intervals
