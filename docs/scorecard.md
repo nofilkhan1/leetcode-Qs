@@ -30,3 +30,4 @@
 | 26 | 1 problem, 30 min, first try |
 | 27 | 1 problem, 20 min, first try |
 | 28 | 2 problems, 25 min |
+| 29 | 5 problems, 60 min |
