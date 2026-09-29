@@ -30,3 +30,4 @@ What tomorrow starts with.
 - **Day 26:** subsets
 - **Day 27:** recursion limits
 - **Day 28:** revise the hardest five
+- **Day 29:** write the month summary
