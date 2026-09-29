@@ -30,3 +30,4 @@
 | 26 | Backtracking | 46. Permutations | backtracking template |
 | 27 | Subsets | 78. Subsets | subset enumeration |
 | 28 | Recursion limits | 104. Maximum Depth of Binary Tree | depth tracking |
+| 29 | Revision | 739. Daily Temperatures again | spaced repetition |
