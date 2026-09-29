@@ -30,3 +30,4 @@ Questions to answer out loud tomorrow.
 - **Day 26:** how do you prune safely?
 - **Day 27:** when is a bitmask clearer than recursion?
 - **Day 28:** when is recursion the wrong tool?
+- **Day 29:** what do I still mix up?
