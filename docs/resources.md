@@ -30,3 +30,4 @@ Where each day's material came from.
 - Day 26 (Backtracking): NeetCode - permutations
 - Day 27 (Subsets): LeetCode 78
 - Day 28 (Recursion limits): LeetCode 104
+- Day 29 (Revision): own notes from this month
