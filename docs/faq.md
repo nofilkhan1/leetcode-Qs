@@ -30,3 +30,4 @@ One question a day, answered the next morning.
 **Day 26 (Backtracking):** What is the branching factor of permutations?
 **Day 27 (Subsets):** How many subsets does n elements produce?
 **Day 28 (Recursion limits):** When is recursion the wrong tool?
+**Day 29 (Revision):** Which pattern do I still mix up?
