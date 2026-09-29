@@ -30,3 +30,4 @@
 | 26 | 46. Permutations | after a hint |
 | 27 | 78. Subsets | first try |
 | 28 | 104. Maximum Depth of Binary Tree | second try |
+| 29 | 739. Daily Temperatures again | after a hint |
