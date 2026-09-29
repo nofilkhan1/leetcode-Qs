@@ -86,3 +86,6 @@ pruning branches that are still valid.
 ## Day 28
 
 assuming the judge allows deep recursion.
+## Day 29
+
+skipping the edge case walk through.
