@@ -30,3 +30,4 @@ The bug of the day and how it was fixed.
 - **Day 26:** forgot to unchoose and generated duplicates: undo right after returning
 - **Day 27:** pruned a branch that was still valid: only cut when the prefix is impossible
 - **Day 28:** assumed the judge allows deep recursion: rewrite it as a loop
+- **Day 29:** skipped the edge case walk through: list them before submitting
