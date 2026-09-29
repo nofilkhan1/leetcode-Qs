@@ -86,3 +86,6 @@ Goal: generate all subsets two ways.
 ## Day 28 - Recursion limits
 
 Goal: convert three solutions to loops.
+## Day 29 - Revision
+
+Goal: re-solve the five hardest problems.
