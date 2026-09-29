@@ -142,3 +142,8 @@ for (int mask = 0; mask < (1 << n); mask++)
 ```cpp
 queue<TreeNode*> q; q.push(root);
 ```
+## Day 29 - Revision
+
+```cpp
+// plan first, code second
+```
