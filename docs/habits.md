@@ -30,3 +30,4 @@ The one rule kept every day.
 - **Day 26:** name the choice and the undo before writing them
 - **Day 27:** count the output size first
 - **Day 28:** ask how deep the input can be
+- **Day 29:** re-solve one old problem every day
