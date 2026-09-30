@@ -147,3 +147,8 @@ queue<TreeNode*> q; q.push(root);
 ```cpp
 // plan first, code second
 ```
+## Day 30 - Month review
+
+```cpp
+// September: 30 days, 30 topics
+```
