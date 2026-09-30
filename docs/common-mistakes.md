@@ -89,3 +89,6 @@ assuming the judge allows deep recursion.
 ## Day 29
 
 skipping the edge case walk through.
+## Day 30
+
+leaving mistakes unreviewed for a week.
