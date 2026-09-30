@@ -31,3 +31,4 @@ What clicked today.
 - **Day 27:** the bitmask mirrors the recursion tree exactly
 - **Day 28:** an iterative rewrite is free insurance
 - **Day 29:** old problems are much faster the second time around
+- **Day 30:** consistency beat intensity on every single day
