@@ -89,3 +89,6 @@ Practised through 104. Maximum Depth of Binary Tree.
 ## Day 29 - spaced repetition
 
 Practised through 739. Daily Temperatures again.
+## Day 30 - retrospection
+
+Practised through 206. Reverse Linked List as a sanity check.
