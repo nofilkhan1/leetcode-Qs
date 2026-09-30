@@ -31,3 +31,4 @@ One question a day, answered out loud the next morning.
 - **Day 27:** Q: how many subsets does n elements have? A: two to the power n
 - **Day 28:** Q: how deep can recursion go? A: until the stack runs out
 - **Day 29:** Q: which pattern is still shaky? A: monotonic stacks
+- **Day 30:** Q: what is the weakest pattern going into October? A: heap comparisons
