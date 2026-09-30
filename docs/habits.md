@@ -31,3 +31,4 @@ The one rule kept every day.
 - **Day 27:** count the output size first
 - **Day 28:** ask how deep the input can be
 - **Day 29:** re-solve one old problem every day
+- **Day 30:** keep the daily thirty minute slot
