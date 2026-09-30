@@ -31,3 +31,4 @@ One practical tip a day.
 - **Day 27 (Subsets):** a bit mask mirrors the recursive tree.
 - **Day 28 (Recursion limits):** breadth first search avoids stack limits.
 - **Day 29 (Revision):** explain the solution before coding it.
+- **Day 30 (Month review):** keep the plan, notes and mistakes separate.
