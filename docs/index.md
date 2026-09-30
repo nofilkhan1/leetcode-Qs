@@ -31,3 +31,4 @@
 | 27 | Subsets | 78. Subsets | subset enumeration |
 | 28 | Recursion limits | 104. Maximum Depth of Binary Tree | depth tracking |
 | 29 | Revision | 739. Daily Temperatures again | spaced repetition |
+| 30 | Month review | 206. Reverse Linked List as a sanity check | retrospection |
