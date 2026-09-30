@@ -89,3 +89,6 @@ Goal: convert three solutions to loops.
 ## Day 29 - Revision
 
 Goal: re-solve the five hardest problems.
+## Day 30 - Month review
+
+Goal: write the September summary.
