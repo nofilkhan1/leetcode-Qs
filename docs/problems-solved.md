@@ -31,3 +31,4 @@
 | 27 | 78. Subsets | first try |
 | 28 | 104. Maximum Depth of Binary Tree | second try |
 | 29 | 739. Daily Temperatures again | after a hint |
+| 30 | 206. Reverse Linked List as a sanity check | first try |
