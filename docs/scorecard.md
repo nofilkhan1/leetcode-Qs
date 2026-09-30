@@ -31,3 +31,4 @@
 | 27 | 1 problem, 20 min, first try |
 | 28 | 2 problems, 25 min |
 | 29 | 5 problems, 60 min |
+| 30 | 30 days, 62 problems logged |
