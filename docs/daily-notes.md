@@ -31,3 +31,4 @@ A short note from the end of each session.
 - Day 27: two to the n is unavoidable here
 - Day 28: iterative rewrites are good practice
 - Day 29: revisiting old problems shows real progress
+- Day 30: complete September, ready for October
