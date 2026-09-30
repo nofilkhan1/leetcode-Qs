@@ -31,3 +31,4 @@ One term a day.
 - **Day 27:** power set - every possible subset of a set
 - **Day 28:** call stack - the memory holding active function frames
 - **Day 29:** spaced repetition - review at growing intervals
+- **Day 30:** retrospective - reviewing a period to plan the next one
