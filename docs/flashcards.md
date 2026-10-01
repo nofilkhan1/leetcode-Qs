@@ -32,3 +32,4 @@ One question a day, answered out loud the next morning.
 - **Day 28:** Q: how deep can recursion go? A: until the stack runs out
 - **Day 29:** Q: which pattern is still shaky? A: monotonic stacks
 - **Day 30:** Q: what is the weakest pattern going into October? A: heap comparisons
+- **Day 31:** Q: what is a deep copy? A: a clone sharing nothing with the original
