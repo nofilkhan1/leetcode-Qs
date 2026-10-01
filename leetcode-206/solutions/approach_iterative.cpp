@@ -9,3 +9,11 @@
 //     ListNode(int x) : val(x), next(nullptr) {}
 //     ListNode(int x, ListNode *next) : val(x), next(next) {}
 // };
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        // An empty list or a single node is already reversed.
+        if (head == NULL || head->next == NULL)
+        {
+            return head;
+        }
