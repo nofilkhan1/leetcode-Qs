@@ -32,3 +32,4 @@ One term a day.
 - **Day 28:** call stack - the memory holding active function frames
 - **Day 29:** spaced repetition - review at growing intervals
 - **Day 30:** retrospective - reviewing a period to plan the next one
+- **Day 31:** deep copy - new nodes, same shape, no shared links
