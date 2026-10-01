@@ -152,3 +152,8 @@ queue<TreeNode*> q; q.push(root);
 ```cpp
 // September: 30 days, 30 topics
 ```
+## Day 31
+
+```cpp
+Node* cloneHead = NULL;
+```
