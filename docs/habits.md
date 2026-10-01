@@ -32,3 +32,4 @@ The one rule kept every day.
 - **Day 28:** ask how deep the input can be
 - **Day 29:** re-solve one old problem every day
 - **Day 30:** keep the daily thirty minute slot
+- **Day 31:** push a little every day
