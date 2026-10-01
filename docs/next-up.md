@@ -32,3 +32,4 @@ What tomorrow starts with.
 - **Day 28:** revise the hardest five
 - **Day 29:** write the month summary
 - **Day 30:** ship the first solution repo
+- **Day 31:** clone the values
