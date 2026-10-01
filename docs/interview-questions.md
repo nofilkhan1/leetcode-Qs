@@ -32,3 +32,4 @@ Questions to answer out loud tomorrow.
 - **Day 28:** when is recursion the wrong tool?
 - **Day 29:** what do I still mix up?
 - **Day 30:** what changes in October?
+- **Day 31:** why interleave instead of using a map?
