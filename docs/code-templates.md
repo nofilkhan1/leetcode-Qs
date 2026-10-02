@@ -157,3 +157,8 @@ queue<TreeNode*> q; q.push(root);
 ```cpp
 Node* cloneHead = NULL;
 ```
+## Day 32
+
+```cpp
+insertAtTail(cloneHead, cloneTail, temp->val);
+```
