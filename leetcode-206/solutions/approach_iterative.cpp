@@ -17,3 +17,5 @@ public:
         {
             return head;
         }
+        ListNode* prev = NULL;
+        ListNode* curr = head;
