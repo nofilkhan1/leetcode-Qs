@@ -33,3 +33,4 @@ One term a day.
 - **Day 29:** spaced repetition - review at growing intervals
 - **Day 30:** retrospective - reviewing a period to plan the next one
 - **Day 31:** deep copy - new nodes, same shape, no shared links
+- **Day 32:** interleaving - weaving clone nodes between the original nodes
