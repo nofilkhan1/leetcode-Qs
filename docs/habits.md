@@ -33,3 +33,4 @@ The one rule kept every day.
 - **Day 29:** re-solve one old problem every day
 - **Day 30:** keep the daily thirty minute slot
 - **Day 31:** push a little every day
+- **Day 32:** compile before committing
