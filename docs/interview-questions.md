@@ -33,3 +33,4 @@ Questions to answer out loud tomorrow.
 - **Day 29:** what do I still mix up?
 - **Day 30:** what changes in October?
 - **Day 31:** why interleave instead of using a map?
+- **Day 32:** how do you keep the loop from repeating forever?
