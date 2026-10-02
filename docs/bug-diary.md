@@ -33,3 +33,4 @@ The bug of the day and how it was fixed.
 - **Day 29:** skipped the edge case walk through: list them before submitting
 - **Day 30:** left the mistakes file unreviewed for a week: read it every Sunday
 - **Day 31:** returned a node from the original list: build the clone separately
+- **Day 32:** forgot to advance temp in the clone loop: it never terminated
