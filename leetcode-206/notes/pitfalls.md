@@ -3,3 +3,5 @@
 Reversing a list looks easy until one missing line loses half of it.
 1. Forgetting to save `curr->next` before overwriting it. The rest of
    the list becomes unreachable and the loop never terminates.
+2. Returning `head` instead of `prev` at the end. The original head is
+   the tail by then, so the caller would walk the untouched input.
