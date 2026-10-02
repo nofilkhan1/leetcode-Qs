@@ -1,2 +1,6 @@
 ## Visual Studio cache / generated files
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
