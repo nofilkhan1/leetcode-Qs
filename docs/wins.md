@@ -33,3 +33,4 @@ One win a day, big or small.
 - Day 29: five revisions, all of them clean
 - Day 30: complete September, all 30 days green
 - Day 31: first green day of October
+- Day 32: project files committed
