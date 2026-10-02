@@ -33,3 +33,4 @@ What clicked today.
 - **Day 29:** old problems are much faster the second time around
 - **Day 30:** consistency beat intensity on every single day
 - **Day 31:** the repository is live on GitHub now
+- **Day 32:** the solution file opens straight in Visual Studio
