@@ -6,3 +6,7 @@ solution before submitting.
 
     Input:  head = []
     Output: []
+## 2. Single node
+
+    Input:  head = [1]
+    Output: [1]
