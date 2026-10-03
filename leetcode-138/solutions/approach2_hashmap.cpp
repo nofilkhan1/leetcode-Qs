@@ -11,3 +11,13 @@
 
 #include <unordered_map>
 using namespace std;
+class Solution {
+public:
+    Node* copyRandomList(Node* head)
+    {
+        if (head == NULL)
+        {
+            return NULL;
+        }
+
+        unordered_map<Node*, Node*> copy;
