@@ -9,3 +9,7 @@ Two ways to reverse a singly linked list, both O(n) time.
 
 One pass, three pointers, no allocation. The loop runs while
 `curr != NULL` and `prev` trails one step behind it.
+## Recursive
+
+Reverse the tail first, then attach the current node to the end of the
+already reversed remainder. The base case stops at `head == NULL`.
