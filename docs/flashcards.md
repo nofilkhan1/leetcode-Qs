@@ -34,3 +34,4 @@ One question a day, answered out loud the next morning.
 - **Day 30:** Q: what is the weakest pattern going into October? A: heap comparisons
 - **Day 31:** Q: what is a deep copy? A: a clone sharing nothing with the original
 - **Day 32:** Q: what does step one of 138 build? A: a clone list of values only
+- **Day 33:** Q: where does a clone sit after weaving? A: right after its original
