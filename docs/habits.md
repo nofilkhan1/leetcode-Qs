@@ -34,3 +34,4 @@ The one rule kept every day.
 - **Day 30:** keep the daily thirty minute slot
 - **Day 31:** push a little every day
 - **Day 32:** compile before committing
+- **Day 33:** keep both heads in named variables
