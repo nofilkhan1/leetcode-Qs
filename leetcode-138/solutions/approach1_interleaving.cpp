@@ -25,3 +25,15 @@ void insertAtTail(Node*& head, Node*& tail, int d)
         tail = newNode;
     }
 }
+class Solution {
+public:
+    Node* copyRandomList(Node* head)
+    {
+        // Step 1: clone every value into a fresh list.
+        Node* cloneHead = NULL;
+        Node* cloneTail = NULL;
+
+        for (Node* temp = head; temp != NULL; temp = temp->next)
+        {
+            insertAtTail(cloneHead, cloneTail, temp->val);
+        }
