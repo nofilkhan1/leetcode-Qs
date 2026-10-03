@@ -14,3 +14,12 @@ Every node holds `val` and `next`, and the list may be empty.
 
     Input:  head = []
     Output: []
+## Approach 1 - iterative, three pointers
+
+Walk the list once keeping `prev` (the already reversed part), `curr`
+(the node being moved) and `next` (so the rest of the list is not lost):
+
+    next = curr->next
+    curr->next = prev
+    prev = curr
+    curr = next
