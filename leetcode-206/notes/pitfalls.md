@@ -5,3 +5,5 @@ Reversing a list looks easy until one missing line loses half of it.
    the list becomes unreachable and the loop never terminates.
 2. Returning `head` instead of `prev` at the end. The original head is
    the tail by then, so the caller would walk the untouched input.
+3. Skipping `head->next = NULL` in the recursive version. The old tail
+   still points back into the list and you have built a cycle.
