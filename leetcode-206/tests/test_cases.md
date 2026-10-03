@@ -10,3 +10,7 @@ solution before submitting.
 
     Input:  head = [1]
     Output: [1]
+## 3. Two nodes
+
+    Input:  head = [1,2]
+    Output: [2,1]
