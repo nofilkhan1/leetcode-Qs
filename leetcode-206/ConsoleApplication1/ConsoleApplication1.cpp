@@ -17,3 +17,5 @@ public:
         }
         ListNode* temp = reverseList(head->next);
         head->next->next = head;
+        head->next = NULL;
+        return temp;
