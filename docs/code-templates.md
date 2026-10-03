@@ -162,3 +162,8 @@ Node* cloneHead = NULL;
 ```cpp
 insertAtTail(cloneHead, cloneTail, temp->val);
 ```
+## Day 33
+
+```cpp
+orgNode->next = cloneNode;
+```
