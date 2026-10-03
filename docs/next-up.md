@@ -34,3 +34,4 @@ What tomorrow starts with.
 - **Day 30:** ship the first solution repo
 - **Day 31:** clone the values
 - **Day 32:** weave the clone nodes
+- **Day 33:** copy the random pointers
