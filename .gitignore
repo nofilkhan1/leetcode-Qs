@@ -11,3 +11,8 @@ x64/
 x86/
 [Bb]in/
 [Oo]bj/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
