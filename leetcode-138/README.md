@@ -14,3 +14,11 @@ The `random` pointer of a node may point to any node of the list, or to
     Output: [[7,null],[13,0],[11,4],[10,2],[1,0]]
 
 The copy must be deep: no node of the result may be shared with the input.
+## Approach - interleaving (O(1) extra space)
+
+Instead of a hash map, weave every clone right after its original:
+
+    original:   1 -> 2 -> 3
+    interleaved: 1 -> 1' -> 2 -> 2' -> 3 -> 3'
+
+A clone's `random` then always lives at `original->random->next`.
