@@ -14,3 +14,7 @@ solution before submitting.
 
     Input:  head = [1,2]
     Output: [2,1]
+## 4. Odd length
+
+    Input:  head = [1,2,3]
+    Output: [3,2,1]
