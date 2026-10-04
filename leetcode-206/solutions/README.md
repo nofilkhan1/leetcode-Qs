@@ -13,3 +13,7 @@ One pass, three pointers, no allocation. The loop runs while
 
 Reverse the tail first, then attach the current node to the end of the
 already reversed remainder. The base case stops at `head == NULL`.
+## Why the tail must be cleared
+
+After `head->next->next = head` the node that follows `head` points
+straight back at it. Without clearing `head->next` the list is a cycle.
