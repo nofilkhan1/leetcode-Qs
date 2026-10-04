@@ -21,3 +21,8 @@ public:
         }
 
         unordered_map<Node*, Node*> copy;
+        // Pass 1: create a clone for every original node.
+        for (Node* temp = head; temp != NULL; temp = temp->next)
+        {
+            copy[temp] = new Node(temp->val);
+        }
