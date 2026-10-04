@@ -167,3 +167,8 @@ insertAtTail(cloneHead, cloneTail, temp->val);
 ```cpp
 orgNode->next = cloneNode;
 ```
+## Day 34
+
+```cpp
+temp->next->random = temp->random->next;
+```
