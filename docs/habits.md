@@ -35,3 +35,4 @@ The one rule kept every day.
 - **Day 31:** push a little every day
 - **Day 32:** compile before committing
 - **Day 33:** keep both heads in named variables
+- **Day 34:** draw a table before pointer surgery
