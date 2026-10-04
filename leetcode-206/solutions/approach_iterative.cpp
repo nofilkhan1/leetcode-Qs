@@ -26,3 +26,7 @@ public:
             prev = curr;
             curr = next;
         }
+        // prev now sits on what used to be the tail, that is the answer.
+        return prev;
+    }
+};
