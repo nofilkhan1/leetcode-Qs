@@ -19,3 +19,7 @@ public:
         head->next->next = head;
         head->next = NULL;
         return temp;
+
+
+    }
+};
