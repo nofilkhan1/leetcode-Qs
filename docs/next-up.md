@@ -35,3 +35,4 @@ What tomorrow starts with.
 - **Day 31:** clone the values
 - **Day 32:** weave the clone nodes
 - **Day 33:** copy the random pointers
+- **Day 34:** split the two lists
