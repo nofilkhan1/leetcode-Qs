@@ -37,3 +37,18 @@ public:
         {
             insertAtTail(cloneHead, cloneTail, temp->val);
         }
+        // Step 2: weave the clone nodes between the original nodes.
+        Node* orgNode = head;
+        Node* cloneNode = cloneHead;
+
+        while (orgNode != NULL && cloneNode != NULL)
+        {
+            Node* next = orgNode->next;
+
+            orgNode->next = cloneNode;
+            orgNode = next;
+
+            next = cloneNode->next;
+            cloneNode->next = orgNode;
+            cloneNode = next;
+        }
