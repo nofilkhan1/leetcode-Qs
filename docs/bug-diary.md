@@ -35,3 +35,4 @@ The bug of the day and how it was fixed.
 - **Day 31:** returned a node from the original list: build the clone separately
 - **Day 32:** forgot to advance temp in the clone loop: it never terminated
 - **Day 33:** lost one of the two list heads during the weave: name both first
+- **Day 34:** assigned to the wrong next and broke the chain: guard on random first
