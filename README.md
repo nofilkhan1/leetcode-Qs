@@ -25,3 +25,9 @@ Solutions to LeetCode problems written in C++, one folder per problem.
         |-- solutions/
         |-- notes/
         `-- tests/
+## Building the Visual Studio solution
+
+1. Open `leetcode-138/ConsoleApplication1/ConsoleApplication1.sln`.
+2. Pick `Debug | x64` and press **F5**.
+3. The sources are LeetCode-style snippets, paste them into the LeetCode
+   editor to run them against the judge.
