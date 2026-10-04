@@ -23,3 +23,11 @@ Walk the list once keeping `prev` (the already reversed part), `curr`
     curr->next = prev
     prev = curr
     curr = next
+## Approach 2 - recursive
+
+Reverse the rest of the list first, then push the current node onto the
+tail of that reversed remainder:
+
+    ListNode* temp = reverseList(head->next);
+    head->next->next = head;
+    head->next = NULL;
