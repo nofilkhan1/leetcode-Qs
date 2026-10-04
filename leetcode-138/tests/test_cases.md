@@ -13,3 +13,10 @@ A `NULL` head must return `NULL` without allocating anything.
     Output: [[1,null]]
 
 The clone must be a new node, not the original one.
+## 3. Single node with a self loop
+
+    Input:  head = [[1,0]]
+    Output: [[1,0]]
+
+`random` points at the node itself, so `clone->random` must point at the
+clone and not at the original.
