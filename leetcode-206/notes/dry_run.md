@@ -19,3 +19,10 @@ State: `1 <- 2 -> 3 -> NULL`
     prev = 2, curr = 3
 
 State: `1 <- 2 <- 3 -> NULL`
+## Iteration 3
+
+    next = NULL
+    3 -> 2
+    prev = 3, curr = NULL
+
+State: `1 <- 2 <- 3 <- NULL`
