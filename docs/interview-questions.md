@@ -35,3 +35,4 @@ Questions to answer out loud tomorrow.
 - **Day 31:** why interleave instead of using a map?
 - **Day 32:** how do you keep the loop from repeating forever?
 - **Day 33:** how do you keep both heads while weaving?
+- **Day 34:** why does random->next always point at the clone?
