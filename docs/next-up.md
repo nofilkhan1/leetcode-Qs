@@ -36,3 +36,4 @@ What tomorrow starts with.
 - **Day 32:** weave the clone nodes
 - **Day 33:** copy the random pointers
 - **Day 34:** split the two lists
+- **Day 35:** reverse a linked list
