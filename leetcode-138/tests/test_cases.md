@@ -20,3 +20,9 @@ The clone must be a new node, not the original one.
 
 `random` points at the node itself, so `clone->random` must point at the
 clone and not at the original.
+## 4. Random pointing at NULL in the middle
+
+    Input:  head = [[1,null],[2,null],[3,null]]
+    Output: [[1,null],[2,null],[3,null]]
+
+Nothing breaks if every `random` is `NULL`.
