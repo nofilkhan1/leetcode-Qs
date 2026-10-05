@@ -172,3 +172,8 @@ orgNode->next = cloneNode;
 ```cpp
 temp->next->random = temp->random->next;
 ```
+## Day 35
+
+```cpp
+orgNode->next = cloneNode->next;
+```
