@@ -22,3 +22,9 @@ Instead of a hash map, weave every clone right after its original:
     interleaved: 1 -> 1' -> 2 -> 2' -> 3 -> 3'
 
 A clone's `random` then always lives at `original->random->next`.
+## Steps
+
+1. Build a clone list that carries only the values.
+2. Splice each clone node in directly after its original node.
+3. Set `clone->random = original->random->next`.
+4. Split the interleaved list back into the two original lists.
