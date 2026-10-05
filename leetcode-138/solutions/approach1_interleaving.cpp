@@ -52,3 +52,11 @@ public:
             cloneNode->next = orgNode;
             cloneNode = next;
         }
+        // Step 3: an original node's clone sits at random->next.
+        for (Node* temp = head; temp != NULL; temp = temp->next->next)
+        {
+            if (temp->random != NULL)
+            {
+                temp->next->random = temp->random->next;
+            }
+        }
