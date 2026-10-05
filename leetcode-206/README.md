@@ -31,3 +31,9 @@ tail of that reversed remainder:
     ListNode* temp = reverseList(head->next);
     head->next->next = head;
     head->next = NULL;
+## Complexity
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Iterative | O(n) | O(1) |
+| Recursive | O(n) | O(n) call stack |
