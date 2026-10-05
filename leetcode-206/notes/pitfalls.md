@@ -9,3 +9,5 @@ Reversing a list looks easy until one missing line loses half of it.
    still points back into the list and you have built a cycle.
 4. Missing the empty list guard. `reverseList(NULL)` has to return
    `NULL` instead of dereferencing `head->next`.
+5. Using recursion on very long lists. The stack grows linearly with n
+   and the judge may hit the limit before the algorithm does.
