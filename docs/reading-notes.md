@@ -36,3 +36,4 @@ What clicked today.
 - **Day 32:** the solution file opens straight in Visual Studio
 - **Day 33:** after weaving every adjacent pair is original then clone
 - **Day 34:** the dry run table made step three obvious
+- **Day 35:** the pitfalls file caught three of my own mistakes
