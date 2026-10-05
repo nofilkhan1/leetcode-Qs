@@ -17,3 +17,8 @@ already reversed remainder. The base case stops at `head == NULL`.
 
 After `head->next->next = head` the node that follows `head` points
 straight back at it. Without clearing `head->next` the list is a cycle.
+## Choosing one
+
+- Interview: say the iterative version first, then mention recursion.
+- Production code: iterative, no stack overflow risk.
+- Reading code: recursion shows the shape of the problem better.
