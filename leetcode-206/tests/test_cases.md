@@ -18,3 +18,7 @@ solution before submitting.
 
     Input:  head = [1,2,3]
     Output: [3,2,1]
+## 5. Even length
+
+    Input:  head = [1,2,3,4]
+    Output: [4,3,2,1]
