@@ -36,3 +36,4 @@ One term a day.
 - **Day 32:** interleaving - weaving clone nodes between the original nodes
 - **Day 33:** weave - placing every clone node exactly one slot later
 - **Day 34:** random pointer - a second link to any node of the list
+- **Day 35:** split - undoing the weave to restore both lists
