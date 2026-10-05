@@ -30,3 +30,8 @@ public:
         return prev;
     }
 };
+// Dry run on 1 -> 2 -> 3:
+//   prev=NULL curr=1   1 -> 2 -> 3
+//   prev=1   curr=2    1 <- 2    3
+//   prev=2   curr=3    1 <- 2 <- 3
+//   prev=3   curr=NULL 1 <- 2 <- 3
