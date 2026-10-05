@@ -26,3 +26,8 @@ State: `1 <- 2 <- 3 -> NULL`
     prev = 3, curr = NULL
 
 State: `1 <- 2 <- 3 <- NULL`
+## After the loop
+
+`curr == NULL`, so `prev` holds the new head:
+
+    NULL <- 1 <- 2 <- 3
