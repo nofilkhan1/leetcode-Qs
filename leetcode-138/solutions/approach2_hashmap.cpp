@@ -26,3 +26,9 @@ public:
         {
             copy[temp] = new Node(temp->val);
         }
+        // Pass 2: wire next and random through the map.
+        for (Node* temp = head; temp != NULL; temp = temp->next)
+        {
+            copy[temp]->next = copy[temp->next];
+            copy[temp]->random = copy[temp->random];
+        }
