@@ -36,3 +36,4 @@ Questions to answer out loud tomorrow.
 - **Day 32:** how do you keep the loop from repeating forever?
 - **Day 33:** how do you keep both heads while weaving?
 - **Day 34:** why does random->next always point at the clone?
+- **Day 35:** how do you know both lists are restored?
