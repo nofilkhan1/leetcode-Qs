@@ -37,3 +37,4 @@ One question a day, answered out loud the next morning.
 - **Day 33:** Q: where does a clone sit after weaving? A: right after its original
 - **Day 34:** Q: where does a node's clone live? A: at random->next
 - **Day 35:** Q: what does step four of 138 do? A: separates the two lists again
+- **Day 36:** Q: which pointer ends up as the new head? A: prev
