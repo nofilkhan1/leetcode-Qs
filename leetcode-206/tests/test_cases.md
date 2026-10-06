@@ -22,3 +22,7 @@ solution before submitting.
 
     Input:  head = [1,2,3,4]
     Output: [4,3,2,1]
+## 6. Duplicate values
+
+    Input:  head = [1,1,2]
+    Output: [2,1,1]
