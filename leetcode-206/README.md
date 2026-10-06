@@ -37,3 +37,9 @@ tail of that reversed remainder:
 |----------|------|-------|
 | Iterative | O(n) | O(1) |
 | Recursive | O(n) | O(n) call stack |
+## Edge cases
+
+- Empty list, `head == NULL`, must return `NULL`.
+- Single node, `head->next == NULL`, returns the same node.
+- Two nodes, the classic swap case.
+- Long list, the recursive version can exhaust the call stack.
