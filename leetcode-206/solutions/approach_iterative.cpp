@@ -35,3 +35,5 @@ public:
 //   prev=1   curr=2    1 <- 2    3
 //   prev=2   curr=3    1 <- 2 <- 3
 //   prev=3   curr=NULL 1 <- 2 <- 3
+// The loop only needs prev and curr. `next` is captured at the top of
+// the iteration so the remainder of the list is never lost.
