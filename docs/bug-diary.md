@@ -37,3 +37,4 @@ The bug of the day and how it was fixed.
 - **Day 33:** lost one of the two list heads during the weave: name both first
 - **Day 34:** assigned to the wrong next and broke the chain: guard on random first
 - **Day 35:** left the two lists intertwined: advance both sides every iteration
+- **Day 36:** returned head instead of prev: prev is the new head
