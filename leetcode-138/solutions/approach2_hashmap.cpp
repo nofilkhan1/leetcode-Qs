@@ -32,3 +32,6 @@ public:
             copy[temp]->next = copy[temp->next];
             copy[temp]->random = copy[temp->random];
         }
+        return copy[head];
+    }
+};
