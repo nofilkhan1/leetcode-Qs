@@ -60,3 +60,23 @@ public:
                 temp->next->random = temp->random->next;
             }
         }
+        // Step 4: split the interleaved list back into two lists.
+        orgNode = head;
+        cloneNode = cloneHead;
+
+        while (orgNode != NULL && cloneNode != NULL)
+        {
+            orgNode->next = cloneNode->next;
+            orgNode = orgNode->next;
+
+            if (orgNode != NULL)
+            {
+                cloneNode->next = orgNode->next;
+            }
+
+            cloneNode = cloneNode->next;
+        }
+
+        return cloneHead;
+    }
+};
