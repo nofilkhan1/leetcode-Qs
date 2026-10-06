@@ -37,3 +37,4 @@ One term a day.
 - **Day 33:** weave - placing every clone node exactly one slot later
 - **Day 34:** random pointer - a second link to any node of the list
 - **Day 35:** split - undoing the weave to restore both lists
+- **Day 36:** reversal - rewiring next so the list runs backwards
