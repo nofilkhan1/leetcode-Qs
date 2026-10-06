@@ -26,3 +26,10 @@ clone and not at the original.
     Output: [[1,null],[2,null],[3,null]]
 
 Nothing breaks if every `random` is `NULL`.
+## 5. Random pointing backwards
+
+    Input:  head = [[3,null],[2,0],[1,2]]
+    Output: [[3,null],[2,0],[1,2]]
+
+Backwards links are the case that catches an approach which only walks
+the list forwards once.
