@@ -21,3 +21,8 @@ x86/
 *.lastbuildstate
 *.ipdb
 *.iobj
+## Visual Studio generated databases
+*.aps
+*.opendb
+*.VC.db
+*.VC.VC.opendb
