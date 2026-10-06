@@ -22,3 +22,8 @@ straight back at it. Without clearing `head->next` the list is a cycle.
 - Interview: say the iterative version first, then mention recursion.
 - Production code: iterative, no stack overflow risk.
 - Reading code: recursion shows the shape of the problem better.
+## Related problems
+
+- 92 - Reverse Linked List II (reverse a subrange)
+- 25 - Reverse Nodes in k-Group
+- 234 - Palindrome Linked List
