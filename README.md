@@ -38,3 +38,9 @@ Solutions to LeetCode problems written in C++, one folder per problem.
   lists apart again. O(n) time, O(1) extra space.
 - **Hash map** - remember `original -> clone` while creating the nodes,
   then wire `next` and `random` through the map. O(n) time, O(n) space.
+## Complexity cheat sheet
+
+| Problem | Time | Space |
+|---------|------|-------|
+| 138 (interleaving) | O(n) | O(1) |
+| 138 (hash map) | O(n) | O(n) |
