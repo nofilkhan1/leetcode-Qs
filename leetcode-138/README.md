@@ -28,3 +28,7 @@ A clone's `random` then always lives at `original->random->next`.
 2. Splice each clone node in directly after its original node.
 3. Set `clone->random = original->random->next`.
 4. Split the interleaved list back into the two original lists.
+## Complexity
+
+- **Time** O(n) - four linear passes over the list.
+- **Space** O(1) extra, apart from the nodes that were copied anyway.
