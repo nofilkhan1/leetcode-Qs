@@ -11,3 +11,5 @@ Reversing a list looks easy until one missing line loses half of it.
    `NULL` instead of dereferencing `head->next`.
 5. Using recursion on very long lists. The stack grows linearly with n
    and the judge may hit the limit before the algorithm does.
+6. Reversing in place and also handing back the old head, so the caller
+   walks a list that no longer exists.
