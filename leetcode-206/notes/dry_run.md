@@ -31,3 +31,11 @@ State: `1 <- 2 <- 3 <- NULL`
 `curr == NULL`, so `prev` holds the new head:
 
     NULL <- 1 <- 2 <- 3
+## Recursive view
+
+    reverseList(1) calls reverseList(2)
+    reverseList(2) calls reverseList(3)
+    reverseList(3) returns 3           base case
+    2->next->next = 2, 2->next = NULL  unwind
+    1->next->next = 1, 1->next = NULL  unwind
+    returns 3
