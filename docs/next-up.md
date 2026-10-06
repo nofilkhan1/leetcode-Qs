@@ -37,3 +37,4 @@ What tomorrow starts with.
 - **Day 33:** copy the random pointers
 - **Day 34:** split the two lists
 - **Day 35:** reverse a linked list
+- **Day 36:** write the test cases
