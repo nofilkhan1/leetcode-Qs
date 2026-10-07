@@ -35,3 +35,5 @@ public:
         return copy[head];
     }
 };
+// Trade-off: two passes and O(n) extra space, but no pointer surgery and
+// no chance of unlinking the original list by mistake.
