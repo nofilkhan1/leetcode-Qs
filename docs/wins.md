@@ -38,3 +38,4 @@ One win a day, big or small.
 - Day 34: notes and dry run added
 - Day 35: 138 finished and documented
 - Day 36: 206 pushed with both approaches
+- Day 37: the whole month is green on the graph
