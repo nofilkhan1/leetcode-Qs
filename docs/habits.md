@@ -38,3 +38,4 @@ The one rule kept every day.
 - **Day 34:** draw a table before pointer surgery
 - **Day 35:** write down the mistake, not just the fix
 - **Day 36:** run every test case before pushing
+- **Day 37:** review the graph every Sunday
