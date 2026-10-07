@@ -38,3 +38,4 @@ What clicked today.
 - **Day 34:** the dry run table made step three obvious
 - **Day 35:** the pitfalls file caught three of my own mistakes
 - **Day 36:** the iterative and recursive versions agree on every test
+- **Day 37:** documentation is what makes a repository usable
