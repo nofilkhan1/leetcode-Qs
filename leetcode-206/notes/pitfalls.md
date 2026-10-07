@@ -13,3 +13,7 @@ Reversing a list looks easy until one missing line loses half of it.
    and the judge may hit the limit before the algorithm does.
 6. Reversing in place and also handing back the old head, so the caller
    walks a list that no longer exists.
+## Rule of thumb
+
+Keep three named pointers - `prev`, `curr`, `next` - and only ever
+assign to `curr->next`. Everything else follows from that one line.
