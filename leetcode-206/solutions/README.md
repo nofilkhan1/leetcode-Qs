@@ -27,3 +27,9 @@ straight back at it. Without clearing `head->next` the list is a cycle.
 - 92 - Reverse Linked List II (reverse a subrange)
 - 25 - Reverse Nodes in k-Group
 - 234 - Palindrome Linked List
+## Checklist before submitting
+
+- [ ] Empty list returns `NULL`
+- [ ] Single node returns itself
+- [ ] No cycles left behind
+- [ ] Original list is not needed after the call
