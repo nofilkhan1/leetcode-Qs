@@ -38,3 +38,4 @@ One term a day.
 - **Day 34:** random pointer - a second link to any node of the list
 - **Day 35:** split - undoing the weave to restore both lists
 - **Day 36:** reversal - rewiring next so the list runs backwards
+- **Day 37:** changelog - a dated record of the work done
