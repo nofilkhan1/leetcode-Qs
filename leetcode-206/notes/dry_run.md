@@ -39,3 +39,8 @@ State: `1 <- 2 <- 3 <- NULL`
     2->next->next = 2, 2->next = NULL  unwind
     1->next->next = 1, 1->next = NULL  unwind
     returns 3
+## Takeaway
+
+Both versions end up with the same chain, only the order in which the
+pointers flip differs: iterative flips them on the way down, recursive
+flips them on the way back up.
