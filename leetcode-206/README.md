@@ -43,3 +43,8 @@ tail of that reversed remainder:
 - Single node, `head->next == NULL`, returns the same node.
 - Two nodes, the classic swap case.
 - Long list, the recursive version can exhaust the call stack.
+## Notes
+
+The iterative version is the one to remember: constant space, no
+recursion depth limit, and the same pointer dance shows up again in
+reverse-nodes-in-k-group and palindrome list problems.
