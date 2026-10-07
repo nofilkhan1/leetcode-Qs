@@ -80,3 +80,6 @@ public:
         return cloneHead;
     }
 };
+// Why it works: after step 2 every adjacent pair is (original, clone), so
+// original->random->next is exactly the clone of original->random.
+// Step 4 restores both lists without reading a single value.
