@@ -37,3 +37,5 @@ public:
 //   prev=3   curr=NULL 1 <- 2 <- 3
 // The loop only needs prev and curr. `next` is captured at the top of
 // the iteration so the remainder of the list is never lost.
+// The recursive version lives in ConsoleApplication1.cpp: same result,
+// but it trades O(1) space for O(n) worth of call stack.
