@@ -26,3 +26,6 @@ x86/
 *.opendb
 *.VC.db
 *.VC.VC.opendb
+ipch/
+*.cache
+_UpgradeReport_Files/
