@@ -26,3 +26,9 @@ solution before submitting.
 
     Input:  head = [1,1,2]
     Output: [2,1,1]
+## 7. Large list
+
+    Input:  head = [1, 2, ... , 5000]
+    Output: [5000, ... , 2, 1]
+
+Catches the recursion depth limit of the recursive version.
