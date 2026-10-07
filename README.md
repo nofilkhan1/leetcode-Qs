@@ -44,3 +44,8 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 |---------|------|-------|
 | 138 (interleaving) | O(n) | O(1) |
 | 138 (hash map) | O(n) | O(n) |
+## Progress
+
+- [x] 138 - Copy List with Random Pointer
+- [x] 206 - Reverse Linked List
+- [ ] more problems coming soon
