@@ -32,3 +32,9 @@ A clone's `random` then always lives at `original->random->next`.
 
 - **Time** O(n) - four linear passes over the list.
 - **Space** O(1) extra, apart from the nodes that were copied anyway.
+## Edge cases
+
+- Empty list, return `NULL`.
+- A `random` pointer that is `NULL`.
+- A `random` pointer that looks backwards in the list.
+- Single node whose `random` points at itself.
