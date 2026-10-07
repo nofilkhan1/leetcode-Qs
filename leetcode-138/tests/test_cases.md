@@ -33,3 +33,10 @@ Nothing breaks if every `random` is `NULL`.
 
 Backwards links are the case that catches an approach which only walks
 the list forwards once.
+## 6. Every random points at the head
+
+    Input:  head = [[1,0],[2,0],[3,0],[4,0]]
+    Output: [[1,0],[2,0],[3,0],[4,0]]
+
+All clones end up sharing one target, which must still be the clone of
+the head and never the original head.
