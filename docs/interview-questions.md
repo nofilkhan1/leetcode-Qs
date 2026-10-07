@@ -38,3 +38,4 @@ Questions to answer out loud tomorrow.
 - **Day 34:** why does random->next always point at the clone?
 - **Day 35:** how do you know both lists are restored?
 - **Day 36:** why must head->next be set to NULL?
+- **Day 37:** what goes into the October plan?
