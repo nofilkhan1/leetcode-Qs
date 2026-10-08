@@ -9,3 +9,10 @@
 //     ListNode(int x) : val(x), next(nullptr) {}
 //     ListNode(int x, ListNode *next) : val(x), next(next) {}
 // };
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2)
+    {
+        // The dummy node owns no value, it only anchors the result.
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
