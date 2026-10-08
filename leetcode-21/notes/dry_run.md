@@ -7,3 +7,8 @@ Every state of the pointers while merging `[1,2,4]` with `[1,3,4]`.
     list2 -> 1 -> 3 -> 4
     dummy  -> (empty)
     tail   = dummy
+## Step 1 - 1 <= 1, take from list1
+
+    dummy -> 1
+    list1 -> 2 -> 4
+    tail sits on the node 1
