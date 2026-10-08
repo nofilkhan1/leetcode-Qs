@@ -7,3 +7,8 @@ You are given the heads of two sorted linked lists `list1` and `list2`.
 
 Merge them into one sorted list and return its head. The result must be
 built out of the existing nodes, no new allocations are allowed.
+## Constraints
+
+- Both lists are sorted in non-decreasing order.
+- Either list may be empty.
+- Values fit in a 32 bit int, so no overflow while comparing.
