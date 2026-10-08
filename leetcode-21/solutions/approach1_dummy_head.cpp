@@ -16,3 +16,16 @@ public:
         // The dummy node owns no value, it only anchors the result.
         ListNode dummy(0);
         ListNode* tail = &dummy;
+        // Attach the smaller of the two current nodes.
+        while (list1 != NULL && list2 != NULL)
+        {
+            if (list1->val <= list2->val)
+            {
+                tail->next = list1;
+                list1 = list1->next;
+            }
+            else
+            {
+                tail->next = list2;
+                list2 = list2->next;
+            }
