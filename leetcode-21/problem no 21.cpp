@@ -18,3 +18,18 @@ public:
 
         if (list2 == NULL)
             return list1;
+
+        ListNode* head = NULL;
+        ListNode* tail = NULL;
+        if (list1->val <= list2->val)
+        {
+            head = list1;
+            list1 = list1->next;
+        }
+        else
+        {
+            head = list2;
+            list2 = list2->next;
+        }
+
+        tail = head;
