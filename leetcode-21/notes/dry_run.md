@@ -21,3 +21,7 @@ Every state of the pointers while merging `[1,2,4]` with `[1,3,4]`.
 
     dummy -> 1 -> 1 -> 2
     list1 -> 4
+## Step 4 - 4 > 3, take from list2
+
+    dummy -> 1 -> 1 -> 2 -> 3
+    list2 -> 4
