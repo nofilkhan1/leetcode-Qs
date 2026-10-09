@@ -48,3 +48,11 @@ public:
 
             tail = tail->next;
         }
+        if (list1 != NULL)
+            tail->next = list1;
+        else
+            tail->next = list2;
+
+        return head;
+    }
+};
