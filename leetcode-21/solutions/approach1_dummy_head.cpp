@@ -29,3 +29,7 @@ public:
                 tail->next = list2;
                 list2 = list2->next;
             }
+            // Always move the tail, otherwise the next write clobbers
+            // the node that was just attached.
+            tail = tail->next;
+        }
