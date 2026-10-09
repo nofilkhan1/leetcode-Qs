@@ -33,3 +33,10 @@ public:
             // the node that was just attached.
             tail = tail->next;
         }
+        // At most one list still has nodes left, attach it whole.
+        tail->next = (list1 != NULL) ? list1 : list2;
+
+        // The first real node sits right after the dummy.
+        return dummy.next;
+    }
+};
