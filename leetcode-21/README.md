@@ -17,3 +17,8 @@ built out of the existing nodes, no new allocations are allowed.
     list1 = [1,2,4]   list2 = [1,3,4]   -> [1,1,2,3,4,4]
     list1 = []        list2 = []        -> []
     list1 = []        list2 = [0]       -> [0]
+## Three ways to solve it
+
+1. Dummy head, append whichever node is smaller.
+2. No dummy head, pick the first node by hand and then merge.
+3. Recursive, merge the remainders of the two lists.
