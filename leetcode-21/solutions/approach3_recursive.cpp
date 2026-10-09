@@ -15,3 +15,5 @@ public:
         // Base case: merging with an empty list is the other list.
         if (list1 == NULL)
             return list2;
+        if (list2 == NULL)
+            return list1;
