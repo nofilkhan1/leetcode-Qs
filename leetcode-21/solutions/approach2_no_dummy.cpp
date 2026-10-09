@@ -23,3 +23,10 @@ public:
         // that has been attached so far.
         ListNode* head = NULL;
         ListNode* tail = NULL;
+        // There is no dummy node to attach to, so the first node is
+        // picked by hand and its list is advanced right away.
+        if (list1->val <= list2->val)
+        {
+            head = list1;
+            list1 = list1->next;
+        }
