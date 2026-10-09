@@ -30,3 +30,8 @@ public:
             head = list1;
             list1 = list1->next;
         }
+        else
+        {
+            head = list2;
+            list2 = list2->next;
+        }
