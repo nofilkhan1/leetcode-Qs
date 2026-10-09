@@ -16,3 +16,10 @@ public:
         // An empty list cannot win a comparison, return the other one.
         if (list1 == NULL)
             return list2;
+        if (list2 == NULL)
+            return list1;
+
+        // head is the first node of the result, tail is the last one
+        // that has been attached so far.
+        ListNode* head = NULL;
+        ListNode* tail = NULL;
