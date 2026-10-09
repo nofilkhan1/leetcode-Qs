@@ -21,3 +21,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [2]
     list2 = [1]
     output = [1, 2]
+## 5. The classic example
+
+    list1 = [1, 2, 4]
+    list2 = [1, 3, 4]
+    output = [1, 1, 2, 3, 4, 4]
