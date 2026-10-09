@@ -12,3 +12,8 @@ Every state of the pointers while merging `[1,2,4]` with `[1,3,4]`.
     dummy -> 1
     list1 -> 2 -> 4
     tail sits on the node 1
+## Step 2 - 1 < 2, take from list2
+
+    dummy -> 1 -> 1
+    list2 -> 3 -> 4
+    tail sits on the second node
