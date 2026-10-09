@@ -40,3 +40,6 @@ public:
         return dummy.next;
     }
 };
+// Why the dummy node is worth one extra local:
+// the empty list, the single node list and the "one list wins
+// completely" case all collapse into the same two lines.
