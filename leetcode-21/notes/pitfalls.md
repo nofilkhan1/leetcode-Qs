@@ -10,3 +10,5 @@ Twenty mistakes that show up when merging two sorted lists.
    the wrong node or never advances at all.
 4. Detaching a node before saving what its `next` pointed at, which
    loses the rest of that list.
+5. Using `<` instead of `<=`. Still sorted, but equal values then come
+   from `list2` first and the merge is no longer stable.
