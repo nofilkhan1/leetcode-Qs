@@ -8,3 +8,5 @@ Twenty mistakes that show up when merging two sorted lists.
    cycle.
 3. Advancing `list1` or `list2` in the wrong branch, so the merge takes
    the wrong node or never advances at all.
+4. Detaching a node before saving what its `next` pointed at, which
+   loses the rest of that list.
