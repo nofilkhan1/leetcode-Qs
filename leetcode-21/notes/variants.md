@@ -9,3 +9,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     merge.
 4. **88 / 21 variant with stability** - keep the order of equal values,
     which needs `<=` rather than `<`.
+5. **Merge three sorted lists** - merge the first two, then merge that
+    result with the third. O(n + m + p).
