@@ -15,3 +15,7 @@ the very first node differs.
 
 The dummy head removes the special case of the first node. You pay one
 extra local and one `dummy.next` at the end.
+## Iterative against recursive
+
+The recursive version is shorter and mirrors the statement, but its
+call stack grows with the length of the merged list.
