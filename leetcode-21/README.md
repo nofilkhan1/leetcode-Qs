@@ -22,3 +22,8 @@ built out of the existing nodes, no new allocations are allowed.
 1. Dummy head, append whichever node is smaller.
 2. No dummy head, pick the first node by hand and then merge.
 3. Recursive, merge the remainders of the two lists.
+## Approach A - dummy head
+
+Create a throwaway node, keep a `tail` pointer on the result and keep
+attaching the smaller of the two current nodes. The answer is
+`dummy.next` at the end, so no empty-list special case is needed.
