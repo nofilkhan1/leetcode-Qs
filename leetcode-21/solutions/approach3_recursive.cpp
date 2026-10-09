@@ -17,3 +17,10 @@ public:
             return list2;
         if (list2 == NULL)
             return list1;
+        // The smaller head becomes the head of the merged list and its
+        // next becomes the merge of the two remainders.
+        if (list1->val <= list2->val)
+        {
+            list1->next = mergeTwoLists(list1->next, list2);
+            return list1;
+        }
