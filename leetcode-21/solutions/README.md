@@ -19,3 +19,7 @@ extra local and one `dummy.next` at the end.
 
 The recursive version is shorter and mirrors the statement, but its
 call stack grows with the length of the merged list.
+## Stability
+
+Every version uses `<=`, so equal values keep the order they had in
+`list1` before those that came from `list2`.
