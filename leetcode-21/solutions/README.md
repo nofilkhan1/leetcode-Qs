@@ -11,3 +11,7 @@ Three correct solutions, all of them O(n + m) time.
 All three do the same thing: repeatedly take the smaller of the two
 current nodes and attach it to the result. Only the bookkeeping around
 the very first node differs.
+## Dummy head against no dummy head
+
+The dummy head removes the special case of the first node. You pay one
+extra local and one `dummy.next` at the end.
