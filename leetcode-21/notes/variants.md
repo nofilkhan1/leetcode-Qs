@@ -5,3 +5,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     from the back so no extra space is needed.
 2. **23. Merge k Sorted Lists** - a priority queue over the k heads, or
     pairwise merging in a divide and conquer loop. O(N log k).
+3. **148. Sort List** - bottom up merge sort whose inner step is this
+    merge.
