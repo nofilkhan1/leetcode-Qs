@@ -12,3 +12,8 @@ built out of the existing nodes, no new allocations are allowed.
 - Both lists are sorted in non-decreasing order.
 - Either list may be empty.
 - Values fit in a 32 bit int, so no overflow while comparing.
+## Examples
+
+    list1 = [1,2,4]   list2 = [1,3,4]   -> [1,1,2,3,4,4]
+    list1 = []        list2 = []        -> []
+    list1 = []        list2 = [0]       -> [0]
