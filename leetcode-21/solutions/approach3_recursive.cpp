@@ -36,3 +36,5 @@ public:
 //     2 >  1 -> head is 1, merge([2], [3])
 //     2 <= 3 -> head is 2, merge([], [3]) which is 3
 //     result 1 -> 1 -> 2 -> 3
+// Every call removes exactly one node from consideration, so the depth
+// of the recursion is n + m.
