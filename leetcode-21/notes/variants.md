@@ -13,3 +13,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     result with the third. O(n + m + p).
 6. **Merge and return the count of comparisons** - a nice exercise for
     measuring how the two orders of the inputs change the work done.
+7. **Merge two sorted lists into an array** - same pointers, but the
+    result is written into a vector instead of relinking nodes.
