@@ -38,3 +38,5 @@ public:
 //     result 1 -> 1 -> 2 -> 3
 // Every call removes exactly one node from consideration, so the depth
 // of the recursion is n + m.
+// That depth is why the recursive version is the one that can hit the
+// judge stack limit on long lists.
