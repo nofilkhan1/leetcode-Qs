@@ -43,3 +43,6 @@ public:
 // Why the dummy node is worth one extra local:
 // the empty list, the single node list and the "one list wins
 // completely" case all collapse into the same two lines.
+// Trace of [1,2,4] against [1,3,4]:
+//     dummy -> 1 -> 1 -> 2 -> 3 -> 4 -> 4
+//     list1 consumed 1, 2, 4     list2 consumed 1, 3, 4
