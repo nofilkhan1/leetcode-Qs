@@ -33,3 +33,8 @@ Every state of the pointers while merging `[1,2,4]` with `[1,3,4]`.
 
 One list is empty, so the while condition fails. `tail` still sits on
 the node 4 that was taken from list1.
+## Attaching what is left
+
+    tail->next = list2;   // list2 still holds its node 4
+
+    dummy -> 1 -> 1 -> 2 -> 3 -> 4 -> 4
