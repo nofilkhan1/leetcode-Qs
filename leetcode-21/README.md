@@ -40,3 +40,8 @@ attaching the smaller of the two current nodes. The answer is
 Pick the smaller of the two heads by hand to become the result head,
 then run exactly the same loop. This is the version in
 `problem no 21.cpp`.
+## Why approach B needs the extra if
+
+With no dummy node there is nothing to attach the first node to, so the
+first comparison happens once before the loop and the loop only handles
+the rest. Getting `head` and `tail` mixed up here is the usual bug.
