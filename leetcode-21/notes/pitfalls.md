@@ -16,3 +16,5 @@ Twenty mistakes that show up when merging two sorted lists.
    version, which null dereferences on the first empty input.
 7. Returning `tail` at the end instead of `head`. The caller gets a one
    node list.
+8. Writing `tail->next = NULL` after the loop, which throws away the
+   nodes of the list that still has elements.
