@@ -36,3 +36,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [1, 3, 5]
     list2 = [2, 4, 6]
     output = [1, 2, 3, 4, 5, 6]
+## 8. Everything in list1 is smaller
+
+    list1 = [1, 2, 3]
+    list2 = [90, 91]
+    output = [1, 2, 3, 90, 91]
