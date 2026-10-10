@@ -48,3 +48,5 @@ public:
 //     list1 consumed 1, 2, 4     list2 consumed 1, 3, 4
 // The comparison uses <= so equal values are taken from list1 first,
 // which is what keeps the merge stable.
+// Nothing is allocated: every node of the result already lived in one
+// of the two input lists.
