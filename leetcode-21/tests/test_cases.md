@@ -26,3 +26,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [1, 2, 4]
     list2 = [1, 3, 4]
     output = [1, 1, 2, 3, 4, 4]
+## 6. No overlap at all
+
+    list1 = [1, 2, 3]
+    list2 = [4, 5, 6]
+    output = [1, 2, 3, 4, 5, 6]
