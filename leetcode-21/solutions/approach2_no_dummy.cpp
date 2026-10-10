@@ -37,3 +37,8 @@ public:
         }
         // tail starts on the node that was just picked.
         tail = head;
+        while (list1 != NULL && list2 != NULL)
+        {
+            if (list1->val <= list2->val)
+            {
+                tail->next = list1;
