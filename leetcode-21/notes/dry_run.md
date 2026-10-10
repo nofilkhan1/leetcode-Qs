@@ -29,3 +29,7 @@ Every state of the pointers while merging `[1,2,4]` with `[1,3,4]`.
 
     dummy -> 1 -> 1 -> 2 -> 3 -> 4
     list1 is now empty
+## Step 6 - the loop stops
+
+One list is empty, so the while condition fails. `tail` still sits on
+the node 4 that was taken from list1.
