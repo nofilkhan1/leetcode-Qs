@@ -11,3 +11,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     which needs `<=` rather than `<`.
 5. **Merge three sorted lists** - merge the first two, then merge that
     result with the third. O(n + m + p).
+6. **Merge and return the count of comparisons** - a nice exercise for
+    measuring how the two orders of the inputs change the work done.
