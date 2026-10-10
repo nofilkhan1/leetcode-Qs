@@ -27,3 +27,11 @@ built out of the existing nodes, no new allocations are allowed.
 Create a throwaway node, keep a `tail` pointer on the result and keep
 attaching the smaller of the two current nodes. The answer is
 `dummy.next` at the end, so no empty-list special case is needed.
+## Approach A in one loop
+
+    while (a && b) {
+        if (a->val <= b->val) { tail->next = a; a = a->next; }
+        else { tail->next = b; b = b->next; }
+        tail = tail->next;
+    }
+    tail->next = a ? a : b;
