@@ -35,3 +35,8 @@ attaching the smaller of the two current nodes. The answer is
         tail = tail->next;
     }
     tail->next = a ? a : b;
+## Approach B - no dummy head
+
+Pick the smaller of the two heads by hand to become the result head,
+then run exactly the same loop. This is the version in
+`problem no 21.cpp`.
