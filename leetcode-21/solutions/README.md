@@ -28,3 +28,10 @@ Every version uses `<=`, so equal values keep the order they had in
 - The output is sorted.
 - The output is made of the original node pointers, no new nodes.
 - Empty list inputs behave.
+## Writing it from memory
+
+1. Base cases or a dummy node.
+2. Loop while both lists still have nodes.
+3. Attach the smaller, advance it, advance the tail.
+4. Attach whatever is left over.
+5. Return the correct head.
