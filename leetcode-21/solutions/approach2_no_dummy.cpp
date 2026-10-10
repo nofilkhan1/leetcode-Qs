@@ -42,3 +42,6 @@ public:
             if (list1->val <= list2->val)
             {
                 tail->next = list1;
+                // Advance the list a node was just taken from.
+                list1 = list1->next;
+            }
