@@ -35,3 +35,5 @@ public:
             head = list2;
             list2 = list2->next;
         }
+        // tail starts on the node that was just picked.
+        tail = head;
