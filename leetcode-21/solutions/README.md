@@ -23,3 +23,8 @@ call stack grows with the length of the merged list.
 
 Every version uses `<=`, so equal values keep the order they had in
 `list1` before those that came from `list2`.
+## What the judge actually checks
+
+- The output is sorted.
+- The output is made of the original node pointers, no new nodes.
+- Empty list inputs behave.
