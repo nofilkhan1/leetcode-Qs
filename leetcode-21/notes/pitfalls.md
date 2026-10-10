@@ -14,3 +14,5 @@ Twenty mistakes that show up when merging two sorted lists.
    from `list2` first and the merge is no longer stable.
 6. Forgetting one of the two empty list guards in the no dummy head
    version, which null dereferences on the first empty input.
+7. Returning `tail` at the end instead of `head`. The caller gets a one
+   node list.
