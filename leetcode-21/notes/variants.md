@@ -15,3 +15,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     measuring how the two orders of the inputs change the work done.
 7. **Merge two sorted lists into an array** - same pointers, but the
     result is written into a vector instead of relinking nodes.
+8. **Check if a list is a merge of two others** - run the merge and
+    compare the result with the candidate list node by node.
