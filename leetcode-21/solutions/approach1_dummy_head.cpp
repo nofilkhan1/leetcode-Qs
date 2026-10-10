@@ -46,3 +46,5 @@ public:
 // Trace of [1,2,4] against [1,3,4]:
 //     dummy -> 1 -> 1 -> 2 -> 3 -> 4 -> 4
 //     list1 consumed 1, 2, 4     list2 consumed 1, 3, 4
+// The comparison uses <= so equal values are taken from list1 first,
+// which is what keeps the merge stable.
