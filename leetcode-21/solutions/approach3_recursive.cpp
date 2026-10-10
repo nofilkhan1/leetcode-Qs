@@ -31,3 +31,8 @@ public:
         }
     }
 };
+// Trace of [1,2] against [1,3]:
+//     1 <= 1 -> head is 1, merge([2], [1,3])
+//     2 >  1 -> head is 1, merge([2], [3])
+//     2 <= 3 -> head is 2, merge([], [3]) which is 3
+//     result 1 -> 1 -> 2 -> 3
