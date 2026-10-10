@@ -25,3 +25,7 @@ Every state of the pointers while merging `[1,2,4]` with `[1,3,4]`.
 
     dummy -> 1 -> 1 -> 2 -> 3
     list2 -> 4
+## Step 5 - 4 <= 4, take from list1
+
+    dummy -> 1 -> 1 -> 2 -> 3 -> 4
+    list1 is now empty
