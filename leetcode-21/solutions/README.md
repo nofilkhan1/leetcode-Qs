@@ -35,3 +35,7 @@ Every version uses `<=`, so equal values keep the order they had in
 3. Attach the smaller, advance it, advance the tail.
 4. Attach whatever is left over.
 5. Return the correct head.
+## Common failure: the self loop
+
+Forgetting `tail = tail->next` makes the last attached node point at
+itself, and printing the list then never terminates.
