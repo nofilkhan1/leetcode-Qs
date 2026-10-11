@@ -59,3 +59,7 @@ remainders:
 | Dummy head | O(n + m) | O(1) |
 | No dummy head | O(n + m) | O(1) |
 | Recursive | O(n + m) | O(n + m) call stack |
+## The merge is stable
+
+Whenever the two values are equal the code takes the node from `list1`
+first, so equal values keep the order they had in the input lists.
