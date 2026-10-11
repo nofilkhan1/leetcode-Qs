@@ -18,3 +18,5 @@ Twenty mistakes that show up when merging two sorted lists.
    node list.
 8. Writing `tail->next = NULL` after the loop, which throws away the
    nodes of the list that still has elements.
+9. Recursive version with no base case, which overflows the stack on the
+   first empty list.
