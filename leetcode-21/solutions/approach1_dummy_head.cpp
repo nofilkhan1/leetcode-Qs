@@ -52,3 +52,5 @@ public:
 // of the two input lists.
 // The two pointer updates must happen in the same branch that attached
 // the node, not after the loop.
+// A branch that forgets one of those advances either loops forever or
+// silently drops the rest of a list.
