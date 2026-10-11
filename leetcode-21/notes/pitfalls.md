@@ -20,3 +20,5 @@ Twenty mistakes that show up when merging two sorted lists.
    nodes of the list that still has elements.
 9. Recursive version with no base case, which overflows the stack on the
    first empty list.
+10. Recursive version that makes the call and ignores the return value,
+    orphaning the rest of the list.
