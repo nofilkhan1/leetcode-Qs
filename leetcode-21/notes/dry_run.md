@@ -38,3 +38,7 @@ the node 4 that was taken from list1.
     tail->next = list2;   // list2 still holds its node 4
 
     dummy -> 1 -> 1 -> 2 -> 3 -> 4 -> 4
+## The result
+
+`dummy.next` is the first 1, and the merged list holds six nodes, three
+from each input. Both input lists are now part of the result.
