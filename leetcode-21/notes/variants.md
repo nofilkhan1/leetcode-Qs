@@ -17,3 +17,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     result is written into a vector instead of relinking nodes.
 8. **Check if a list is a merge of two others** - run the merge and
     compare the result with the candidate list node by node.
+9. **315. Count of Smaller Numbers After Self** - the counting step is a
+    merge sort on indices, which uses this same merge shape.
