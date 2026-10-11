@@ -21,3 +21,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     merge sort on indices, which uses this same merge shape.
 10. **143. Reorder List** - merge the first half with the reversed second
     half using this routine.
+11. **Palindromic linked list (234)** - merge the reversed second half
+    with the first half to rebuild the original order.
