@@ -45,3 +45,10 @@ then run exactly the same loop. This is the version in
 With no dummy node there is nothing to attach the first node to, so the
 first comparison happens once before the loop and the loop only handles
 the rest. Getting `head` and `tail` mixed up here is the usual bug.
+## Approach C - recursive
+
+If either list is empty, return the other. Otherwise the smaller head
+becomes the head of the result and its `next` is the merge of the two
+remainders:
+
+    if (a->val <= b->val) { a->next = merge(a->next, b); return a; }
