@@ -40,3 +40,5 @@ public:
 // of the recursion is n + m.
 // That depth is why the recursive version is the one that can hit the
 // judge stack limit on long lists.
+// The assignment list1->next = merge(...) rewires an existing node, a
+// new ListNode is never created.
