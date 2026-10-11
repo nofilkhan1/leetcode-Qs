@@ -52,3 +52,10 @@ becomes the head of the result and its `next` is the merge of the two
 remainders:
 
     if (a->val <= b->val) { a->next = merge(a->next, b); return a; }
+## Complexity
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Dummy head | O(n + m) | O(1) |
+| No dummy head | O(n + m) | O(1) |
+| Recursive | O(n + m) | O(n + m) call stack |
