@@ -51,3 +51,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [5, 5]
     list2 = [5, 5]
     output = [5, 5, 5, 5]
+## 11. Duplicates inside one list
+
+    list1 = [1, 1, 2]
+    list2 = [1]
+    output = [1, 1, 1, 2]
