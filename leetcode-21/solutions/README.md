@@ -47,3 +47,7 @@ throws away every node that had not been merged yet.
 
 There are n + m nodes in the result and each one is attached exactly
 once, so the loop body runs n + m times.
+## Complexity of the recursive version
+
+One node is consumed per call, so there are n + m frames and each frame
+does constant work.
