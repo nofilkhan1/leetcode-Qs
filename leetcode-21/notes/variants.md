@@ -19,3 +19,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     compare the result with the candidate list node by node.
 9. **315. Count of Smaller Numbers After Self** - the counting step is a
     merge sort on indices, which uses this same merge shape.
+10. **143. Reorder List** - merge the first half with the reversed second
+    half using this routine.
