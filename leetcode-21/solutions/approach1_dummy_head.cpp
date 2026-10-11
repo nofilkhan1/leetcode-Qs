@@ -54,3 +54,6 @@ public:
 // the node, not after the loop.
 // A branch that forgets one of those advances either loops forever or
 // silently drops the rest of a list.
+// The ternary at the end is the same as:
+//     if (list1 != NULL) tail->next = list1;
+//     else               tail->next = list2;
