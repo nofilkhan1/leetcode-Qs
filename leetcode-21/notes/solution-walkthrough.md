@@ -8,3 +8,8 @@ line. It is the no dummy head version.
     if (list2 == NULL) return list1;
 
 Merging with an empty list is just the other list, no work needed.
+## Lines 22 to 23: the two pointers on the result
+
+`head` is the first node of the merged list, `tail` is the node the next
+attachment will hang off. Both start as NULL and are set immediately
+after.
