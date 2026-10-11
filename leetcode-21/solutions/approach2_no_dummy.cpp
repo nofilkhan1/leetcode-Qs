@@ -50,3 +50,6 @@ public:
                 tail->next = list2;
                 list2 = list2->next;
             }
+            // Move the tail onto the node that was just attached.
+            tail = tail->next;
+        }
