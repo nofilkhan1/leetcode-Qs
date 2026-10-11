@@ -13,3 +13,8 @@ Merging with an empty list is just the other list, no work needed.
 `head` is the first node of the merged list, `tail` is the node the next
 attachment will hang off. Both start as NULL and are set immediately
 after.
+## Lines 24 to 33: picking the first node
+
+There is no dummy node to attach to, so the first node is chosen by
+hand: the smaller of the two heads wins and the list it came from is
+advanced in the same branch.
