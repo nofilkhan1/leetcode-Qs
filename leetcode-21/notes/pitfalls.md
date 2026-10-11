@@ -22,3 +22,5 @@ Twenty mistakes that show up when merging two sorted lists.
    first empty list.
 10. Recursive version that makes the call and ignores the return value,
     orphaning the rest of the list.
+11. Allocating new nodes for the result. The problem says to reuse the
+    existing ones and the judge checks the pointers.
