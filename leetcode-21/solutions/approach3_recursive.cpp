@@ -46,3 +46,4 @@ public:
 // read at a glance:
 //     if (!list1) return list2;
 //     if (!list2) return list1;
+// The <= comparison is what makes this merge stable as well.
