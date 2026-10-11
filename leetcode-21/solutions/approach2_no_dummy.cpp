@@ -45,3 +45,8 @@ public:
                 // Advance the list a node was just taken from.
                 list1 = list1->next;
             }
+            else
+            {
+                tail->next = list2;
+                list2 = list2->next;
+            }
