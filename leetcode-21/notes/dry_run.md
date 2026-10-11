@@ -46,3 +46,8 @@ from each input. Both input lists are now part of the result.
 
 Five times inside the loop plus the initial pick, one move per attached
 node except the remainder which is attached in one pointer write.
+## Which pointer is always behind?
+
+`tail` always points at the last node of the result. `list1` and
+`list2` always point at the next node still to be considered, never at
+a node that is already in the result.
