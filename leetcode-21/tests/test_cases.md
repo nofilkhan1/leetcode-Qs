@@ -46,3 +46,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [90, 91]
     list2 = [1, 2, 3]
     output = [1, 2, 3, 90, 91]
+## 10. Only equal values
+
+    list1 = [5, 5]
+    list2 = [5, 5]
+    output = [5, 5, 5, 5]
