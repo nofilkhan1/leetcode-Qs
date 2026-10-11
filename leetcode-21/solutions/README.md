@@ -43,3 +43,7 @@ itself, and printing the list then never terminates.
 
 Writing `tail->next = NULL` instead of attaching the leftover list
 throws away every node that had not been merged yet.
+## Complexity, worked out
+
+There are n + m nodes in the result and each one is attached exactly
+once, so the loop body runs n + m times.
