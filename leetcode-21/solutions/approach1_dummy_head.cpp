@@ -50,3 +50,5 @@ public:
 // which is what keeps the merge stable.
 // Nothing is allocated: every node of the result already lived in one
 // of the two input lists.
+// The two pointer updates must happen in the same branch that attached
+// the node, not after the loop.
