@@ -42,3 +42,7 @@ the node 4 that was taken from list1.
 
 `dummy.next` is the first 1, and the merged list holds six nodes, three
 from each input. Both input lists are now part of the result.
+## How many times did the tail move?
+
+Five times inside the loop plus the initial pick, one move per attached
+node except the remainder which is attached in one pointer write.
