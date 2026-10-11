@@ -39,3 +39,7 @@ Every version uses `<=`, so equal values keep the order they had in
 
 Forgetting `tail = tail->next` makes the last attached node point at
 itself, and printing the list then never terminates.
+## Common failure: dropped remainder
+
+Writing `tail->next = NULL` instead of attaching the leftover list
+throws away every node that had not been merged yet.
