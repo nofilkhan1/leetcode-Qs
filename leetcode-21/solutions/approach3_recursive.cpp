@@ -42,3 +42,7 @@ public:
 // judge stack limit on long lists.
 // The assignment list1->next = merge(...) rewires an existing node, a
 // new ListNode is never created.
+// Writing the two base cases one per line keeps the function easy to
+// read at a glance:
+//     if (!list1) return list2;
+//     if (!list2) return list1;
