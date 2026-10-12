@@ -24,3 +24,8 @@ advanced in the same branch.
 
 After the first pick the result holds exactly one node and both pointers
 see it.
+## Lines 36 to 50: the merge loop
+
+While both lists still hold nodes, attach the smaller one to
+`tail->next`, advance that list, then move `tail` onto the node that was
+just attached.
