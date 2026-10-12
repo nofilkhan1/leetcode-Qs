@@ -78,3 +78,9 @@ first, so equal values keep the order they had in the input lists.
 - One list exhausted far before the other.
 - Every value of one list smaller than every value of the other.
 - Equal values, to check that the merge stays stable.
+## Bugs that show up here
+
+- Returning `dummy` instead of `dummy->next`.
+- Forgetting `tail = tail->next` and building a self loop.
+- Detaching a node before saving what it pointed at.
+- Recursive version missing an empty list base case.
