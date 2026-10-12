@@ -56,3 +56,9 @@ public:
         // Whichever list still has nodes becomes the rest of the result.
         if (list1 != NULL)
             tail->next = list1;
+        else
+            tail->next = list2;
+
+        return head;
+    }
+};
