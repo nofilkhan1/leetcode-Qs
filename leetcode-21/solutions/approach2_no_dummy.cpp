@@ -64,3 +64,5 @@ public:
 };
 // The two early returns are what a dummy head would have handled for
 // free, that is the only price of this version.
+// head and tail must stay in sync: tail always sits on a node that is
+// already part of the result, head is the first of those nodes.
