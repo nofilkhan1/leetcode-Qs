@@ -58,3 +58,4 @@ public:
 //     if (list1 != NULL) tail->next = list1;
 //     else               tail->next = list2;
 // Space is constant: dummy and tail are two locals on the stack.
+// Time is exactly n + m node visits, one visit per node of the result.
