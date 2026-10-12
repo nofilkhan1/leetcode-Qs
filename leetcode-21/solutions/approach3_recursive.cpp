@@ -47,3 +47,5 @@ public:
 //     if (!list1) return list2;
 //     if (!list2) return list1;
 // The <= comparison is what makes this merge stable as well.
+// Swapping the two branches still yields a sorted list, but equal
+// values would then come from list2 before list1.
