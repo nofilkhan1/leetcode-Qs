@@ -29,3 +29,9 @@ see it.
 While both lists still hold nodes, attach the smaller one to
 `tail->next`, advance that list, then move `tail` onto the node that was
 just attached.
+## Line 49 is the one people forget
+
+    tail = tail->next;
+
+Without it the next `tail->next = ...` overwrites the node just attached
+and the list collapses into a cycle.
