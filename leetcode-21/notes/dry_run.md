@@ -58,3 +58,7 @@ a node that is already in the result.
     The loop condition fails immediately.
     tail->next = list2 attaches the whole list.
     The result is 1.
+## Why the empty list case costs nothing
+
+No special branch is needed at the end: the ternary attaches whatever
+is left, and if both lists are empty it attaches NULL.
