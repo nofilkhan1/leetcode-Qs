@@ -71,3 +71,10 @@ first, so equal values keep the order they had in the input lists.
     take 3 from list2  -> 1 1 2 3
     take 4 from list1  -> 1 1 2 3 4
     list1 empty, attach the rest of list2 -> 1 1 2 3 4 4
+## Edge cases
+
+- Both lists empty, return `NULL`.
+- One list empty, return the other one untouched.
+- One list exhausted far before the other.
+- Every value of one list smaller than every value of the other.
+- Equal values, to check that the merge stays stable.
