@@ -49,3 +49,5 @@ public:
 // The <= comparison is what makes this merge stable as well.
 // Swapping the two branches still yields a sorted list, but equal
 // values would then come from list2 before list1.
+// A common beginner mistake is making the recursive call and then
+// ignoring its return value, which orphans the rest of the list.
