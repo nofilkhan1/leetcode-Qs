@@ -56,3 +56,7 @@ does constant work.
 Say the dummy head version first, mention the recursive one as the
 clearest description, then the no dummy head version as the minimal
 form.
+## How to test it, in order
+
+Empty list, one node each, no overlap, full interleave, equal values,
+and one list exhausted immediately.
