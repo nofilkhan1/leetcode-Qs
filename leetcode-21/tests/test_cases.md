@@ -66,3 +66,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [1, 2, 3, 4, 5]
     list2 = [0]
     output = [0, 1, 2, 3, 4, 5]
+## 14. Zeros and negatives
+
+    list1 = [-3, -1, 0]
+    list2 = [-2, 0, 2]
+    output = [-3, -2, -1, 0, 0, 2]
