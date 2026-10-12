@@ -27,3 +27,5 @@ Twenty mistakes that show up when merging two sorted lists.
 12. Deleting nodes that were attached. The judge still owns them.
 13. Assuming one list is always shorter or always behind. The merge must
     work for any interleaving.
+14. Reversing the comparison and comparing `tail->val` instead of the
+    two current node values.
