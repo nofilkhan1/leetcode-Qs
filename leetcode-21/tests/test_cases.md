@@ -56,3 +56,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [1, 1, 2]
     list2 = [1]
     output = [1, 1, 1, 2]
+## 12. One long list, one short
+
+    list1 = [1]
+    list2 = [0, 2, 3, 4, 5, 6, 7, 8]
+    output = [0, 1, 2, 3, 4, 5, 6, 7, 8]
