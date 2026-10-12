@@ -60,3 +60,7 @@ form.
 
 Empty list, one node each, no overlap, full interleave, equal values,
 and one list exhausted immediately.
+## Follow-up: merge k sorted lists (23)
+
+Pairwise merging in a divide and conquer loop, or a priority queue over
+the k heads. Both run in O(N log k).
