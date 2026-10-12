@@ -24,3 +24,4 @@ Twenty mistakes that show up when merging two sorted lists.
     orphaning the rest of the list.
 11. Allocating new nodes for the result. The problem says to reuse the
     existing ones and the judge checks the pointers.
+12. Deleting nodes that were attached. The judge still owns them.
