@@ -25,3 +25,5 @@ Twenty mistakes that show up when merging two sorted lists.
 11. Allocating new nodes for the result. The problem says to reuse the
     existing ones and the judge checks the pointers.
 12. Deleting nodes that were attached. The judge still owns them.
+13. Assuming one list is always shorter or always behind. The merge must
+    work for any interleaving.
