@@ -51,3 +51,10 @@ node except the remainder which is attached in one pointer write.
 `tail` always points at the last node of the result. `list1` and
 `list2` always point at the next node still to be considered, never at
 a node that is already in the result.
+## Second run - empty list against [1]
+
+    list1 = []
+    list2 = [1]
+    The loop condition fails immediately.
+    tail->next = list2 attaches the whole list.
+    The result is 1.
