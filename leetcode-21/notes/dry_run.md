@@ -62,3 +62,10 @@ a node that is already in the result.
 
 No special branch is needed at the end: the ternary attaches whatever
 is left, and if both lists are empty it attaches NULL.
+## Third run - [5] against [1,2]
+
+    1 < 5, so list2 wins the first comparison.
+    Result so far: 1, list2 moves to 2.
+    2 < 5, list2 wins again. Result: 1 2.
+    list2 is empty, attach list1 which still holds 5.
+    Final result: 1 -> 2 -> 5.
