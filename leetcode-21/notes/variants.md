@@ -23,3 +23,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     half using this routine.
 11. **Palindromic linked list (234)** - merge the reversed second half
     with the first half to rebuild the original order.
+12. **Merge two binary search trees** - the in order traversals are
+    sorted, so they can be merged the same way.
