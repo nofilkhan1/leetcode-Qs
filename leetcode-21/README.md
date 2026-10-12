@@ -63,3 +63,11 @@ remainders:
 
 Whenever the two values are equal the code takes the node from `list1`
 first, so equal values keep the order they had in the input lists.
+## Dry run of [1,2,4] against [1,3,4]
+
+    take 1 from list1  -> 1
+    take 1 from list2  -> 1 1
+    take 2 from list1  -> 1 1 2
+    take 3 from list2  -> 1 1 2 3
+    take 4 from list1  -> 1 1 2 3 4
+    list1 empty, attach the rest of list2 -> 1 1 2 3 4 4
