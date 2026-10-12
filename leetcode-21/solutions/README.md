@@ -51,3 +51,8 @@ once, so the loop body runs n + m times.
 
 One node is consumed per call, so there are n + m frames and each frame
 does constant work.
+## How to present it in an interview
+
+Say the dummy head version first, mention the recursive one as the
+clearest description, then the no dummy head version as the minimal
+form.
