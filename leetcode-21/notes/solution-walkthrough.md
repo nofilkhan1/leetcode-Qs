@@ -18,3 +18,9 @@ after.
 There is no dummy node to attach to, so the first node is chosen by
 hand: the smaller of the two heads wins and the list it came from is
 advanced in the same branch.
+## Line 35: tail follows head
+
+    tail = head;
+
+After the first pick the result holds exactly one node and both pointers
+see it.
