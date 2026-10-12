@@ -25,3 +25,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     with the first half to rebuild the original order.
 12. **Merge two binary search trees** - the in order traversals are
     sorted, so they can be merged the same way.
+13. **Merge two sorted arrays with no extra space** - gap method, the
+    comparison idea carries over even though the data structure does not.
