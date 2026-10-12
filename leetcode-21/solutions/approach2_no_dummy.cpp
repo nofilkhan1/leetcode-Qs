@@ -62,3 +62,5 @@ public:
         return head;
     }
 };
+// The two early returns are what a dummy head would have handled for
+// free, that is the only price of this version.
