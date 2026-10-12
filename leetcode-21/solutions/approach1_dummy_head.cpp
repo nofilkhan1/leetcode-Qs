@@ -59,3 +59,4 @@ public:
 //     else               tail->next = list2;
 // Space is constant: dummy and tail are two locals on the stack.
 // Time is exactly n + m node visits, one visit per node of the result.
+// The judge owns the nodes, so nothing attached here is ever deleted.
