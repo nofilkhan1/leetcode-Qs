@@ -70,3 +70,7 @@ public:
 // version does.
 // Picking the first node inside the loop instead needs a boolean such
 // as "is this the first attachment", which is strictly worse.
+// Dry run of [1] against [2]:
+//     head = tail = 1   (list1 wins the first comparison)
+//     loop attaches 2   ->  1 -> 2
+//     return head, which is still the node 1
