@@ -76,3 +76,10 @@ Twenty cases to run against every approach before submitting.
     list1 = [1000000000]
     list2 = [999999999, 1000000001]
     output = [999999999, 1000000000, 1000000001]
+## 16. Stability check
+
+Equal values must come out in the order list1 first, then list2:
+
+    list1 = [1a, 2]
+    list2 = [1b, 3]
+    output = [1a, 1b, 2, 3]
