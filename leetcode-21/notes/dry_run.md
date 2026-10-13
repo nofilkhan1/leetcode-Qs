@@ -69,3 +69,8 @@ is left, and if both lists are empty it attaches NULL.
     2 < 5, list2 wins again. Result: 1 2.
     list2 is empty, attach list1 which still holds 5.
     Final result: 1 -> 2 -> 5.
+## Reading the same trace in the no dummy head version
+
+The only difference is the first block: instead of a dummy node, `head`
+and `tail` are both set to the winner of the first comparison. From
+step 2 onwards the trace is identical.
