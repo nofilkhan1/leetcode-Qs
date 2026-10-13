@@ -64,3 +64,7 @@ and one list exhausted immediately.
 
 Pairwise merging in a divide and conquer loop, or a priority queue over
 the k heads. Both run in O(N log k).
+## Follow-up: sort a linked list (148)
+
+Bottom up merge sort calls this merge as its inner step, which is why
+merge sort is the right sorting algorithm for linked lists.
