@@ -35,3 +35,8 @@ just attached.
 
 Without it the next `tail->next = ...` overwrites the node just attached
 and the list collapses into a cycle.
+## Lines 51 to 54: attaching what is left
+
+The loop stops as soon as one list runs out. The other list is already
+sorted and already linked, so a single pointer assignment appends all of
+it.
