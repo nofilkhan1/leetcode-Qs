@@ -62,3 +62,5 @@ public:
 // The judge owns the nodes, so nothing attached here is ever deleted.
 // Edge case, both lists empty: the loop never runs, the ternary writes
 // NULL into dummy.next and the function returns NULL.
+// Edge case, one list empty: the loop merges the whole other list and
+// the ternary appends nothing new.
