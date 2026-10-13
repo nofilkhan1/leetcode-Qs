@@ -60,3 +60,5 @@ public:
 // Space is constant: dummy and tail are two locals on the stack.
 // Time is exactly n + m node visits, one visit per node of the result.
 // The judge owns the nodes, so nothing attached here is ever deleted.
+// Edge case, both lists empty: the loop never runs, the ternary writes
+// NULL into dummy.next and the function returns NULL.
