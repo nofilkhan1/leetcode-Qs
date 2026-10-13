@@ -74,3 +74,9 @@ merge sort is the right sorting algorithm for linked lists.
 - 88 - merge sorted array
 - 148 - sort list
 - 315 - count of smaller numbers after self
+## What to say out loud before you submit
+
+- Why the merge is stable.
+- Why no node is allocated.
+- What happens when one of the lists is empty.
+- How the k list follow-up changes the complexity.
