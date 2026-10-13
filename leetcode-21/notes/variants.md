@@ -33,3 +33,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     the same loop skeleton as this merge.
 16. **Swap nodes in pairs (24)** - two pointers advancing by two, another
     exercise in rewiring `next`.
+17. **Reverse nodes in k groups (25)** - reverse each block, then stitch
+    the blocks together the way this merge stitches nodes.
