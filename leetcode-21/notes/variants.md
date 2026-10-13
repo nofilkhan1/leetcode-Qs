@@ -31,3 +31,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     overlapping ranges. The loop shape is the same.
 15. **Add two numbers (2)** - two pointers over two lists with a carry,
     the same loop skeleton as this merge.
+16. **Swap nodes in pairs (24)** - two pointers advancing by two, another
+    exercise in rewiring `next`.
