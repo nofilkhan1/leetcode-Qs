@@ -57,3 +57,5 @@ public:
 // problem statement almost word for word.
 // It is also the easiest one to argue for by induction: assume the
 // merge is correct for n + m - 1 nodes, then one step is enough.
+// Use the recursive version when explaining the idea, the iterative
+// ones when submitting.
