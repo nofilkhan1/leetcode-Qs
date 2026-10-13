@@ -89,3 +89,7 @@ first, so equal values keep the order they had in the input lists.
 The Visual Studio project builds the exact submission code. Take any
 case from `tests/test_cases.md`, build the two lists in a small `main`
 and print the merged list.
+## Follow-up: merge k sorted lists
+
+Repeat the same idea over k heads with a priority queue, or merge the
+lists pairwise in a divide and conquer loop. Both run in O(N log k).
