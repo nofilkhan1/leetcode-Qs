@@ -68,3 +68,9 @@ the k heads. Both run in O(N log k).
 
 Bottom up merge sort calls this merge as its inner step, which is why
 merge sort is the right sorting algorithm for linked lists.
+## Related problems worth doing next
+
+- 23 - merge k sorted lists
+- 88 - merge sorted array
+- 148 - sort list
+- 315 - count of smaller numbers after self
