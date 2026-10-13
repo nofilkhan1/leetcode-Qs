@@ -29,3 +29,5 @@ Twenty mistakes that show up when merging two sorted lists.
     work for any interleaving.
 14. Reversing the comparison and comparing `tail->val` instead of the
     two current node values.
+15. Using a dummy node but returning it without advancing, so the first
+    real node is never part of the result.
