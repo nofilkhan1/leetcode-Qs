@@ -29,3 +29,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     comparison idea carries over even though the data structure does not.
 14. **Merge sorted intervals (56)** - sort by start, then sweep and merge
     overlapping ranges. The loop shape is the same.
+15. **Add two numbers (2)** - two pointers over two lists with a carry,
+    the same loop skeleton as this merge.
