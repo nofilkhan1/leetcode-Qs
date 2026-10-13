@@ -55,3 +55,5 @@ public:
 // dereference the first time an empty list shows up.
 // The recursive form is the shortest of the three and mirrors the
 // problem statement almost word for word.
+// It is also the easiest one to argue for by induction: assume the
+// merge is correct for n + m - 1 nodes, then one step is enough.
