@@ -93,3 +93,7 @@ and print the merged list.
 
 Repeat the same idea over k heads with a priority queue, or merge the
 lists pairwise in a divide and conquer loop. Both run in O(N log k).
+## Follow-up: sort a linked list
+
+Bottom up merge sort calls this exact merge as its inner step, which is
+why merge sort is the sorting algorithm of choice for linked lists.
