@@ -83,3 +83,7 @@ Equal values must come out in the order list1 first, then list2:
     list1 = [1a, 2]
     list2 = [1b, 3]
     output = [1a, 1b, 2, 3]
+## 17. Length 1 against length 50
+
+Build a fifty node list starting at 10 and merge a single node at 5.
+The single node has to land in the middle of the result.
