@@ -84,3 +84,8 @@ first, so equal values keep the order they had in the input lists.
 - Forgetting `tail = tail->next` and building a self loop.
 - Detaching a node before saving what it pointed at.
 - Recursive version missing an empty list base case.
+## Testing it locally
+
+The Visual Studio project builds the exact submission code. Take any
+case from `tests/test_cases.md`, build the two lists in a small `main`
+and print the merged list.
