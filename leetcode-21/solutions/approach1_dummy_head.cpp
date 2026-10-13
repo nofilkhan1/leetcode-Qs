@@ -64,3 +64,5 @@ public:
 // NULL into dummy.next and the function returns NULL.
 // Edge case, one list empty: the loop merges the whole other list and
 // the ternary appends nothing new.
+// This routine is also the base step of bottom up merge sort on linked
+// lists, which is problem 148.
