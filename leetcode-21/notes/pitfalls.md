@@ -31,3 +31,5 @@ Twenty mistakes that show up when merging two sorted lists.
     two current node values.
 15. Using a dummy node but returning it without advancing, so the first
     real node is never part of the result.
+16. Setting `tail` to the dummy but never moving it, which builds a list
+    that only ever holds one node.
