@@ -74,3 +74,8 @@ is left, and if both lists are empty it attaches NULL.
 The only difference is the first block: instead of a dummy node, `head`
 and `tail` are both set to the winner of the first comparison. From
 step 2 onwards the trace is identical.
+## Reading the same trace recursively
+
+The recursion unwinds from the last node backwards: it keeps taking the
+smaller head until one list is empty, then the base case returns the
+other list and every frame attaches one node on the way back up.
