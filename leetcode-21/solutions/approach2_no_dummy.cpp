@@ -68,3 +68,5 @@ public:
 // already part of the result, head is the first of those nodes.
 // The <= comparison keeps the merge stable, exactly like the dummy head
 // version does.
+// Picking the first node inside the loop instead needs a boolean such
+// as "is this the first attachment", which is strictly worse.
