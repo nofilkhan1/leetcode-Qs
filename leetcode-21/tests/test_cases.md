@@ -71,3 +71,8 @@ Twenty cases to run against every approach before submitting.
     list1 = [-3, -1, 0]
     list2 = [-2, 0, 2]
     output = [-3, -2, -1, 0, 0, 2]
+## 15. Large values
+
+    list1 = [1000000000]
+    list2 = [999999999, 1000000001]
+    output = [999999999, 1000000000, 1000000001]
