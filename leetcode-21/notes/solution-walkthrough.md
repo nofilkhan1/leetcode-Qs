@@ -40,3 +40,7 @@ and the list collapses into a cycle.
 The loop stops as soon as one list runs out. The other list is already
 sorted and already linked, so a single pointer assignment appends all of
 it.
+## Line 56: return head
+
+`head` never moved after it was set, so it is still the first node of
+the merged list. Returning `tail` here would hand back a one node list.
