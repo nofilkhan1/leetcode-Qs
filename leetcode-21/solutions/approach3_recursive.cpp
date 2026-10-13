@@ -53,3 +53,5 @@ public:
 // ignoring its return value, which orphans the rest of the list.
 // Another one is missing a base case, which turns into a null
 // dereference the first time an empty list shows up.
+// The recursive form is the shortest of the three and mirrors the
+// problem statement almost word for word.
