@@ -44,3 +44,8 @@ it.
 
 `head` never moved after it was set, so it is still the first node of
 the merged list. Returning `tail` here would hand back a one node list.
+## Why `<=` rather than `<`
+
+With `<` the tie would go to `list2` and the merge would stop being
+stable. The judge accepts both, but `<=` keeps the original relative
+order of equal values.
