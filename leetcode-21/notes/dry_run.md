@@ -79,3 +79,8 @@ step 2 onwards the trace is identical.
 The recursion unwinds from the last node backwards: it keeps taking the
 smaller head until one list is empty, then the base case returns the
 other list and every frame attaches one node on the way back up.
+## Tracing by hand, the practical way
+
+Draw two columns for the two lists and one row for the result. Cross
+out a value the moment its node is attached, and write the value of
+`tail` next to the row.
