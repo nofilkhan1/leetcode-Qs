@@ -37,3 +37,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     the blocks together the way this merge stitches nodes.
 18. **Partition list (86)** - one pass with two tails, one for the small
     side and one for the large side, then join them.
+19. **Odd even linked list (321)** - two lists built in one pass and then
+    concatenated, which is a degenerate merge.
