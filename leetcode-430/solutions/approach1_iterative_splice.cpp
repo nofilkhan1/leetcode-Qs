@@ -47,3 +47,13 @@ public:
                     temp->next = nextNode;
                     nextNode->prev = temp;
                 }
+            }
+
+            // Step into the next node, which is now the first node of
+            // whatever was spliced in.
+            curr = curr->next;
+        }
+
+        return head;
+    }
+};
