@@ -66,3 +66,5 @@ public:
 // the ternary appends nothing new.
 // This routine is also the base step of bottom up merge sort on linked
 // lists, which is problem 148.
+// Compare with approach2_no_dummy.cpp: identical logic, the only
+// difference is who owns the first node.
