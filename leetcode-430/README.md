@@ -29,3 +29,16 @@ next node 4.
 
 The splice version pulls a whole child chain up in one step. The stack
 version splices one node at a time and never walks a chain twice.
+## Order rule
+
+Every node must come out as: the node itself, then its child list, then
+the nodes that used to follow it. Both approaches keep that order, the
+stack version by pushing `next` before `child`.
+
+## Edge cases
+
+- Empty list, return `NULL`.
+- A child list that holds a single node.
+- A child on the last node, so there is no `next` to reattach.
+- Nesting three or more levels deep.
+- Every `child` pointer already `NULL`.
