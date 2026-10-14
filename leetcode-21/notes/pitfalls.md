@@ -39,3 +39,5 @@ Twenty mistakes that show up when merging two sorted lists.
     not have the same length.
 19. Merging in place and then also trying to free or reset the inputs,
     which corrupts the result.
+20. Not testing the empty list case at all, because it "cannot really
+    happen" in an interview either.
