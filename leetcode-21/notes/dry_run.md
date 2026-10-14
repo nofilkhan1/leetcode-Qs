@@ -96,3 +96,9 @@ A missing tail advance shows up as a cycle on the fourth step, a lost
 remainder shows up as a result that is too short, and an inverted
 comparison shows up as a row that is not sorted. None of the three is
 obvious from reading the function once.
+## What to verify at the end of a dry run
+
+- The result is sorted.
+- Every input value appears exactly once.
+- The traversal terminates.
+- No node was attached twice.
