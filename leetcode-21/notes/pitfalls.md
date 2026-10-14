@@ -35,3 +35,5 @@ Twenty mistakes that show up when merging two sorted lists.
     that only ever holds one node.
 17. Checking `list1->next != NULL` instead of `list1 != NULL`, which
     skips the last node of a list.
+18. Writing the loop as a for loop with a fixed length. The two lists do
+    not have the same length.
