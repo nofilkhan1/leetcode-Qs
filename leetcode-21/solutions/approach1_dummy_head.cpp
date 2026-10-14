@@ -68,3 +68,5 @@ public:
 // lists, which is problem 148.
 // Compare with approach2_no_dummy.cpp: identical logic, the only
 // difference is who owns the first node.
+// Compare with approach3_recursive.cpp: the same decision, but the call
+// stack plays the role of the tail pointer.
