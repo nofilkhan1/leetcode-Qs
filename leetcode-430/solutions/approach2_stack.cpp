@@ -48,3 +48,11 @@ public:
 
             curr = curr->next;
         }
+        return head;
+    }
+};
+
+// Push next before child: the stack is LIFO and the child list has to
+// come before the parked next list in the flattened order.
+//
+// Worst case space is the deepest nesting level, one entry per level.
