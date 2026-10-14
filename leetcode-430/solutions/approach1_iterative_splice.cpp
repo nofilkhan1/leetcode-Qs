@@ -26,3 +26,11 @@ public:
                 // where the child chain starts.
                 Node* nextNode = curr->next;
                 Node* childHead = curr->child;
+                // Find the tail of the child list. The splice needs
+                // both ends: the head to attach to curr, the tail to
+                // reattach the saved next to.
+                Node* temp = childHead;
+
+                while (temp->next != NULL) {
+                    temp = temp->next;
+                }
