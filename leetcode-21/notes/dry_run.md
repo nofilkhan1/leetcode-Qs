@@ -84,3 +84,9 @@ other list and every frame attaches one node on the way back up.
 Draw two columns for the two lists and one row for the result. Cross
 out a value the moment its node is attached, and write the value of
 `tail` next to the row.
+## Fourth run - two nodes against an empty list
+
+    list1 = [7, 8]   list2 = []
+    The loop condition fails on the first check.
+    tail->next = NULL, so the remainder attach writes nothing.
+    The result is 7 -> 8, the input list returned untouched.
