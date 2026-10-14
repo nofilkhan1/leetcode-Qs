@@ -78,3 +78,5 @@ public:
 // comments so the two files can be diffed side by side.
 // Complexity: one first comparison plus n + m - 1 loop steps is
 // O(n + m) time, and only head and tail live on the stack.
+// Summary: handle the empty lists, pick the first node by hand, then
+// merge the rest with a tail pointer and attach what is left over.
