@@ -76,3 +76,5 @@ public:
 //     return head, which is still the node 1
 // This is the version that ships in problem no 21.cpp, kept here with
 // comments so the two files can be diffed side by side.
+// Complexity: one first comparison plus n + m - 1 loop steps is
+// O(n + m) time, and only head and tail live on the stack.
