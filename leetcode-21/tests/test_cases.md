@@ -99,3 +99,7 @@ Catches an implementation that assumes one list is always behind.
     list1 = [2, 2, 2, 2]
     list2 = [1, 3]
     output = [1, 2, 2, 2, 2, 3]
+## 20. Stress, fifty against fifty
+
+Two fifty node lists with values 1, 3, 5, ... and 2, 4, 6, ... The
+result must be exactly the interleaving and the traversal must end.
