@@ -37,3 +37,5 @@ Twenty mistakes that show up when merging two sorted lists.
     skips the last node of a list.
 18. Writing the loop as a for loop with a fixed length. The two lists do
     not have the same length.
+19. Merging in place and then also trying to free or reset the inputs,
+    which corrupts the result.
