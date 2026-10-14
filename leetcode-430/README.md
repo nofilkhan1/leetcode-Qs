@@ -20,3 +20,12 @@ must be `NULL` afterwards.
 
 The child list of node 3 comes right after node 3 and before the old
 next node 4.
+## Two approaches
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Iterative splice | O(n) on flat lists, O(n * depth) worst case | O(1) |
+| Explicit stack | O(n) | O(depth) |
+
+The splice version pulls a whole child chain up in one step. The stack
+version splices one node at a time and never walks a chain twice.
