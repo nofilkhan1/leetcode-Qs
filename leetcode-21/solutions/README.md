@@ -80,3 +80,8 @@ merge sort is the right sorting algorithm for linked lists.
 - Why no node is allocated.
 - What happens when one of the lists is empty.
 - How the k list follow-up changes the complexity.
+## One line per approach
+
+- Dummy head: attach the smaller node, return `dummy.next`.
+- No dummy head: pick the first node by hand, then merge.
+- Recursive: take the smaller head and recurse on the remainders.
