@@ -34,3 +34,16 @@ public:
                 while (temp->next != NULL) {
                     temp = temp->next;
                 }
+                // Connect current with child. Clearing the child
+                // pointer is what stops the same list being spliced
+                // in a second time.
+                curr->next = childHead;
+                childHead->prev = curr;
+                curr->child = NULL;
+
+                // Connect the child tail with the old next, if the
+                // list had one.
+                if (nextNode != NULL) {
+                    temp->next = nextNode;
+                    nextNode->prev = temp;
+                }
