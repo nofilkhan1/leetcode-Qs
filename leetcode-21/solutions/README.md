@@ -91,3 +91,8 @@ merge sort is the right sorting algorithm for linked lists.
 2. Rewrite `../problem no 21.cpp` from memory.
 3. Explain the recursive version to someone else.
 4. Then move on to problem 23.
+## What each file answers
+
+- `approach1_dummy_head.cpp` - how do I avoid the edge cases?
+- `approach2_no_dummy.cpp` - what is the minimum code needed?
+- `approach3_recursive.cpp` - how would I describe it in one sentence?
