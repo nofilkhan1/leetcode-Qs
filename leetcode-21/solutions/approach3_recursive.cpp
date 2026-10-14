@@ -61,3 +61,5 @@ public:
 // ones when submitting.
 // Converting it to an explicit stack is rarely worth it, the iterative
 // merge is already simpler than a hand rolled stack.
+// The same idea generalises to k lists with a priority queue, where the
+// recursion is replaced by a heap holding the k current heads.
