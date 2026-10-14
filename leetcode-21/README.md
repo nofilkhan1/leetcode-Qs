@@ -102,3 +102,10 @@ why merge sort is the sorting algorithm of choice for linked lists.
 - Interview: the dummy head version, one loop and no edge cases.
 - Minimal nodes: the no dummy head version.
 - Teaching: the recursive version, it mirrors the statement.
+## Files in this folder
+
+    leetcode-21/
+    |-- problem no 21.cpp        Visual Studio project, no dummy head
+    |-- solutions/               dummy head, no dummy head, recursive
+    |-- tests/test_cases.md      twenty cases
+    |-- notes/                   dry run, pitfalls, variants
