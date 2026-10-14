@@ -54,3 +54,10 @@ order of equal values.
 No dummy node is created, no memory is allocated, and the input pointers
 are not saved anywhere else. After the call, `list1` and `list2` point
 into the merged list and must not be reused.
+## Checking it by hand
+
+1. Pick two short lists.
+2. Write the values of `list1`, `list2`, `head` and `tail` after every
+   line of the loop.
+3. Confirm the loop ends when one list is empty.
+4. Confirm the leftover list is attached exactly once.
