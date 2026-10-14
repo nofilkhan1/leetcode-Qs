@@ -90,3 +90,9 @@ out a value the moment its node is attached, and write the value of
     The loop condition fails on the first check.
     tail->next = NULL, so the remainder attach writes nothing.
     The result is 7 -> 8, the input list returned untouched.
+## What a dry run catches that a glance does not
+
+A missing tail advance shows up as a cycle on the fourth step, a lost
+remainder shows up as a result that is too short, and an inverted
+comparison shows up as a row that is not sorted. None of the three is
+obvious from reading the function once.
