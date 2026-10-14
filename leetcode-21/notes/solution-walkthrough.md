@@ -49,3 +49,8 @@ the merged list. Returning `tail` here would hand back a one node list.
 With `<` the tie would go to `list2` and the merge would stop being
 stable. The judge accepts both, but `<=` keeps the original relative
 order of equal values.
+## What this version deliberately does not do
+
+No dummy node is created, no memory is allocated, and the input pointers
+are not saved anywhere else. After the call, `list1` and `list2` point
+into the merged list and must not be reused.
