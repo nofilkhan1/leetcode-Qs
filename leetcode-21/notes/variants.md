@@ -35,3 +35,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     exercise in rewiring `next`.
 17. **Reverse nodes in k groups (25)** - reverse each block, then stitch
     the blocks together the way this merge stitches nodes.
+18. **Partition list (86)** - one pass with two tails, one for the small
+    side and one for the large side, then join them.
