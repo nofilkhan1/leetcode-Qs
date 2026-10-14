@@ -39,3 +39,5 @@ Twenty problems and follow-ups that reuse this exact merge.
     side and one for the large side, then join them.
 19. **Odd even linked list (321)** - two lists built in one pass and then
     concatenated, which is a degenerate merge.
+20. **Merge k sorted arrays** - heap of size k over the current heads of
+    the arrays, the array version of problem 23.
