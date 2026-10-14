@@ -11,3 +11,16 @@
 //     Node* next;
 //     Node* child;
 // };
+#include <stack>
+using namespace std;
+
+class Solution {
+public:
+    Node* flatten(Node* head)
+    {
+        if (head == NULL) {
+            return NULL;
+        }
+
+        stack<Node*> pending;
+        Node* curr = head;
