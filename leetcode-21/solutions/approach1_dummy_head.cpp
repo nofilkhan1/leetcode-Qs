@@ -70,3 +70,5 @@ public:
 // difference is who owns the first node.
 // Compare with approach3_recursive.cpp: the same decision, but the call
 // stack plays the role of the tail pointer.
+// Summary: create a dummy, keep a tail, always advance the pointer you
+// just attached, and return dummy.next.
