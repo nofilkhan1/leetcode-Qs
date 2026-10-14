@@ -24,3 +24,27 @@ public:
 
         stack<Node*> pending;
         Node* curr = head;
+        while (curr != NULL) {
+
+            if (curr->child != NULL) {
+
+                // Anything to the right of curr waits on the stack.
+                if (curr->next != NULL) {
+                    pending.push(curr->next);
+                }
+
+                // The child chain is processed right after curr.
+                curr->next = curr->child;
+                curr->child->prev = curr;
+                curr->child = NULL;
+            }
+            else if (curr->next == NULL && !pending.empty()) {
+
+                // Dead end, pick up the most recently parked branch.
+                curr->next = pending.top();
+                pending.top()->prev = curr;
+                pending.pop();
+            }
+
+            curr = curr->next;
+        }
