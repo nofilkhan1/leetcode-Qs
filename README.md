@@ -9,6 +9,7 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Dummy head, no dummy head, recursion |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | Interleaving (O(1) space) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Three pointers / recursion |
+| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | Iterative splice / stack |
 
 ## Folder layout
 
@@ -27,12 +28,17 @@ Solutions to LeetCode problems written in C++, one folder per problem.
     |   |-- solutions/               alternative approaches
     |   |-- notes/                   dry runs and pitfalls
     |   `-- tests/                   test cases
-    `-- leetcode-206/
-        |-- README.md
-        |-- ConsoleApplication1/     Visual Studio solution
-        |-- solutions/
-        |-- notes/
-        `-- tests/
+    |-- leetcode-206/
+    |   |-- README.md
+    |   |-- ConsoleApplication1/     Visual Studio solution
+    |   |-- solutions/
+    |   |-- notes/
+    |   `-- tests/
+    `-- leetcode-430/
+        |-- problem no 430.cpp       Visual Studio project, iterative splice
+        |-- solutions/               splice and stack
+        |-- tests/test_cases.md      nine cases
+        `-- notes/                   dry run, pitfalls, walkthrough
 
 ## Building a Visual Studio solution
 
@@ -53,6 +59,9 @@ Solutions to LeetCode problems written in C++, one folder per problem.
   space.
 - **Reverse linked list** - three pointers walking forwards, or a
   recursive unwind that flips one node per frame.
+- **Flatten a multilevel doubly linked list** - pull every child chain up
+  to sit right after its parent and clear the child pointer, or park the
+  interrupted next on a stack and splice one node at a time.
 
 ## Complexity cheat sheet
 
@@ -64,10 +73,13 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 | 138 (hash map) | O(n) | O(n) |
 | 206 (iterative) | O(n) | O(1) |
 | 206 (recursive) | O(n) | O(n) |
+| 430 (splice) | O(n) flat, O(n * depth) nested | O(1) |
+| 430 (stack) | O(n) | O(depth) |
 
 ## Progress
 
 - [x] 21 - Merge Two Sorted Lists
 - [x] 138 - Copy List with Random Pointer
 - [x] 206 - Reverse Linked List
+- [x] 430 - Flatten a Multilevel Doubly Linked List
 - [ ] more problems coming soon
