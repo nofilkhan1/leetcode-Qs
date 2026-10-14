@@ -87,3 +87,10 @@ Equal values must come out in the order list1 first, then list2:
 
 Build a fifty node list starting at 10 and merge a single node at 5.
 The single node has to land in the middle of the result.
+## 18. Already merged order
+
+    list1 = [1, 3, 5]
+    list2 = [2, 4, 6]
+    output = [1, 2, 3, 4, 5, 6]
+
+Catches an implementation that assumes one list is always behind.
