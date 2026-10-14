@@ -74,3 +74,5 @@ public:
 //     head = tail = 1   (list1 wins the first comparison)
 //     loop attaches 2   ->  1 -> 2
 //     return head, which is still the node 1
+// This is the version that ships in problem no 21.cpp, kept here with
+// comments so the two files can be diffed side by side.
