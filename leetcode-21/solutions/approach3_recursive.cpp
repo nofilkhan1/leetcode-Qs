@@ -63,3 +63,5 @@ public:
 // merge is already simpler than a hand rolled stack.
 // The same idea generalises to k lists with a priority queue, where the
 // recursion is replaced by a heap holding the k current heads.
+// Summary: base case on the empty lists, take the smaller head, and let
+// the recursive call build the rest of the merged list.
