@@ -94,3 +94,8 @@ The single node has to land in the middle of the result.
     output = [1, 2, 3, 4, 5, 6]
 
 Catches an implementation that assumes one list is always behind.
+## 19. Mixed run lengths
+
+    list1 = [2, 2, 2, 2]
+    list2 = [1, 3]
+    output = [1, 2, 2, 2, 2, 3]
