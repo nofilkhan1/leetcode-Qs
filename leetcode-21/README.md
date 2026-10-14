@@ -97,3 +97,8 @@ lists pairwise in a divide and conquer loop. Both run in O(N log k).
 
 Bottom up merge sort calls this exact merge as its inner step, which is
 why merge sort is the sorting algorithm of choice for linked lists.
+## Which version should you write?
+
+- Interview: the dummy head version, one loop and no edge cases.
+- Minimal nodes: the no dummy head version.
+- Teaching: the recursive version, it mirrors the statement.
