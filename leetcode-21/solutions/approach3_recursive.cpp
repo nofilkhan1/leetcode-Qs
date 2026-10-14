@@ -59,3 +59,5 @@ public:
 // merge is correct for n + m - 1 nodes, then one step is enough.
 // Use the recursive version when explaining the idea, the iterative
 // ones when submitting.
+// Converting it to an explicit stack is rarely worth it, the iterative
+// merge is already simpler than a hand rolled stack.
