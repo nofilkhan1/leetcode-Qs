@@ -109,3 +109,9 @@ why merge sort is the sorting algorithm of choice for linked lists.
     |-- solutions/               dummy head, no dummy head, recursive
     |-- tests/test_cases.md      twenty cases
     |-- notes/                   dry run, pitfalls, variants
+## Before you move on
+
+- [ ] Implement the dummy head version without notes
+- [ ] Implement the no dummy head version without notes
+- [ ] Explain out loud why the merge is stable
+- [ ] Use this merge as the base step of problems 23 and 148
