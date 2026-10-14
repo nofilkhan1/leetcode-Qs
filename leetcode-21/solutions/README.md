@@ -85,3 +85,9 @@ merge sort is the right sorting algorithm for linked lists.
 - Dummy head: attach the smaller node, return `dummy.next`.
 - No dummy head: pick the first node by hand, then merge.
 - Recursive: take the smaller head and recurse on the remainders.
+## Recommended path through this folder
+
+1. Read `approach1_dummy_head.cpp` until you can rewrite it.
+2. Rewrite `../problem no 21.cpp` from memory.
+3. Explain the recursive version to someone else.
+4. Then move on to problem 23.
