@@ -30,3 +30,13 @@ class Solution {
 
         return ok;
     }
+public:
+    bool isPalindrome(ListNode* head)
+    {
+        front = head;
+        return recurse(head);
+    }
+};
+
+// Cost: O(n) time and O(n) call stack. For very long lists the
+// iterative version is the safer one, it never runs out of stack.
