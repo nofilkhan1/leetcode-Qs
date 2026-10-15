@@ -11,3 +11,12 @@
 //     ListNode(int x) : val(x), next(nullptr) {}
 //     ListNode(int x, ListNode *next) : val(x), next(next) {}
 // };
+class Solution {
+    // front sits on the next node of the first half to compare.
+    ListNode* front;
+
+    bool recurse(ListNode* node)
+    {
+        // Base case: reached the end of the list.
+        if (node == NULL)
+            return true;
