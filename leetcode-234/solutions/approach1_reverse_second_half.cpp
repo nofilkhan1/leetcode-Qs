@@ -24,3 +24,16 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
+        // Reverse the second half in place, the usual three pointer
+        // walk: prev trails behind, curr walks, nextNode saves the way
+        // forward before the link is flipped.
+        ListNode* prev = NULL;
+        ListNode* curr = slow;
+
+        while (curr != NULL)
+        {
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
