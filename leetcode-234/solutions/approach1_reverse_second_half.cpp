@@ -50,3 +50,7 @@ public:
             first = first->next;
             second = second->next;
         }
+        // Every pair matched.
+        return true;
+    }
+};
