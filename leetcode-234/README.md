@@ -15,3 +15,13 @@ well.
     [1, 2, 3, 2, 1]  -> true
     [1, 2]  -> false
     []  -> true
+## Approaches
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Reverse the second half | O(n) | O(1) |
+| Recursive compare | O(n) | O(n) call stack |
+| Copy to an array | O(n) | O(n) |
+
+The Visual Studio project uses the reverse second half version, which is
+the one that satisfies the follow-up.
