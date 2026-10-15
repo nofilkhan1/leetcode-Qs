@@ -37,3 +37,16 @@ public:
             prev = curr;
             curr = nextNode;
         }
+        // first walks the original front half, second walks the
+        // reversed back half. For an odd length list the middle node
+        // is compared against itself, which always matches.
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while (second != NULL) {
+            if (first->val != second->val)
+                return false;
+
+            first = first->next;
+            second = second->next;
+        }
