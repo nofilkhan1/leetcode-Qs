@@ -20,3 +20,13 @@ class Solution {
         // Base case: reached the end of the list.
         if (node == NULL)
             return true;
+        // Compare on the way back up, once the rest of the list has
+        // been visited. The && short circuits, so a mismatch stops the
+        // remaining comparisons.
+        bool ok = recurse(node->next) && (front->val == node->val);
+
+        // One step forward in the first half.
+        front = front->next;
+
+        return ok;
+    }
