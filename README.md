@@ -9,6 +9,7 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Dummy head, no dummy head, recursion |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | Interleaving (O(1) space) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Three pointers / recursion |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | Reverse the second half / recursion |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | Medium | Iterative splice / stack |
 
 ## Folder layout
@@ -34,6 +35,11 @@ Solutions to LeetCode problems written in C++, one folder per problem.
     |   |-- solutions/
     |   |-- notes/
     |   `-- tests/
+    |-- leetcode-234/
+    |   |-- prob no 234.cpp          Visual Studio project, reverse second half
+    |   |-- solutions/               reverse second half, recursive
+    |   |-- tests/test_cases.md      nine cases
+    |   `-- notes/                   dry run, pitfalls, walkthrough
     `-- leetcode-430/
         |-- problem no 430.cpp       Visual Studio project, iterative splice
         |-- solutions/               splice and stack
@@ -59,6 +65,10 @@ Solutions to LeetCode problems written in C++, one folder per problem.
   space.
 - **Reverse linked list** - three pointers walking forwards, or a
   recursive unwind that flips one node per frame.
+- **Palindrome linked list** - find the middle with slow and fast
+  pointers, reverse the second half in place, then compare the two
+  halves. The recursive form delivers the second half backwards through
+  the call stack instead.
 - **Flatten a multilevel doubly linked list** - pull every child chain up
   to sit right after its parent and clear the child pointer, or park the
   interrupted next on a stack and splice one node at a time.
@@ -73,6 +83,8 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 | 138 (hash map) | O(n) | O(n) |
 | 206 (iterative) | O(n) | O(1) |
 | 206 (recursive) | O(n) | O(n) |
+| 234 (reverse second half) | O(n) | O(1) |
+| 234 (recursive) | O(n) | O(n) |
 | 430 (splice) | O(n) flat, O(n * depth) nested | O(1) |
 | 430 (stack) | O(n) | O(depth) |
 
@@ -81,5 +93,6 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 - [x] 21 - Merge Two Sorted Lists
 - [x] 138 - Copy List with Random Pointer
 - [x] 206 - Reverse Linked List
+- [x] 234 - Palindrome Linked List
 - [x] 430 - Flatten a Multilevel Doubly Linked List
 - [ ] more problems coming soon
