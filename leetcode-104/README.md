@@ -22,3 +22,14 @@ leaf.
 
 The Visual Studio project uses the recursive version, which is the
 shortest one and directly mirrors the definition of depth.
+## How the recursion computes depth
+
+    depth(empty)  = 0
+    depth(node)   = 1 + max(depth(left), depth(right))
+
+Worked out on [3, 9, 20, null, null, 15, 7]:
+
+    depth(9)  = 1  (leaf)
+    depth(15) = 1, depth(7) = 1
+    depth(20) = 1 + max(1, 1) = 2
+    depth(3)  = 1 + max(1, 2) = 3
