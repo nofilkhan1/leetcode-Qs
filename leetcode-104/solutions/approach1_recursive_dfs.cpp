@@ -22,3 +22,5 @@ public:
 
         // Depth of the left subtree.
         int leftHeight = maxDepth(root->left);
+        // Depth of the right subtree.
+        int rightHeight = maxDepth(root->right);
