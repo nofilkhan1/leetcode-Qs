@@ -24,3 +24,10 @@ public:
         int leftHeight = maxDepth(root->left);
         // Depth of the right subtree.
         int rightHeight = maxDepth(root->right);
+        // The depth of this node is one more than the deeper child.
+        if (leftHeight > rightHeight)
+            return 1 + leftHeight;
+        else
+            return 1 + rightHeight;
+    }
+};
