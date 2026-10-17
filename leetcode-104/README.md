@@ -33,3 +33,17 @@ Worked out on [3, 9, 20, null, null, 15, 7]:
     depth(15) = 1, depth(7) = 1
     depth(20) = 1 + max(1, 1) = 2
     depth(3)  = 1 + max(1, 2) = 3
+## Edge cases
+
+- Empty tree, depth 0.
+- Single node, depth 1.
+- A chain skewed to the left or to the right, depth equals the node
+  count and the recursion stack reaches the same length.
+- Depth decided by one deep side while the other side is nearly flat.
+
+## Follow-ups
+
+- 111 Minimum Depth of Binary Tree, the same walk where the shallow
+  side counts and a node with only one child is not a leaf.
+- 102 / 107 Level order traversals, which the BFS version of this
+  problem already computes level by level.
