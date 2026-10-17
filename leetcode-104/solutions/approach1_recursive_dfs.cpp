@@ -31,3 +31,8 @@ public:
             return 1 + rightHeight;
     }
 };
+// The same comparison written shorter:
+//     return 1 + max(leftHeight, rightHeight);
+//
+// The function runs once per node, so the work is O(n), and the call
+// stack holds one frame per level of the tree.
