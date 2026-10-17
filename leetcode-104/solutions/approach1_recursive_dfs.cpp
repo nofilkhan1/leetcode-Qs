@@ -11,3 +11,14 @@
 //     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 //     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 // };
+class Solution {
+public:
+    int maxDepth(TreeNode* root) {
+
+        // An empty tree has depth 0. Every other node adds one level
+        // on top of its deepest child.
+        if (root == nullptr)
+            return 0;
+
+        // Depth of the left subtree.
+        int leftHeight = maxDepth(root->left);
