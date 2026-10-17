@@ -13,3 +13,12 @@ leaf.
     []  -> 0
     [1]  -> 1
     [1, null, 2]  -> 2
+## Approaches
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Recursive DFS | O(n) | O(h) call stack, h = height |
+| Iterative BFS | O(n) | O(width) queue, width = nodes on one level |
+
+The Visual Studio project uses the recursive version, which is the
+shortest one and directly mirrors the definition of depth.
