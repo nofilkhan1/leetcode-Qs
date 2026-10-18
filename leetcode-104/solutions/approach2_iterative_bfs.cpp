@@ -23,3 +23,26 @@ public:
         queue<TreeNode*> q;
         q.push(root);
         int depth = 0;
+        // One iteration per level: the queue holds exactly the nodes
+        // of the current level when the inner loop starts.
+        while (!q.empty()) {
+            int levelSize = q.size();
+
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+
+                if (node->left != nullptr) q.push(node->left);
+                if (node->right != nullptr) q.push(node->right);
+            }
+
+            depth++;
+        }
+
+        return depth;
+    }
+};
+
+// Depth is counted once per completed level, which is why the counter
+// moves outside the inner loop. Counting per node instead produces a
+// number with no relation to the tree height.
