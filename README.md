@@ -7,6 +7,7 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 | # | Problem | Difficulty | Approach |
 |---|---------|------------|----------|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Dummy head, no dummy head, recursion |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Recursive DFS / level order BFS |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | Interleaving (O(1) space) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Three pointers / recursion |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | Reverse the second half / recursion |
@@ -23,6 +24,11 @@ Solutions to LeetCode problems written in C++, one folder per problem.
     |   |-- solutions/               dummy head, no dummy head, recursive
     |   |-- tests/test_cases.md      twenty cases
     |   `-- notes/                   dry run, pitfalls, variants
+    |-- leetcode-104/
+    |   |-- problem no 104.cpp       Visual Studio project, recursive DFS
+    |   |-- solutions/               recursive DFS, level order BFS
+    |   |-- tests/test_cases.md      depth cases
+    |   `-- notes/                   dry run, pitfalls
     |-- leetcode-138/
     |   |-- README.md
     |   |-- ConsoleApplication1/     Visual Studio solution
@@ -59,6 +65,9 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 - **Merge two sorted lists** - attach the smaller node to a tail, either
   anchored by a dummy node or with the first node picked by hand. The
   recursive form takes the smaller head and recurses on the remainders.
+- **Maximum depth of binary tree** - ask both subtrees for their depth
+  and add one for the current node, or count finished levels in a
+  breadth first walk.
 - **Copy list with random pointer** - weave each clone node in right
   after its original so the `random` link can be copied with pointer
   arithmetic, then split the lists apart again. O(n) time, O(1) extra
@@ -79,6 +88,8 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 |---------|------|-------|
 | 21 (iterative) | O(n + m) | O(1) |
 | 21 (recursive) | O(n + m) | O(n + m) |
+| 104 (recursive) | O(n) | O(h) |
+| 104 (BFS) | O(n) | O(width) |
 | 138 (interleaving) | O(n) | O(1) |
 | 138 (hash map) | O(n) | O(n) |
 | 206 (iterative) | O(n) | O(1) |
@@ -91,6 +102,7 @@ Solutions to LeetCode problems written in C++, one folder per problem.
 ## Progress
 
 - [x] 21 - Merge Two Sorted Lists
+- [x] 104 - Maximum Depth of Binary Tree
 - [x] 138 - Copy List with Random Pointer
 - [x] 206 - Reverse Linked List
 - [x] 234 - Palindrome Linked List
