@@ -11,3 +11,15 @@
 //     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 //     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 // };
+#include <queue>
+using namespace std;
+
+class Solution {
+public:
+    int maxDepth(TreeNode* root) {
+        if (root == nullptr)
+            return 0;
+
+        queue<TreeNode*> q;
+        q.push(root);
+        int depth = 0;
